@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokkeer paaien nabij de doodslocatie",
+    "Sandbox_DeathZoneEnabled_tooltip": "Voorkomt dat een speler Spawn Selector gebruikt om terug te spawnen in de buurt van de plek waar zijn vorige personage stierf, waardoor het moeilijker wordt om verloren uitrusting onmiddellijk terug te winnen met een nieuw personage.",
+    "Sandbox_DeathZoneRadius": "Blokradius (tegels)",
+    "Sandbox_DeathZoneRadius_tooltip": "Hoe ver, in tegels, de no-spawn-zone zich uitstrekt rond de sterflocatie van een speler.",
+    "Sandbox_DeathZoneDurationHours": "Blokduur (echte uren)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Hoeveel uren in de echte wereld duurt het blok na de dood. Stel in op 0 om het gebied permanent te blokkeren.",
+    "Sandbox_AllowWeaponsMilitary": "Sta spawnen toe in wapen- en militaire gebouwen",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Wapenopslagplaatsen, schietbanen, opslagplaatsen voor legeroverschotten en andere militaire gebouwen. Haal het vinkje weg om te voorkomen dat Spawn Selector spelers hierin plaatst.",
+    "Sandbox_AllowMedical": "Sta paaien toe in medische gebouwen",
+    "Sandbox_AllowMedical_tooltip": "Ziekenhuizen, dokterspraktijken, tandartsen, apotheken, verpleeghuizen en laboratoria.",
+    "Sandbox_AllowLawEnforcement": "Sta paaien toe in wetshandhavingsgebouwen",
+    "Sandbox_AllowLawEnforcement_tooltip": "Politiebureaus, gevangenissen en brandweerkazernes.",
+    "Sandbox_AllowRetailShops": "Spawnen in winkels toestaan",
+    "Sandbox_AllowRetailShops_tooltip": "Algemene winkels, winkelcentra, kledingwinkels, elektronicawinkels, benzinestations en andere winkels.",
+    "Sandbox_AllowFoodDrink": "Spawning toestaan ​​in restaurants en bars",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurants, cafés, bars, bakkerijen en andere eet- en drinkgelegenheden.",
+    "Sandbox_AllowIndustrial": "Sta paaien toe in industriële gebouwen",
+    "Sandbox_AllowIndustrial_tooltip": "Fabrieken, magazijnen en opslagruimtes.",
+    "Sandbox_AllowResidentialLodging": "Sta paaien toe in huizen en accommodaties",
+    "Sandbox_AllowResidentialLodging_tooltip": "Huizen, motels, hotels en caravanparken.",
+    "Sandbox_AllowCivicPublic": "Sta spawnen toe in openbare en openbare gebouwen",
+    "Sandbox_AllowCivicPublic_tooltip": "Kerken, scholen, bibliotheken, kantoren en postkantoren.",
+    "Sandbox_AllowRecreation": "Sta paaien toe in recreatiegebouwen",
+    "Sandbox_AllowRecreation_tooltip": "Sportscholen, theaters, bowlingbanen, zwembaden en andere uitgaansgelegenheden.",
+    "Sandbox_GiveBuildingKey": "Geef de speler een sleutel tot zijn spawngebouw",
+    "Sandbox_GiveBuildingKey_tooltip": "Als het gebouw waarin een speler spawnt een slot heeft, geef hem dan automatisch een bijpassende sleutel, zodat hij niet in of uit zijn eigen startgebouw wordt opgesloten."
+    ,"Sandbox_ShowPOIs": "Nuttige locaties tonen"
+    ,"Sandbox_ShowPOIs_tooltip": "Toont gemarkeerde nuttige locaties op de kaart voor de keuze van de spawnlocatie. Schakel dit uit om de knop en alle markeringen voor spelers te verbergen."
+}

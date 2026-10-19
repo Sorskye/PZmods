@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "方塊生成瀕死地點",
+    "Sandbox_DeathZoneEnabled_tooltip": "阻止玩家使用 Spawn Selector 在上一個角色死亡的地方附近重生，從而使新角色更難立即取回丟失的裝備。",
+    "Sandbox_DeathZoneRadius": "塊半徑（圖塊）",
+    "Sandbox_DeathZoneRadius_tooltip": "無生成區圍繞玩家死亡位置延伸的距離（以圖塊為單位）。",
+    "Sandbox_DeathZoneDurationHours": "區塊持續時間（現實世界的時間）",
+    "Sandbox_DeathZoneDurationHours_tooltip": "死亡後區塊會在現實世界中持續多少小時。設定為 0 可永久封鎖該區域。",
+    "Sandbox_AllowWeaponsMilitary": "允許在武器和軍事建築中生成",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "槍械商店、射擊場、軍用物資商店和其他軍事建築。取消勾選可阻止 Spawn Selector 將玩家放置在其中。",
+    "Sandbox_AllowMedical": "允許在醫療建築中生成",
+    "Sandbox_AllowMedical_tooltip": "醫院、醫生辦公室、牙醫、藥局、療養院和實驗室。",
+    "Sandbox_AllowLawEnforcement": "允許在執法大樓內生成",
+    "Sandbox_AllowLawEnforcement_tooltip": "警察局、監獄和消防局。",
+    "Sandbox_AllowRetailShops": "允許在商店中生成",
+    "Sandbox_AllowRetailShops_tooltip": "綜合商店、商場、服飾店、電子產品商店、加油站及其他零售商店。",
+    "Sandbox_AllowFoodDrink": "允許在餐廳和酒吧產卵",
+    "Sandbox_AllowFoodDrink_tooltip": "餐廳、咖啡館、酒吧、麵包店和其他餐飲場所。",
+    "Sandbox_AllowIndustrial": "允許在工業建築中產卵",
+    "Sandbox_AllowIndustrial_tooltip": "工廠、倉庫和儲存單位。",
+    "Sandbox_AllowResidentialLodging": "允許在住宅和住宿處產卵",
+    "Sandbox_AllowResidentialLodging_tooltip": "房屋、汽車旅館、飯店和拖車公園。",
+    "Sandbox_AllowCivicPublic": "允許在民用和公共建築中產卵",
+    "Sandbox_AllowCivicPublic_tooltip": "教堂、學校、圖書館、辦公室和郵局。",
+    "Sandbox_AllowRecreation": "允許在休閒建築產卵",
+    "Sandbox_AllowRecreation_tooltip": "健身房、劇院、保齡球館、游泳池等娛樂場所。",
+    "Sandbox_GiveBuildingKey": "為玩家提供生成生成建築的鑰匙",
+    "Sandbox_GiveBuildingKey_tooltip": "如果玩家生成的建築物有鎖，則會自動為他們提供匹配的鑰匙，這樣他們就不會被鎖在或鎖出自己的起始建築物。"
+    ,"Sandbox_ShowPOIs": "显示兴趣点"
+    ,"Sandbox_ShowPOIs_tooltip": "在出生点选择地图上显示已标记的兴趣点。取消勾选后，玩家将看不到兴趣点按钮和所有标记。"
+}

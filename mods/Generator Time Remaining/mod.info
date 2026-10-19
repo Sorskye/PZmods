@@ -1,0 +1,4 @@
+name=Generator Time Remaining
+poster=poster.png
+id=GeneratorTimeRemaining
+description=Displays the days and hours before your generator runs out of fuel

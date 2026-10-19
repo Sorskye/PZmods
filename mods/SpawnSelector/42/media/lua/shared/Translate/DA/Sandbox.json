@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokgydning nær døden Placering",
+    "Sandbox_DeathZoneEnabled_tooltip": "Stopper en spiller i at bruge Spawn Selector til at spawne tilbage i nærheden af, hvor deres tidligere karakter døde, hvilket gør det sværere at genvinde tabt gear med en frisk karakter med det samme.",
+    "Sandbox_DeathZoneRadius": "Blokeradius (fliser)",
+    "Sandbox_DeathZoneRadius_tooltip": "Hvor langt, i fliser, strækker no-spawn-zonen sig omkring en spillers dødsplacering.",
+    "Sandbox_DeathZoneDurationHours": "Blokeringsvarighed (timer i den virkelige verden)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Hvor mange timer i den virkelige verden varer blokeringen efter døden. Indstil til 0 for at blokere området permanent.",
+    "Sandbox_AllowWeaponsMilitary": "Tillad gydning i våben- og militærbygninger",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Våbenbutikker, skydebaner, hærens overskudsbutikker og andre militærbygninger. Fjern markeringen for at forhindre Spawn Selector i at placere spillere i disse.",
+    "Sandbox_AllowMedical": "Tillad gydning i medicinske bygninger",
+    "Sandbox_AllowMedical_tooltip": "Hospitaler, lægekontorer, tandlæger, apoteker, plejehjem og laboratorier.",
+    "Sandbox_AllowLawEnforcement": "Tillad gydning i retshåndhævende bygninger",
+    "Sandbox_AllowLawEnforcement_tooltip": "Politistationer, fængsler og brandstationer.",
+    "Sandbox_AllowRetailShops": "Tillad gydning i butikker",
+    "Sandbox_AllowRetailShops_tooltip": "Almindelige butikker, indkøbscentre, tøjbutikker, elektronikbutikker, tankstationer og andre detailbutikker.",
+    "Sandbox_AllowFoodDrink": "Tillad gydning i restauranter og barer",
+    "Sandbox_AllowFoodDrink_tooltip": "Restauranter, caféer, barer, bagerier og andre spise- og drikkesteder.",
+    "Sandbox_AllowIndustrial": "Tillad gydning i industribygninger",
+    "Sandbox_AllowIndustrial_tooltip": "Fabrikker, lagre og lagerenheder.",
+    "Sandbox_AllowResidentialLodging": "Tillad gydning i boliger og logi",
+    "Sandbox_AllowResidentialLodging_tooltip": "Huse, moteller, hoteller og trailerparker.",
+    "Sandbox_AllowCivicPublic": "Tillad gydning i civile og offentlige bygninger",
+    "Sandbox_AllowCivicPublic_tooltip": "Kirker, skoler, biblioteker, kontorer og posthuse.",
+    "Sandbox_AllowRecreation": "Tillad gydning i rekreative bygninger",
+    "Sandbox_AllowRecreation_tooltip": "Gyms, teatre, bowlingbaner, svømmebassiner og andre underholdningssteder.",
+    "Sandbox_GiveBuildingKey": "Giv spilleren en nøgle til deres spawn-bygning",
+    "Sandbox_GiveBuildingKey_tooltip": "Hvis bygningen en spiller gyder i har en lås, så giv dem automatisk en matchende nøgle til den, så de ikke er låst ind eller ude af deres egen startbygning."
+    ,"Sandbox_ShowPOIs": "Vis interessepunkter"
+    ,"Sandbox_ShowPOIs_tooltip": "Viser markerede interessepunkter på kortet til valg af startsted. Fjern markeringen for at skjule knappen og alle markører for spillerne."
+}

@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "ІКРЕС ТУТ",
+    "UI_SpawnSelector_DetailedMap": "ДЕТАЛЬНА КАРТА",
+    "UI_SpawnSelector_StandardMap": "СТАНДАРТНА КАРТА",
+    "UI_SpawnSelector_RandomSpawn": "ВИПАДКОВЕ ПОЯВЛЕННЯ",
+    "UI_SpawnSelector_RandomBuilding": "ВИПАДКОВА БУДОВА",
+    "UI_SpawnSelector_CoordinateTooltip": "Введіть точні координати появи",
+    "UI_SpawnSelector_SetPin": "ВСТАНОВИТИ PIN",
+    "UI_SpawnSelector_Key": "КЛЮЧ",
+    "UI_SpawnSelector_CloseKey": "ЗАКРИТИ КЛАВІШ",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Введіть дійсні цілі числа для X, Y та Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Введена координата X або Y виходить за межі підтримуваного діапазону.",
+    "UI_SpawnSelector_ErrorZRange": "Z має бути між %1 і %2.",
+    "UI_SpawnSelector_LayerWarning": "Вибір шару змінює лише рівень спауна Z.<LINE>На карті все ще відображається план першого поверху.<LINE>Вибір рівня, якого не існує, може призвести до небезпечного або недійсного спауну.",
+    "UI_SpawnSelector_RandomConfirm": "Ви впевнені? Ми справді маємо на увазі випадковий.<LINE>Ви можете з’явитися будь-де.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Не вдалося знайти дійсне випадкове розташування. Спробуйте ще раз.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Вибір випадкового місця появи...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Поява в абсолютно випадковій будівлі?<LINE>Пошук може тривати кілька хвилин.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Випадкову будівлю знайти не вдалося. Спробуйте ще раз.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Пошук випадкової будівлі...",
+    "UI_SpawnSelector_ErrorDeathZone": "Ви не можете створити так близько до того місця, де ви востаннє померли. Виберіть місце за межами червоного кола.",
+    "UI_SpawnSelector_Title": "ОБЕРІТЬ МІСЦЕ СПАВНА",
+    "UI_SpawnSelector_Instructions": "Натисніть, щоб вибрати. Перетягніть для панорамування. Для масштабування використовуйте коліщатко миші.",
+    "UI_SpawnSelector_Selected": "Вибрано: %1, %2 - Натисніть ТУТ, щоб почати.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Виявлено розширення Project Indiana",
+    "UI_SpawnSelector_Credit": "Зроблено з любов'ю N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Після перевірки багатьох місць не вдалося знайти випадкову будівлю. Спробуйте ще раз.",
+    "UI_SpawnSelector_ErrorLayerRange": "Вибраний шар породження знаходиться за межами підтримуваного діапазону.",
+    "UI_SpawnSelector_ErrorNoFloor": "У цьому місці та шарі не існує дійсного поверху. Виберіть інший шар або позицію.",
+    "UI_SpawnSelector_ErrorWater": "Вибране місце - вода. Виберіть положення на твердій землі.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Цей тип будівлі вимкнено для створення на сервері. Виберіть інше місце.",
+    "UI_SpawnSelector_ErrorSafehouse": "Ви не можете з’явитися всередині притулку іншого гравця.",
+    "UI_SpawnSelector_ErrorFloorLoad": "У цьому місці не вдалося завантажити дійсний поверх. Виберіть інший шар або позицію.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Цей тип будівлі вимкнено для появи. Виберіть інше місце.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Додати точку інтересу",
+    "UI_SpawnSelector_POINamePrompt": "Введіть назву точки інтересу (необов’язково):",
+    "UI_SpawnSelector_POILocationPrompt": "Введіть місто або район:",
+    "UI_SpawnSelector_POINotesPrompt": "Введіть корисні примітки (необов’язково):",
+    "UI_SpawnSelector_POIRecorded": "Точку інтересу записано за координатами %1, %2, %3."
+    ,"UI_SpawnSelector_POITypeFuelStation": "Автозаправна станція"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Універмаг"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Магазин електроніки"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Магазин одягу"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Меблевий магазин"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Ювелірний магазин"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Показати записані точки інтересу"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Магазин спортивних товарів"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Рибальський магазин"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Перукарня"
+    ,"UI_SpawnSelector_CustomPOI": "Власна точка інтересу"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Введіть назву власної точки інтересу:"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Магазин автозапчастин"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Магазин солодощів"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Магазин товарів для активного відпочинку"
+    ,"UI_SpawnSelector_POITypeComicStore": "Магазин коміксів"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Весільний магазин"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Тютюновий магазин"
+    ,"UI_SpawnSelector_POITypeFlorist": "Квітковий магазин"
+    ,"UI_SpawnSelector_POITypePetStore": "Зоомагазин"
+    ,"UI_SpawnSelector_POITypeBagStore": "Магазин сумок"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Магазин матеріалів для кам'яної кладки"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Ремонт годинників"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Ремонт взуття"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Магазин швейного приладдя"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Магазин подарунків"
+    ,"UI_SpawnSelector_POIRoomCentre": "Центр приміщення"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Центр будівлі"
+}

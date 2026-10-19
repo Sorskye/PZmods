@@ -1,0 +1,85 @@
+module Base {
+    craftRecipe OpenBoxOfBullets20_mvgi {
+        timedAction = OpenAmmoBox,
+        time        = 15,
+        category    = Packing,
+        recipeGroup = OpenBox,
+        Tags        = InHandCraft;CanBeDoneInDark,
+        inputs {
+            item 1 [Base.762Box] mappers[ammoTypes] flags[Prop2;AllowFavorite;InheritFavorite],
+        }
+        outputs {
+            item 20 mapper:ammoTypes,
+        }
+        itemMapper ammoTypes {
+            Base.762Bullets = Base.762Box,
+        }
+    }
+    
+    craftRecipe put_bullets_in_boxes_mvgi {
+        timedAction = PlaceAmmoInBox,
+        time        = 15,
+        category    = Packing,
+        Tags        = InHandCraft,
+        inputs {
+            item 20 [Base.762Bullets] mappers[ammoType] flags[AllowFavorite;InheritFavorite;IsExclusive],
+        }
+        outputs {
+            item 1 mapper:ammoType,
+        }
+        itemMapper ammoType {
+            Base.762Box = Base.762Bullets,
+        }
+    }
+    
+    craftRecipe OpenCarton12_mvgi {
+        timedAction = UnPackBox,
+        time        = 50,
+        Tags        = InHandCraft;Packing;CanBeDoneInDark,
+        category    = Packing,
+        inputs {
+            item 1 [Base.762Carton] mappers[boxType] flags[AllowFavorite;InheritFavorite],
+        }
+        outputs {
+            item 12 mapper:boxType,
+        }
+        itemMapper boxType {
+            Base.762Box = Base.762Carton,
+        }
+    }
+    
+    craftRecipe Place12BoxesInCarton_mvgi {
+        timedAction = PackingBox,
+        time        = 50,
+        Tags        = InHandCraft;Packing,
+        category    = Packing,
+        inputs {
+            item 12 [Base.762Box] mappers[itemType] flags[AllowFavorite;InheritFavorite;IsExclusive],
+        }
+        outputs {
+            item 1 mapper:itemType,
+        }
+        itemMapper itemType {
+            Base.762Carton = Base.762Box,
+        }
+    }
+    
+    craftRecipe SawOffShotgun_mvgi {
+        timedAction = SawOffShotgun,
+        time        = 200,
+        Tooltip     = Tooltip_Recipe_NeedSawMetal,
+        Tags        = InHandCraft,
+        category    = Weaponry,
+        inputs {
+            item 1 tags[base:metalsaw;base:smallsaw] mode:keep flags[Prop1;MayDegrade],
+            item 1 [Base.Side_By_Side_Barrel_Open;Base.Side_By_Side_Barrel_Close] mode:destroy flags[Prop2] mappers[shotgunType],
+        }
+        outputs {
+            item 1 mapper:shotgunType,
+        }
+        itemMapper shotgunType {
+            Base.Side_By_Side_Barrel_Sawnoff_Close = Base.Side_By_Side_Barrel_Open,
+            Base.Side_By_Side_Barrel_Sawnoff_Close = Base.Side_By_Side_Barrel_Close,
+        }
+    }
+}

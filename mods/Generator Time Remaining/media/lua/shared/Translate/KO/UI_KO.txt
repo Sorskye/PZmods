@@ -1,0 +1,4 @@
+UI_KO = {
+  UI_GTR_Options_ReqLevel  = "전기공학 요구 레벨",
+  UI_GTR_Options_Convert   = "현실 기준으로 시간 표시"
+}

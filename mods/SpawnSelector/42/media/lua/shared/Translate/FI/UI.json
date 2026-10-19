@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "KUUTTA TÄÄLLÄ",
+    "UI_SpawnSelector_DetailedMap": "YKSITYISKOHTAINEN KARTTA",
+    "UI_SpawnSelector_StandardMap": "STANDARDI KARTTA",
+    "UI_SpawnSelector_RandomSpawn": "SATUNNAIS KUTU",
+    "UI_SpawnSelector_RandomBuilding": "SATUNNAIS RAKENNUS",
+    "UI_SpawnSelector_CoordinateTooltip": "Anna tarkat syntykoordinaatit",
+    "UI_SpawnSelector_SetPin": "ASETA MERKKI",
+    "UI_SpawnSelector_Key": "AVAIN",
+    "UI_SpawnSelector_CloseKey": "SULJE AVAIN",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Anna kelvolliset kokonaisluvut X:lle, Y:lle ja Z:lle.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Syötetty X- tai Y-koordinaatti on tuetun alueen ulkopuolella.",
+    "UI_SpawnSelector_ErrorZRange": "Z:n on oltava %1:n ja %2:n välillä.",
+    "UI_SpawnSelector_LayerWarning": "Kerroksen valinta muuttaa vain syntyä Z-tason.<LINE>Kartta näyttää edelleen pohjakerroksen asettelun.<LINE>Ei olemassa olevan tason valitseminen voi aiheuttaa vaarallisen tai virheellisen syntymisen.",
+    "UI_SpawnSelector_RandomConfirm": "Oletko varma? Tarkoitamme todella satunnaista.<LINE>Voit esiintyä missä tahansa.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Kelvollista satunnaista sijaintia ei löytynyt. Yritä uudelleen.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Valitaan satunnaista syntymispaikkaa...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Syntyykö täysin satunnaisessa rakennuksessa?<LINE>Haku voi kestää hetken.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Satunnaista rakennusta ei löytynyt. Yritä uudelleen.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Etsitään satunnaista rakennusta...",
+    "UI_SpawnSelector_ErrorDeathZone": "Et voi syntyä näin lähelle paikkaa, jossa viimeksi kuolit. Valitse sijainti punaisen ympyrän ulkopuolelta.",
+    "UI_SpawnSelector_Title": "VALITSE KUTUPAIKKASI",
+    "UI_SpawnSelector_Instructions": "Valitse napsauttamalla. Panoroi vetämällä. Käytä hiiren rullaa zoomaamiseen.",
+    "UI_SpawnSelector_Selected": "Valitut: %1, %2 - Aloita napsauttamalla SPAWN TÄSTÄ.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Indiana-projektin laajennus havaittu",
+    "UI_SpawnSelector_Credit": "Rakkaudella valmistettu N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Satunnaista rakennusta ei löytynyt useiden paikkojen tarkistuksen jälkeen. Yritä uudelleen.",
+    "UI_SpawnSelector_ErrorLayerRange": "Valittu spawn-taso on tuetun alueen ulkopuolella.",
+    "UI_SpawnSelector_ErrorNoFloor": "Tässä paikassa ja tasossa ei ole kelvollista kerrosta. Valitse toinen kerros tai sijainti.",
+    "UI_SpawnSelector_ErrorWater": "Valittu paikka on vesi. Valitse asento kiinteällä alustalla.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Tämä rakennustyyppi on poistettu käytöstä palvelimen luomista varten. Valitse toinen sijainti.",
+    "UI_SpawnSelector_ErrorSafehouse": "Et voi syntyä toisen pelaajan turvahuoneessa.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Yhtään kelvollista kerrosta ei voitu ladata kyseisessä paikassa. Valitse toinen kerros tai sijainti.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Tämä rakennustyyppi on poistettu käytöstä kutemista varten. Valitse toinen sijainti.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Lisää kiinnostava kohde",
+    "UI_SpawnSelector_POINamePrompt": "Anna kiinnostavan kohteen nimi (valinnainen):",
+    "UI_SpawnSelector_POILocationPrompt": "Anna kaupunki tai alue:",
+    "UI_SpawnSelector_POINotesPrompt": "Anna hyödyllisiä lisätietoja (valinnainen):",
+    "UI_SpawnSelector_POIRecorded": "Kiinnostava kohde tallennettu sijaintiin %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Näytä tallennetut kiinnostavat kohteet"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Kalastustarvikeliike"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Kampaamo"
+    ,"UI_SpawnSelector_CustomPOI": "Mukautettu kiinnostava kohde"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Anna mukautetun kiinnostavan kohteen nimi:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Huoltoasema"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Tavaratalo"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektroniikkaliike"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Vaatekauppa"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Huonekaluliike"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Koruliike"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Urheiluliike"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Autovaraosaliike"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Karkkikauppa"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Ulkoilutarvikeliike"
+    ,"UI_SpawnSelector_POITypeComicStore": "Sarjakuvakauppa"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Hääpukuliike"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tupakkakauppa"
+    ,"UI_SpawnSelector_POITypeFlorist": "Kukkakauppa"
+    ,"UI_SpawnSelector_POITypePetStore": "Lemmikkieläinliike"
+    ,"UI_SpawnSelector_POITypeBagStore": "Laukkukauppa"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Muuraustarvikeliike"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Kellokorjaamo"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Suutari"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Ompelutarvikeliike"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Lahjatavaraliike"
+    ,"UI_SpawnSelector_POIRoomCentre": "Huoneen keskikohta"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Rakennuksen keskikohta"
+}

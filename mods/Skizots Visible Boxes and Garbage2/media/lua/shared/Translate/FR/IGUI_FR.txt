@@ -1,0 +1,4 @@
+IGUI_FR = {
+	-- All the UI text used in game
+	IGUI_ItemCat_KYRP = "Jeu de rôle",
+}

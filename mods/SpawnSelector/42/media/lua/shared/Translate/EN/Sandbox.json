@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Block Spawning Near Death Location",
+    "Sandbox_DeathZoneEnabled_tooltip": "Stops a player from using Spawn Selector to spawn back near where their previous character died, making it harder to immediately reclaim lost gear with a fresh character.",
+    "Sandbox_DeathZoneRadius": "Block Radius (tiles)",
+    "Sandbox_DeathZoneRadius_tooltip": "How far, in tiles, the no-spawn zone extends around a player's death location.",
+    "Sandbox_DeathZoneDurationHours": "Block Duration (real-world hours)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "How many real-world hours the block lasts after death. Set to 0 to block the area permanently.",
+    "Sandbox_AllowWeaponsMilitary": "Allow Spawning in Weapon & Military Buildings",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Gun stores, shooting ranges, army surplus stores and other military buildings. Untick to stop Spawn Selector from placing players inside these.",
+    "Sandbox_AllowMedical": "Allow Spawning in Medical Buildings",
+    "Sandbox_AllowMedical_tooltip": "Hospitals, doctors' offices, dentists, pharmacies, nursing homes and laboratories.",
+    "Sandbox_AllowLawEnforcement": "Allow Spawning in Law Enforcement Buildings",
+    "Sandbox_AllowLawEnforcement_tooltip": "Police stations, prisons and fire stations.",
+    "Sandbox_AllowRetailShops": "Allow Spawning in Shops",
+    "Sandbox_AllowRetailShops_tooltip": "General stores, malls, clothing stores, electronics stores, gas stations, and other retail shops.",
+    "Sandbox_AllowFoodDrink": "Allow Spawning in Restaurants & Bars",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurants, cafes, bars, bakeries and other food and drink venues.",
+    "Sandbox_AllowIndustrial": "Allow Spawning in Industrial Buildings",
+    "Sandbox_AllowIndustrial_tooltip": "Factories, warehouses and storage units.",
+    "Sandbox_AllowResidentialLodging": "Allow Spawning in Homes & Lodging",
+    "Sandbox_AllowResidentialLodging_tooltip": "Houses, motels, hotels and trailer parks.",
+    "Sandbox_AllowCivicPublic": "Allow Spawning in Civic & Public Buildings",
+    "Sandbox_AllowCivicPublic_tooltip": "Churches, schools, libraries, offices and post offices.",
+    "Sandbox_AllowRecreation": "Allow Spawning in Recreation Buildings",
+    "Sandbox_AllowRecreation_tooltip": "Gyms, theatres, bowling alleys, swimming pools and other entertainment venues.",
+    "Sandbox_GiveBuildingKey": "Give Player a Key to Their Spawn Building",
+    "Sandbox_GiveBuildingKey_tooltip": "If the building a player spawns in has a lock, automatically give them a matching key for it so they aren't locked in or out of their own starting building."
+    ,"Sandbox_ShowPOIs": "Show Points of Interest"
+    ,"Sandbox_ShowPOIs_tooltip": "Displays marked points of interest on the spawn-selection map. Untick to hide the POI button and all POI markers from players."
+}

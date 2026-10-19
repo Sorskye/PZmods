@@ -1,0 +1,7 @@
+Tooltip_RU = {
+  Tooltip_GTR_Day     = "день",
+  Tooltip_GTR_Days    = "дней",
+  Tooltip_GTR_Hour    = "час",
+  Tooltip_GTR_Hours   = "часов",
+  Tooltip_GTR_Minutes = "минут"
+}

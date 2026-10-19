@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokuj spawnowanie w pobliżu lokalizacji śmierci",
+    "Sandbox_DeathZoneEnabled_tooltip": "Uniemożliwia graczowi użycie Spawn Selector do odrodzenia się w pobliżu miejsca, w którym zginęła jego poprzednia postać, co utrudnia natychmiastowe odzyskanie utraconego sprzętu nową postacią.",
+    "Sandbox_DeathZoneRadius": "Promień bloku (płytki)",
+    "Sandbox_DeathZoneRadius_tooltip": "Jak daleko (w kafelkach) rozciąga się strefa zakazu odradzania się wokół miejsca śmierci gracza.",
+    "Sandbox_DeathZoneDurationHours": "Czas trwania bloku (godziny rzeczywiste)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Ile godzin w świecie rzeczywistym trwa blokada po śmierci. Ustaw na 0, aby trwale zablokować obszar.",
+    "Sandbox_AllowWeaponsMilitary": "Zezwalaj na spawnowanie w broni i budynkach wojskowych",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Sklepy z bronią, strzelnice, sklepy z nadwyżkami wojskowymi i inne budynki wojskowe. Odznacz, aby uniemożliwić Spawn Selector umieszczanie graczy w tych obszarach.",
+    "Sandbox_AllowMedical": "Zezwalaj na spawnowanie w budynkach medycznych",
+    "Sandbox_AllowMedical_tooltip": "Szpitale, gabinety lekarskie, dentyści, apteki, domy opieki i laboratoria.",
+    "Sandbox_AllowLawEnforcement": "Zezwalaj na tarło w budynkach organów ścigania",
+    "Sandbox_AllowLawEnforcement_tooltip": "Posterunki policji, więzienia i remizy strażackie.",
+    "Sandbox_AllowRetailShops": "Zezwalaj na tarło w sklepach",
+    "Sandbox_AllowRetailShops_tooltip": "Sklepy wielobranżowe, centra handlowe, sklepy odzieżowe, sklepy z elektroniką, stacje benzynowe i inne sklepy detaliczne.",
+    "Sandbox_AllowFoodDrink": "Zezwalaj na tarło w restauracjach i barach",
+    "Sandbox_AllowFoodDrink_tooltip": "Restauracje, kawiarnie, bary, piekarnie i inne lokale gastronomiczne.",
+    "Sandbox_AllowIndustrial": "Zezwalaj na spawnowanie w budynkach przemysłowych",
+    "Sandbox_AllowIndustrial_tooltip": "Fabryki, magazyny i magazyny.",
+    "Sandbox_AllowResidentialLodging": "Zezwalaj na tarło w domach i kwaterach",
+    "Sandbox_AllowResidentialLodging_tooltip": "Domy, motele, hotele i przyczepy kempingowe.",
+    "Sandbox_AllowCivicPublic": "Zezwalaj na tarła w budynkach użyteczności publicznej",
+    "Sandbox_AllowCivicPublic_tooltip": "Kościoły, szkoły, biblioteki, urzędy i poczty.",
+    "Sandbox_AllowRecreation": "Zezwalaj na tarło w budynkach rekreacyjnych",
+    "Sandbox_AllowRecreation_tooltip": "Siłownie, teatry, kręgielnie, baseny i inne miejsca rozrywki.",
+    "Sandbox_GiveBuildingKey": "Daj graczowi klucz do budynku spawnu",
+    "Sandbox_GiveBuildingKey_tooltip": "Jeśli budynek, w którym gracz się odradza, jest wyposażony w zamek, automatycznie przekaż mu pasujący do niego klucz, aby nie został zamknięty w swoim własnym budynku początkowym ani poza nim."
+    ,"Sandbox_ShowPOIs": "Pokaż interesujące miejsca"
+    ,"Sandbox_ShowPOIs_tooltip": "Wyświetla oznaczone interesujące miejsca na mapie wyboru miejsca odrodzenia. Wyłącz tę opcję, aby ukryć przed graczami przycisk i wszystkie znaczniki."
+}

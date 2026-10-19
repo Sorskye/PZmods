@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blockieren Sie das Laichen in der Nähe des Todesorts",
+    "Sandbox_DeathZoneEnabled_tooltip": "Verhindert, dass ein Spieler Spawn Selector verwendet, um in der Nähe des Ortes, an dem sein vorheriger Charakter gestorben ist, wieder zu spawnen, wodurch es schwieriger wird, verlorene Ausrüstung sofort mit einem neuen Charakter zurückzugewinnen.",
+    "Sandbox_DeathZoneRadius": "Blockradius (Kacheln)",
+    "Sandbox_DeathZoneRadius_tooltip": "Wie weit (in Kacheln) sich die Nicht-Spawn-Zone um den Todesort eines Spielers erstreckt?",
+    "Sandbox_DeathZoneDurationHours": "Blockdauer (reale Stunden)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Wie viele Stunden in der realen Welt dauert die Blockade nach dem Tod? Auf 0 setzen, um den Bereich dauerhaft zu blockieren.",
+    "Sandbox_AllowWeaponsMilitary": "Erlaube das Spawnen in Waffen- und Militärgebäuden",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Waffengeschäfte, Schießstände, Armeelager und andere Militärgebäude. Deaktivieren Sie diese Option, um zu verhindern, dass Spawn Selector Spieler darin platziert.",
+    "Sandbox_AllowMedical": "Erlaube das Laichen in medizinischen Gebäuden",
+    "Sandbox_AllowMedical_tooltip": "Krankenhäuser, Arztpraxen, Zahnärzte, Apotheken, Pflegeheime und Labore.",
+    "Sandbox_AllowLawEnforcement": "Erlauben Sie das Laichen in Polizeigebäuden",
+    "Sandbox_AllowLawEnforcement_tooltip": "Polizeistationen, Gefängnisse und Feuerwachen.",
+    "Sandbox_AllowRetailShops": "Erlaube das Spawnen in Geschäften",
+    "Sandbox_AllowRetailShops_tooltip": "Gemischtwarenläden, Einkaufszentren, Bekleidungsgeschäfte, Elektronikgeschäfte, Tankstellen und andere Einzelhandelsgeschäfte.",
+    "Sandbox_AllowFoodDrink": "Erlauben Sie das Laichen in Restaurants und Bars",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurants, Cafés, Bars, Bäckereien und andere gastronomische Einrichtungen.",
+    "Sandbox_AllowIndustrial": "Erlaube das Laichen in Industriegebäuden",
+    "Sandbox_AllowIndustrial_tooltip": "Fabriken, Lagerhallen und Lagereinheiten.",
+    "Sandbox_AllowResidentialLodging": "Laichen in Häusern und Unterkünften zulassen",
+    "Sandbox_AllowResidentialLodging_tooltip": "Häuser, Motels, Hotels und Wohnwagensiedlungen.",
+    "Sandbox_AllowCivicPublic": "Erlauben Sie das Laichen in öffentlichen und öffentlichen Gebäuden",
+    "Sandbox_AllowCivicPublic_tooltip": "Kirchen, Schulen, Bibliotheken, Büros und Postämter.",
+    "Sandbox_AllowRecreation": "Erlaube das Laichen in Freizeitgebäuden",
+    "Sandbox_AllowRecreation_tooltip": "Fitnessstudios, Theater, Bowlingbahnen, Schwimmbäder und andere Unterhaltungsmöglichkeiten.",
+    "Sandbox_GiveBuildingKey": "Gib dem Spieler einen Schlüssel zu seinem Spawn-Gebäude",
+    "Sandbox_GiveBuildingKey_tooltip": "Wenn das Gebäude, in dem ein Spieler spawnt, über ein Schloss verfügt, geben Sie ihm automatisch einen passenden Schlüssel dafür, damit er nicht in seinem eigenen Startgebäude eingesperrt ist oder es verlässt."
+    ,"Sandbox_ShowPOIs": "Interessante Orte anzeigen"
+    ,"Sandbox_ShowPOIs_tooltip": "Zeigt markierte interessante Orte auf der Karte zur Auswahl des Startorts an. Deaktivieren, um die Schaltfläche und alle Markierungen für Spieler auszublenden."
+}

@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPAWN ITT",
+    "UI_SpawnSelector_DetailedMap": "RÉSZLETES TÉRKÉP",
+    "UI_SpawnSelector_StandardMap": "STANDARD TÉRKÉP",
+    "UI_SpawnSelector_RandomSpawn": "VÉLETLENSZERŰ SPAWN",
+    "UI_SpawnSelector_RandomBuilding": "VÉLETLENSZERŰ ÉPÍTÉS",
+    "UI_SpawnSelector_CoordinateTooltip": "Adja meg a pontos ívási koordinátákat",
+    "UI_SpawnSelector_SetPin": "PIN BEÁLLÍTÁSA",
+    "UI_SpawnSelector_Key": "KULCSFONTOSSÁGÚ",
+    "UI_SpawnSelector_CloseKey": "KULCS ZÁRÁSA",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Adjon meg érvényes egész számokat X, Y és Z számára.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "A megadott X vagy Y koordináta kívül esik a támogatott tartományon.",
+    "UI_SpawnSelector_ErrorZRange": "Z-nek %1 és %2 között kell lennie.",
+    "UI_SpawnSelector_LayerWarning": "A rétegkiválasztás csak az ívási Z szintet módosítja.<LINE>A térkép továbbra is a földszinti elrendezést mutatja.<LINE>A nem létező szint kiválasztása nem biztonságos vagy érvénytelen spawn-ot okozhat.",
+    "UI_SpawnSelector_RandomConfirm": "Biztos vagy benne? Valójában véletlenszerűre gondolunk.<LINE> Bárhol megjelenhetsz.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Nem található érvényes véletlenszerű hely. Kérjük, próbálja újra.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Véletlenszerű ívási hely kiválasztása...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Egy teljesen véletlenszerű épületben jön létre?<LINE>A keresés eltarthat néhány pillanatig.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Véletlenszerű épület nem található. Kérjük, próbálja újra.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Egy véletlenszerű épület keresése...",
+    "UI_SpawnSelector_ErrorDeathZone": "Nem lehet ilyen közel ahhoz, ahol utoljára meghalt. Válasszon egy helyet a piros körön kívül.",
+    "UI_SpawnSelector_Title": "KIVÁLASZTJA AZ ÍRÁSI HELYET",
+    "UI_SpawnSelector_Instructions": "Kattintson a kiválasztáshoz. Húzza a pásztázáshoz. Használja az egér görgőjét a nagyításhoz.",
+    "UI_SpawnSelector_Selected": "Kiválasztva: %1, %2 – Kattintson a SPAWN IDE a kezdéshez.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Az Indiana projekt bővítése észlelve",
+    "UI_SpawnSelector_Credit": "Szeretettel készítette a N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Számos helyszín ellenőrzése után nem találtunk véletlenszerű épületet. Kérjük, próbálja újra.",
+    "UI_SpawnSelector_ErrorLayerRange": "A kiválasztott spawn réteg kívül esik a támogatott tartományon.",
+    "UI_SpawnSelector_ErrorNoFloor": "Ezen a helyen és a rétegen nincs érvényes padló. Válasszon másik réteget vagy pozíciót.",
+    "UI_SpawnSelector_ErrorWater": "A kiválasztott hely víz. Válasszon egy pozíciót szilárd talajon.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Ezt az épülettípust a szerver le van tiltva a spawning számára. Válasszon másik helyet.",
+    "UI_SpawnSelector_ErrorSafehouse": "Nem spawnálhatsz egy másik játékos védőházában.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Ezen a helyen nem lehetett érvényes emeletet betölteni. Válasszon másik réteget vagy pozíciót.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Ez az épülettípus ívásra le van tiltva. Válasszon másik helyet.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Érdekes hely hozzáadása",
+    "UI_SpawnSelector_POINamePrompt": "Add meg az érdekes hely nevét (nem kötelező):",
+    "UI_SpawnSelector_POILocationPrompt": "Add meg a települést vagy területet:",
+    "UI_SpawnSelector_POINotesPrompt": "Adj meg hasznos megjegyzéseket (nem kötelező):",
+    "UI_SpawnSelector_POIRecorded": "Érdekes hely rögzítve itt: %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Rögzített érdekes helyek megjelenítése"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Horgászbolt"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Fodrászszalon"
+    ,"UI_SpawnSelector_CustomPOI": "Egyéni érdekes hely"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Add meg az egyéni érdekes hely nevét:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Benzinkút"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Áruház"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektronikai üzlet"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Ruházati üzlet"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Bútorüzlet"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Ékszerüzlet"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sportbolt"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Autóalkatrész-üzlet"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Édességbolt"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Túrafelszerelés-bolt"
+    ,"UI_SpawnSelector_POITypeComicStore": "Képregénybolt"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Esküvői ruházati üzlet"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Dohánybolt"
+    ,"UI_SpawnSelector_POITypeFlorist": "Virágüzlet"
+    ,"UI_SpawnSelector_POITypePetStore": "Állatkereskedés"
+    ,"UI_SpawnSelector_POITypeBagStore": "Táskaüzlet"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Kőművesanyag-üzlet"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Órajavító"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Cipőjavító"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Varróbolt"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Ajándékbolt"
+    ,"UI_SpawnSelector_POIRoomCentre": "Helyiség közepe"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Épület közepe"
+}

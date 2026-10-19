@@ -1,0 +1,7 @@
+Tooltip_KO = {
+  Tooltip_GTR_Day      = "일",
+  Tooltip_GTR_Days     = "일",
+  Tooltip_GTR_Hour     = "시간",
+  Tooltip_GTR_Hours    = "시간",
+  Tooltip_GTR_Minutes  = "분"
+}

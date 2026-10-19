@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "BURADA DOĞDU",
+    "UI_SpawnSelector_DetailedMap": "DETAYLI HARİTA",
+    "UI_SpawnSelector_StandardMap": "STANDART HARİTA",
+    "UI_SpawnSelector_RandomSpawn": "RASTGELE DOĞMA",
+    "UI_SpawnSelector_RandomBuilding": "RASTGELE BİNA",
+    "UI_SpawnSelector_CoordinateTooltip": "Tam ortaya çıkma koordinatlarını girin",
+    "UI_SpawnSelector_SetPin": "PIN AYARLA",
+    "UI_SpawnSelector_Key": "ANAHTAR",
+    "UI_SpawnSelector_CloseKey": "KAPATMA ANAHTARI",
+    "UI_SpawnSelector_ErrorWholeNumbers": "X, Y ve Z için geçerli tam sayıları girin.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Girilen X veya Y koordinatı desteklenen aralığın dışında.",
+    "UI_SpawnSelector_ErrorZRange": "Z, %1 ile %2 arasında olmalıdır.",
+    "UI_SpawnSelector_LayerWarning": "Katman seçimi yalnızca ortaya çıkma Z seviyesini değiştirir.<LINE>Harita hala zemin kat düzenini gösterir.<LINE>Mevcut olmayan bir seviyenin seçilmesi, güvenli olmayan veya geçersiz bir ortaya çıkmaya neden olabilir.",
+    "UI_SpawnSelector_RandomConfirm": "Emin misin? Gerçekten rastgele demek istiyoruz.<LINE>Her yerde görünebilirsin.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Geçerli bir rastgele konum bulunamadı. Lütfen tekrar deneyin.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Rastgele bir ortaya çıkma yeri seçmek...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Tamamen rastgele bir binanın içinde mi ortaya çıktınız?<LINE>Arama birkaç dakika sürebilir.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Rastgele bir bina bulunamadı. Lütfen tekrar deneyin.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Rastgele bir bina aranıyor...",
+    "UI_SpawnSelector_ErrorDeathZone": "En son öldüğünüz yere bu kadar yakın bir yerde doğamazsınız. Kırmızı dairenin dışında bir konum seçin.",
+    "UI_SpawnSelector_Title": "DOĞAN KONUMUNUZU SEÇİN",
+    "UI_SpawnSelector_Instructions": "Seçmek için tıklayın. Kaydırmak için sürükleyin. Yakınlaştırmak için fare tekerleğini kullanın.",
+    "UI_SpawnSelector_Selected": "Seçilen: %1, %2 - Başlamak için BURADA DOĞAN'a tıklayın.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Project Indiana genişletmesi tespit edildi",
+    "UI_SpawnSelector_Credit": "N3WO tarafından sevgiyle yapılmıştır",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Birçok yer kontrol edildikten sonra rastgele bir bina bulunamadı. Lütfen tekrar deneyin.",
+    "UI_SpawnSelector_ErrorLayerRange": "Seçilen yeniden oluşturma katmanı desteklenen aralığın dışında.",
+    "UI_SpawnSelector_ErrorNoFloor": "Bu konumda ve katmanda geçerli bir kat mevcut değil. Başka bir katman veya konum seçin.",
+    "UI_SpawnSelector_ErrorWater": "Seçilen yer sudur. Sağlam zeminde bir pozisyon seçin.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Bu bina türü sunucu tarafından oluşturulmak üzere devre dışı bırakıldı. Başka bir konum seçin.",
+    "UI_SpawnSelector_ErrorSafehouse": "Başka bir oyuncunun güvenli evinde doğamazsınız.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Bu konumda geçerli bir kat yüklenemedi. Başka bir katman veya konum seçin.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Bu bina türü üreme için devre dışıdır. Başka bir konum seçin.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "İlgi noktası ekle",
+    "UI_SpawnSelector_POINamePrompt": "İlgi noktasının adını girin (isteğe bağlı):",
+    "UI_SpawnSelector_POILocationPrompt": "Kasaba veya bölgeyi girin:",
+    "UI_SpawnSelector_POINotesPrompt": "Yararlı notları girin (isteğe bağlı):",
+    "UI_SpawnSelector_POIRecorded": "İlgi noktası %1, %2, %3 konumuna kaydedildi."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Kaydedilmiş ilgi noktalarını göster"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Balıkçılık mağazası"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Kuaför salonu"
+    ,"UI_SpawnSelector_CustomPOI": "Özel ilgi noktası"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Özel ilgi noktasının adını girin:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Benzin istasyonu"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Büyük mağaza"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektronik mağazası"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Giyim mağazası"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Mobilya mağazası"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Kuyumcu"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Spor malzemeleri mağazası"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Oto yedek parça mağazası"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Şekerci"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Outdoor malzemeleri mağazası"
+    ,"UI_SpawnSelector_POITypeComicStore": "Çizgi roman mağazası"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Düğün mağazası"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tütüncü"
+    ,"UI_SpawnSelector_POITypeFlorist": "Çiçekçi"
+    ,"UI_SpawnSelector_POITypePetStore": "Evcil hayvan mağazası"
+    ,"UI_SpawnSelector_POITypeBagStore": "Çanta mağazası"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Duvarcılık malzemeleri mağazası"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Saat tamircisi"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Ayakkabı tamircisi"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Dikiş malzemeleri mağazası"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Hediyelik eşya mağazası"
+    ,"UI_SpawnSelector_POIRoomCentre": "Odanın merkezi"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Binanın merkezi"
+}

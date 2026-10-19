@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPAWEN ZDE",
+    "UI_SpawnSelector_DetailedMap": "PODROBNÁ MAPA",
+    "UI_SpawnSelector_StandardMap": "STANDARDNÍ MAPA",
+    "UI_SpawnSelector_RandomSpawn": "NÁHODNÝ SPAWN",
+    "UI_SpawnSelector_RandomBuilding": "NÁHODNÁ STAVBA",
+    "UI_SpawnSelector_CoordinateTooltip": "Zadejte přesné souřadnice spawnu",
+    "UI_SpawnSelector_SetPin": "NASTAVIT PIN",
+    "UI_SpawnSelector_Key": "KLÍČ",
+    "UI_SpawnSelector_CloseKey": "KLÍČ ZAVŘÍT",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Zadejte platná celá čísla pro X, Y a Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Zadaná souřadnice X nebo Y je mimo podporovaný rozsah.",
+    "UI_SpawnSelector_ErrorZRange": "Z musí být mezi %1 a %2.",
+    "UI_SpawnSelector_LayerWarning": "Výběrem vrstvy se změní pouze úroveň spawnování Z.<LINE>Mapa stále zobrazuje rozvržení přízemí.<LINE>volba úrovně, která neexistuje, může způsobit nebezpečný nebo neplatný spawn.",
+    "UI_SpawnSelector_RandomConfirm": "jsi si jistý? Opravdu myslíme náhodně.<LINE>Můžete se objevit kdekoli.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Nebylo nalezeno platné náhodné umístění. Zkuste to prosím znovu.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Výběr náhodného místa spawn...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Spawn uvnitř zcela náhodné budovy?<LINE>Hledání může chvíli trvat.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Náhodná budova nebyla nalezena. Zkuste to prosím znovu.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Hledání náhodné budovy...",
+    "UI_SpawnSelector_ErrorDeathZone": "Nemůžete se rozmnožit tak blízko místa, kde jste naposledy zemřeli. Vyberte místo mimo červený kruh.",
+    "UI_SpawnSelector_Title": "VYBERTE UMÍSTĚNÍ SPAWU",
+    "UI_SpawnSelector_Instructions": "Klepnutím vyberte. Přetažením se posunete. Pro přiblížení použijte kolečko myši.",
+    "UI_SpawnSelector_Selected": "Vybráno: %1, %2 - Začněte kliknutím SPAWN HERE.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Bylo zjištěno rozšíření projektu Indiana",
+    "UI_SpawnSelector_Credit": "Vyrobeno s láskou N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Po kontrole mnoha míst se nepodařilo najít náhodnou budovu. Zkuste to prosím znovu.",
+    "UI_SpawnSelector_ErrorLayerRange": "Vybraná vrstva spawn je mimo podporovaný rozsah.",
+    "UI_SpawnSelector_ErrorNoFloor": "V tomto místě a vrstvě neexistuje žádná platná podlaha. Vyberte jinou vrstvu nebo pozici.",
+    "UI_SpawnSelector_ErrorWater": "Vybraným místem je voda. Vyberte si polohu na pevné zemi.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Tento typ budovy je zakázán pro vytváření serverem. Vyberte jiné umístění.",
+    "UI_SpawnSelector_ErrorSafehouse": "Nemůžete se objevit v úkrytu jiného hráče.",
+    "UI_SpawnSelector_ErrorFloorLoad": "V tomto místě nelze načíst žádné platné podlaží. Vyberte jinou vrstvu nebo pozici.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Tento typ budovy je zakázán pro spawnování. Vyberte jiné umístění.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Přidat bod zájmu",
+    "UI_SpawnSelector_POINamePrompt": "Zadejte název bodu zájmu (volitelné):",
+    "UI_SpawnSelector_POILocationPrompt": "Zadejte město nebo oblast:",
+    "UI_SpawnSelector_POINotesPrompt": "Zadejte užitečné poznámky (volitelné):",
+    "UI_SpawnSelector_POIRecorded": "Bod zájmu zaznamenán na souřadnicích %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Zobrazit zaznamenané body zájmu"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Rybářské potřeby"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Kadeřnictví"
+    ,"UI_SpawnSelector_CustomPOI": "Vlastní bod zájmu"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Zadejte název vlastního bodu zájmu:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Čerpací stanice"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Obchodní dům"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Prodejna elektroniky"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Prodejna oblečení"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Prodejna nábytku"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Klenotnictví"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Prodejna sportovních potřeb"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Prodejna autodílů"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Prodejna cukrovinek"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Prodejna outdoorového vybavení"
+    ,"UI_SpawnSelector_POITypeComicStore": "Prodejna komiksů"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Prodejna svatebních oděvů"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Prodejna tabáku"
+    ,"UI_SpawnSelector_POITypeFlorist": "Květinářství"
+    ,"UI_SpawnSelector_POITypePetStore": "Chovatelské potřeby"
+    ,"UI_SpawnSelector_POITypeBagStore": "Prodejna zavazadel"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Prodejna zednických potřeb"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Opravna hodin"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Opravna obuvi"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Prodejna šicích potřeb"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Obchod se suvenýry"
+    ,"UI_SpawnSelector_POIRoomCentre": "Střed místnosti"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Střed budovy"
+}

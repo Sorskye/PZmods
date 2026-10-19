@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "ここにスポーン",
+    "UI_SpawnSelector_DetailedMap": "詳細マップ",
+    "UI_SpawnSelector_StandardMap": "標準マップ",
+    "UI_SpawnSelector_RandomSpawn": "ランダムスポーン",
+    "UI_SpawnSelector_RandomBuilding": "ランダムな建物",
+    "UI_SpawnSelector_CoordinateTooltip": "正確なスポーン座標を入力してください",
+    "UI_SpawnSelector_SetPin": "暗証番号を設定する",
+    "UI_SpawnSelector_Key": "鍵",
+    "UI_SpawnSelector_CloseKey": "閉じるキー",
+    "UI_SpawnSelector_ErrorWholeNumbers": "X、Y、Z には有効な整数を入力してください。",
+    "UI_SpawnSelector_ErrorCoordinateRange": "入力された X または Y 座標はサポートされている範囲外です。",
+    "UI_SpawnSelector_ErrorZRange": "Z は %1 と %2 の間にある必要があります。",
+    "UI_SpawnSelector_LayerWarning": "レイヤーの選択により、スポーン Z レベルのみが変更されます。<LINE>マップには引き続き 1 階のレイアウトが表示されます。<LINE>存在しないレベルを選択すると、安全でない、または無効なスポーンが発生する可能性があります。",
+    "UI_SpawnSelector_RandomConfirm": "本気ですか？本当はランダムという意味です。<LINE>どこにでも現れる可能性があります。",
+    "UI_SpawnSelector_ErrorRandomLocation": "有効なランダムな場所が見つかりませんでした。もう一度試してください。",
+    "UI_SpawnSelector_ChoosingRandomLocation": "ランダムなスポーン場所を選択しています...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "完全にランダムな建物内にスポーンしますか?<LINE>検索には少し時間がかかる場合があります。",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "ランダムな建物は見つかりませんでした。もう一度試してください。",
+    "UI_SpawnSelector_SearchingRandomBuilding": "ランダムな建物を探しています...",
+    "UI_SpawnSelector_ErrorDeathZone": "最後に死亡した場所の近くにスポーンすることはできません。赤い円の外側の場所を選択してください。",
+    "UI_SpawnSelector_Title": "スポーン場所を選択してください",
+    "UI_SpawnSelector_Instructions": "クリックして選択します。ドラッグしてパンします。マウスホイールを使用してズームします。",
+    "UI_SpawnSelector_Selected": "選択済み: %1、%2 - ここでスポーンをクリックして開始します。",
+    "UI_SpawnSelector_ProjectIndianaDetected": "プロジェクト・インディアナの拡張が検出されました",
+    "UI_SpawnSelector_Credit": "N3WO が愛情を込めて作成しました",
+    "UI_SpawnSelector_ErrorRandomBuilding": "多くの場所を調べても、ランダムな建物は見つかりませんでした。もう一度試してください。",
+    "UI_SpawnSelector_ErrorLayerRange": "選択したスポーン レイヤはサポートされている範囲外です。",
+    "UI_SpawnSelector_ErrorNoFloor": "その位置およびレイヤーには有効なフロアが存在しません。別のレイヤーまたは位置を選択します。",
+    "UI_SpawnSelector_ErrorWater": "選択した場所は水です。堅い地面の上の位置を選択してください。",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "この建物タイプはサーバーによって生成が無効になっています。別の場所を選択してください。",
+    "UI_SpawnSelector_ErrorSafehouse": "他のプレイヤーのセーフハウス内にスポーンすることはできません。",
+    "UI_SpawnSelector_ErrorFloorLoad": "その場所には有効なフロアをロードできませんでした。別のレイヤーまたは位置を選択します。",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "この建物タイプは生成が無効になっています。別の場所を選択してください。",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "POIを追加",
+    "UI_SpawnSelector_POINamePrompt": "POI名を入力してください（任意）：",
+    "UI_SpawnSelector_POILocationPrompt": "町または地域を入力してください：",
+    "UI_SpawnSelector_POINotesPrompt": "役立つメモを入力してください（任意）：",
+    "UI_SpawnSelector_POIRecorded": "POIを %1、%2、%3 に記録しました。"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "記録済みPOIを表示"
+    ,"UI_SpawnSelector_POITypeFishingStore": "釣具店"
+    ,"UI_SpawnSelector_POITypeHairSalon": "美容院"
+    ,"UI_SpawnSelector_CustomPOI": "カスタムPOI"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "カスタムPOI名を入力してください："
+    ,"UI_SpawnSelector_POITypeFuelStation": "ガソリンスタンド"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "デパート"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "家電店"
+    ,"UI_SpawnSelector_POITypeClothingStore": "衣料品店"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "家具店"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "宝石店"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "スポーツ用品店"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "自動車部品店"
+    ,"UI_SpawnSelector_POITypeCandyStore": "菓子店"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "アウトドア用品店"
+    ,"UI_SpawnSelector_POITypeComicStore": "コミック専門店"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "婚礼衣装店"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "たばこ店"
+    ,"UI_SpawnSelector_POITypeFlorist": "花屋"
+    ,"UI_SpawnSelector_POITypePetStore": "ペットショップ"
+    ,"UI_SpawnSelector_POITypeBagStore": "かばん店"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "石工用品店"
+    ,"UI_SpawnSelector_POITypeClockRepair": "時計修理店"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "靴修理店"
+    ,"UI_SpawnSelector_POITypeSewingStore": "裁縫用品店"
+    ,"UI_SpawnSelector_POITypeGiftStore": "ギフトショップ"
+    ,"UI_SpawnSelector_POIRoomCentre": "部屋の中心"
+    ,"UI_SpawnSelector_POIBuildingCentre": "建物の中心"
+}

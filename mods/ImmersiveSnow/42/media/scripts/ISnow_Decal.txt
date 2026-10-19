@@ -1,0 +1,20 @@
+module ISnow
+{
+    imports { Base }
+
+    /* Never spawned: ISnow_Decals.lua draws every snow decal as the icon of this item with
+       Render3DItem, pointing its world texture at the decal's PNG first (UseWorldItem makes
+       Render3DItem take getWorldTexture). No 3D model on purpose; the blank icon is only there
+       because Render3DItem reads getTex() before the world texture. ScaleWorldIcon must match
+       ICON_SCALE in ISnow_Decals.lua. */
+    item Decal
+    {
+        DisplayCategory = Junk,
+        ItemType = base:normal,
+        Weight = 0.0,
+        Icon = ISnowBlank,
+        UseWorldItem = true,
+        ScaleWorldIcon = 1.0,
+        hidden = true,
+    }
+}

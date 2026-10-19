@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPAW AICI",
+    "UI_SpawnSelector_DetailedMap": "HARTA DETALIATĂ",
+    "UI_SpawnSelector_StandardMap": "HARTA STANDARD",
+    "UI_SpawnSelector_RandomSpawn": "SPAWN ALEATOARE",
+    "UI_SpawnSelector_RandomBuilding": "Clădire aleatorie",
+    "UI_SpawnSelector_CoordinateTooltip": "Introduceți coordonatele exacte de apariție",
+    "UI_SpawnSelector_SetPin": "SETARE PIN",
+    "UI_SpawnSelector_Key": "CHEIE",
+    "UI_SpawnSelector_CloseKey": "TASPA ÎNCHIDERE",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Introduceți numere întregi valide pentru X, Y și Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Coordonatele X sau Y introduse se află în afara intervalului acceptat.",
+    "UI_SpawnSelector_ErrorZRange": "Z trebuie să fie între %1 și %2.",
+    "UI_SpawnSelector_LayerWarning": "Selectarea stratului modifică numai nivelul Z de apariție.<LINE>Harta arată în continuare aspectul de la parter.<LINE>Selectarea unui nivel care nu există poate cauza o apariție nesigură sau nevalidă.",
+    "UI_SpawnSelector_RandomConfirm": "esti sigur? Ne referim cu adevărat la întâmplare.<LINE>Puteți apărea oriunde.",
+    "UI_SpawnSelector_ErrorRandomLocation": "O locație aleatorie validă nu a putut fi găsită. Vă rugăm să încercați din nou.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Alegerea unei locații aleatorii de apariție...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Apare în interiorul unei clădiri complet aleatorii?<LINE>Căutarea poate dura câteva momente.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "O clădire aleatorie nu a putut fi găsită. Vă rugăm să încercați din nou.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "În căutarea unei clădiri aleatorii...",
+    "UI_SpawnSelector_ErrorDeathZone": "Nu poți genera atât de aproape de locul unde ai murit ultima dată. Alegeți o locație în afara cercului roșu.",
+    "UI_SpawnSelector_Title": "SELECTAȚI LOCAȚIA DVS",
+    "UI_SpawnSelector_Instructions": "Faceți clic pentru a selecta. Trageți pentru a deplasa. Utilizați rotița mouse-ului pentru a mări.",
+    "UI_SpawnSelector_Selected": "Selectat: %1, %2 - Faceți clic pe SPAWN AICI pentru a începe.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Extinderea proiectului Indiana a fost detectată",
+    "UI_SpawnSelector_Credit": "Realizat cu dragoste de N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "O clădire aleatorie nu a putut fi găsită după verificarea mai multor locații. Vă rugăm să încercați din nou.",
+    "UI_SpawnSelector_ErrorLayerRange": "Stratul de generare selectat se află în afara intervalului acceptat.",
+    "UI_SpawnSelector_ErrorNoFloor": "Nu există podea validă în acea locație și strat. Alegeți alt strat sau poziție.",
+    "UI_SpawnSelector_ErrorWater": "Locația selectată este apa. Alegeți o poziție pe un teren solid.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Acest tip de clădire este dezactivat pentru generare de către server. Alegeți o altă locație.",
+    "UI_SpawnSelector_ErrorSafehouse": "Nu puteți apărea în casa altui jucător.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Niciun podea valabil nu a putut fi încărcat în acea locație. Alegeți alt strat sau poziție.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Acest tip de clădire este dezactivat pentru generare. Alegeți o altă locație.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Adaugă punct de interes",
+    "UI_SpawnSelector_POINamePrompt": "Introdu numele punctului de interes (opțional):",
+    "UI_SpawnSelector_POILocationPrompt": "Introdu localitatea sau zona:",
+    "UI_SpawnSelector_POINotesPrompt": "Introdu observații utile (opțional):",
+    "UI_SpawnSelector_POIRecorded": "Punct de interes înregistrat la %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Afișează punctele de interes înregistrate"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Magazin de pescuit"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Salon de coafură"
+    ,"UI_SpawnSelector_CustomPOI": "Punct de interes personalizat"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Introdu numele punctului de interes personalizat:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Benzinărie"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Magazin universal"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Magazin de electronice"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Magazin de îmbrăcăminte"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Magazin de mobilă"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Magazin de bijuterii"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Magazin de articole sportive"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Magazin de piese auto"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Magazin de dulciuri"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Magazin de echipamente pentru activități în aer liber"
+    ,"UI_SpawnSelector_POITypeComicStore": "Magazin de benzi desenate"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Magazin de articole pentru nuntă"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tutungerie"
+    ,"UI_SpawnSelector_POITypeFlorist": "Florărie"
+    ,"UI_SpawnSelector_POITypePetStore": "Magazin de animale"
+    ,"UI_SpawnSelector_POITypeBagStore": "Magazin de genți"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Magazin de materiale pentru zidărie"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Reparații ceasuri"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Reparații încălțăminte"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Magazin de articole pentru cusut"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Magazin de cadouri"
+    ,"UI_SpawnSelector_POIRoomCentre": "Centrul încăperii"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Centrul clădirii"
+}

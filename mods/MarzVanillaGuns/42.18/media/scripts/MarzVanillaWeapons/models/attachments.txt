@@ -1,0 +1,111 @@
+module Base {
+    model Pistol_Silencer {
+        mesh     = weapons/attachments/silencers|Pistol_Silencer,
+        texture  = weapons/attachments/silencers,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+    
+    model Heavy_Pistol_Silencer {
+        mesh     = weapons/attachments/silencers|Heavy_Pistol_Silencer,
+        texture  = weapons/attachments/silencers,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+    
+    model AR_Silencer {
+        mesh     = weapons/attachments/silencers|AR_Silencer,
+        texture  = weapons/attachments/silencers,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+    
+    model 556Muzzle {
+        mesh     = weapons/attachments/muzzles|556Muzzle,
+        texture  = weapons/attachments/556Muzzle,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+    
+    model 762Muzzle {
+        mesh     = weapons/attachments/muzzles|762Muzzle,
+        texture  = weapons/attachments/762Muzzle,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+    
+    model 762Muzzle_2 {
+        mesh     = weapons/attachments/muzzles|762Muzzle_2,
+        texture  = weapons/attachments/762Muzzle_2,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+
+    model Side_By_Side_Barrel_Open {
+        mesh     = weapons/firearms/Side_By_Side|Side_By_Side_Barrel_Open,
+        texture  = weapons/firearms/Side_By_Side,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+
+    model Side_By_Side_Barrel_Close {
+        mesh     = weapons/firearms/Side_By_Side|Side_By_Side_Barrel_Close,
+        texture  = weapons/firearms/Side_By_Side,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+
+    model Side_By_Side_Barrel_Sawnoff_Open {
+        mesh     = weapons/firearms/Side_By_Side|Side_By_Side_Barrel_Sawnoff_Open,
+        texture  = weapons/firearms/Side_By_Side,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+
+    model Side_By_Side_Barrel_Sawnoff_Close {
+        mesh     = weapons/firearms/Side_By_Side|Side_By_Side_Barrel_Sawnoff_Close,
+        texture  = weapons/firearms/Side_By_Side,
+        cullFace = None,
+        
+        attachment world {
+            offset = 0.0000 0.0000 0.0000,
+            rotate = 90.0000 0.0000 -90.0000,
+        }
+    }
+}

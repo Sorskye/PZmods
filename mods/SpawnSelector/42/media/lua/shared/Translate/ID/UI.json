@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "BERTUMBUH DI SINI",
+    "UI_SpawnSelector_DetailedMap": "PETA RINCI",
+    "UI_SpawnSelector_StandardMap": "PETA STANDAR",
+    "UI_SpawnSelector_RandomSpawn": "MUNCUL SECARA ACAK",
+    "UI_SpawnSelector_RandomBuilding": "BANGUNAN ACAK",
+    "UI_SpawnSelector_CoordinateTooltip": "Masukkan koordinat pemijahan yang tepat",
+    "UI_SpawnSelector_SetPin": "SETELAN PIN",
+    "UI_SpawnSelector_Key": "KUNCI",
+    "UI_SpawnSelector_CloseKey": "TUTUP KUNCI",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Masukkan bilangan bulat yang valid untuk X, Y, dan Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Koordinat X atau Y yang dimasukkan berada di luar rentang yang didukung.",
+    "UI_SpawnSelector_ErrorZRange": "Z harus berada di antara %1 dan %2.",
+    "UI_SpawnSelector_LayerWarning": "Pemilihan lapisan hanya mengubah level spawn Z saja.<LINE>Peta masih menunjukkan tata letak lantai dasar.<LINE>Memilih level yang tidak ada dapat menyebabkan spawn tidak aman atau tidak valid.",
+    "UI_SpawnSelector_RandomConfirm": "Apa kamu yakin? Maksud kami benar-benar acak.<LINE>Anda bisa muncul di mana saja.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Lokasi acak yang valid tidak dapat ditemukan. Silakan coba lagi.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Memilih lokasi spawn acak...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Muncul di dalam gedung yang benar-benar acak?<LINE>Pencarian mungkin memakan waktu beberapa saat.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Bangunan acak tidak dapat ditemukan. Silakan coba lagi.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Mencari bangunan acak...",
+    "UI_SpawnSelector_ErrorDeathZone": "Anda tidak dapat muncul sedekat ini dengan tempat terakhir Anda mati. Pilih lokasi di luar lingkaran merah.",
+    "UI_SpawnSelector_Title": "PILIH LOKASI SPAWN ANDA",
+    "UI_SpawnSelector_Instructions": "Klik untuk memilih. Seret untuk menggeser. Gunakan roda mouse untuk memperbesar.",
+    "UI_SpawnSelector_Selected": "Terpilih: %1, %2 - Klik SPAWN DI SINI untuk memulai.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Perluasan Proyek Indiana terdeteksi",
+    "UI_SpawnSelector_Credit": "Dibuat dengan cinta oleh N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Bangunan acak tidak dapat ditemukan setelah memeriksa banyak lokasi. Silakan coba lagi.",
+    "UI_SpawnSelector_ErrorLayerRange": "Lapisan spawn yang dipilih berada di luar jangkauan yang didukung.",
+    "UI_SpawnSelector_ErrorNoFloor": "Tidak ada nilai minimum yang valid di lokasi dan lapisan tersebut. Pilih lapisan atau posisi lain.",
+    "UI_SpawnSelector_ErrorWater": "Lokasi yang dipilih adalah perairan. Pilih posisi di tanah yang kokoh.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Jenis bangunan ini dinonaktifkan untuk pemijahan oleh server. Pilih lokasi lain.",
+    "UI_SpawnSelector_ErrorSafehouse": "Anda tidak dapat muncul di dalam safehouse pemain lain.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Tidak ada lantai valid yang dapat dimuat di lokasi tersebut. Pilih lapisan atau posisi lain.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Tipe bangunan ini dinonaktifkan untuk pemijahan. Pilih lokasi lain.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Tambahkan POI",
+    "UI_SpawnSelector_POINamePrompt": "Masukkan nama POI (opsional):",
+    "UI_SpawnSelector_POILocationPrompt": "Masukkan kota atau area:",
+    "UI_SpawnSelector_POINotesPrompt": "Masukkan catatan yang berguna (opsional):",
+    "UI_SpawnSelector_POIRecorded": "POI direkam di %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Tampilkan POI yang dipetakan"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Toko Peralatan Memancing"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Salon Rambut"
+    ,"UI_SpawnSelector_CustomPOI": "POI Khusus"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Masukkan nama POI khusus:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "SPBU"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Toserba"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Toko Elektronik"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Toko Pakaian"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Toko Furnitur"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Toko Perhiasan"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Toko Peralatan Olahraga"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Toko Suku Cadang Mobil"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Toko Permen"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Toko Perlengkapan Luar Ruangan"
+    ,"UI_SpawnSelector_POITypeComicStore": "Toko Komik"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Toko Perlengkapan Pernikahan"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Toko Tembakau"
+    ,"UI_SpawnSelector_POITypeFlorist": "Toko Bunga"
+    ,"UI_SpawnSelector_POITypePetStore": "Toko Hewan Peliharaan"
+    ,"UI_SpawnSelector_POITypeBagStore": "Toko Tas"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Toko Perlengkapan Pertukangan Batu"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Toko Reparasi Jam"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Toko Reparasi Sepatu"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Toko Perlengkapan Menjahit"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Toko Hadiah"
+    ,"UI_SpawnSelector_POIRoomCentre": "Tengah ruangan"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Tengah bangunan"
+}

@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Bloc de generació a prop de la ubicació de la mort",
+    "Sandbox_DeathZoneEnabled_tooltip": "Impedeix que un jugador utilitzi Spawn Selector per tornar a aparèixer a prop d'on va morir el seu personatge anterior, cosa que fa que sigui més difícil recuperar immediatament l'equip perdut amb un personatge nou.",
+    "Sandbox_DeathZoneRadius": "Radi de bloc (rajoles)",
+    "Sandbox_DeathZoneRadius_tooltip": "Fins a quin punt, en fitxes, la zona sense generació s'estén al voltant de la ubicació de la mort d'un jugador.",
+    "Sandbox_DeathZoneDurationHours": "Durada del bloc (hores del món real)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Quantes hores en el món real dura el bloc després de la mort. Establiu a 0 per bloquejar l'àrea permanentment.",
+    "Sandbox_AllowWeaponsMilitary": "Permet la generació en edificis d'armes i militars",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Botigues d'armes, camps de tir, botigues d'excedents de l'exèrcit i altres edificis militars. Desmarqueu per evitar que Spawn Selector col·loqui jugadors dins d'aquests.",
+    "Sandbox_AllowMedical": "Permetre la posta en edificis mèdics",
+    "Sandbox_AllowMedical_tooltip": "Hospitals, consultoris mèdics, dentistes, farmàcies, residències d'avis i laboratoris.",
+    "Sandbox_AllowLawEnforcement": "Permetre la posta als edificis de la policia",
+    "Sandbox_AllowLawEnforcement_tooltip": "Comissaries, presons i parcs de bombers.",
+    "Sandbox_AllowRetailShops": "Permetre la generació a les botigues",
+    "Sandbox_AllowRetailShops_tooltip": "Botigues generals, centres comercials, botigues de roba, botigues d'electrònica, benzineres i altres botigues minoristes.",
+    "Sandbox_AllowFoodDrink": "Permet la generació en restaurants i bars",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurants, cafeteries, bars, fleques i altres llocs de menjar i begudes.",
+    "Sandbox_AllowIndustrial": "Permetre la posta a les naus industrials",
+    "Sandbox_AllowIndustrial_tooltip": "Fàbriques, magatzems i unitats d'emmagatzematge.",
+    "Sandbox_AllowResidentialLodging": "Permetre la generació a les cases i allotjament",
+    "Sandbox_AllowResidentialLodging_tooltip": "Cases, motels, hotels i parcs de caravanes.",
+    "Sandbox_AllowCivicPublic": "Permetre la posta en edificis cívics i públics",
+    "Sandbox_AllowCivicPublic_tooltip": "Esglésies, escoles, biblioteques, oficines i oficines de correus.",
+    "Sandbox_AllowRecreation": "Permetre la posta en edificis d'esbarjo",
+    "Sandbox_AllowRecreation_tooltip": "Gimnasos, teatres, pistes de bitlles, piscines i altres espais d'oci.",
+    "Sandbox_GiveBuildingKey": "Dóna al jugador una clau per al seu edifici de generació",
+    "Sandbox_GiveBuildingKey_tooltip": "Si l'edifici on apareix un jugador té un pany, doneu-li automàticament una clau que coincideixi perquè no estiguin tancats dins o fora del seu propi edifici inicial."
+    ,"Sandbox_ShowPOIs": "Mostra els punts d'interès"
+    ,"Sandbox_ShowPOIs_tooltip": "Mostra els punts d'interès marcats al mapa de selecció del punt d'aparició. Desmarca aquesta opció per ocultar als jugadors el botó i tots els marcadors."
+}

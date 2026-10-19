@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokk ívás a halál közelében",
+    "Sandbox_DeathZoneEnabled_tooltip": "Megakadályozza a játékosokat abban, hogy a Spawn Selector használatával visszatérjenek ahhoz a helyhez, ahol előző karakterük meghalt, megnehezítve az elveszett felszerelés azonnali visszaszerzését egy friss karakterrel.",
+    "Sandbox_DeathZoneRadius": "Blokksugár (csempék)",
+    "Sandbox_DeathZoneRadius_tooltip": "A lapkákban milyen messzire terjed ki a no-spawn zóna a játékos halálozási helye körül.",
+    "Sandbox_DeathZoneDurationHours": "Letiltás időtartama (valódi órákban)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Hány valós órát tart a blokk a halál után. Állítsa 0-ra a terület végleges blokkolásához.",
+    "Sandbox_AllowWeaponsMilitary": "Az ívás engedélyezése fegyver- és katonai épületekben",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Fegyverboltok, lőterek, hadseregfelesleg-raktárak és egyéb katonai épületek. Törölje a pipát, hogy megakadályozza, hogy a Spawn Selector játékosokat helyezzen ezekbe.",
+    "Sandbox_AllowMedical": "Az ívás engedélyezése egészségügyi épületekben",
+    "Sandbox_AllowMedical_tooltip": "Kórházak, orvosi rendelők, fogorvosok, gyógyszertárak, idősotthonok és laboratóriumok.",
+    "Sandbox_AllowLawEnforcement": "Az ívás engedélyezése a rendészeti épületekben",
+    "Sandbox_AllowLawEnforcement_tooltip": "Rendőrkapitányságok, börtönök és tűzoltóállomások.",
+    "Sandbox_AllowRetailShops": "Az ívás engedélyezése az üzletekben",
+    "Sandbox_AllowRetailShops_tooltip": "Általános üzletek, bevásárlóközpontok, ruhaüzletek, elektronikai üzletek, benzinkutak és egyéb kiskereskedelmi üzletek.",
+    "Sandbox_AllowFoodDrink": "Az ívás engedélyezése éttermekben és bárokban",
+    "Sandbox_AllowFoodDrink_tooltip": "Éttermek, kávézók, bárok, pékségek és egyéb étel- és italhelyek.",
+    "Sandbox_AllowIndustrial": "Az ívás engedélyezése ipari épületekben",
+    "Sandbox_AllowIndustrial_tooltip": "Gyárak, raktárak és raktáregységek.",
+    "Sandbox_AllowResidentialLodging": "Az ívás engedélyezése otthonokban és szálláshelyeken",
+    "Sandbox_AllowResidentialLodging_tooltip": "Házak, motelek, szállodák és lakóparkok.",
+    "Sandbox_AllowCivicPublic": "Az ívás engedélyezése polgári és középületekben",
+    "Sandbox_AllowCivicPublic_tooltip": "Templomok, iskolák, könyvtárak, hivatalok és posták.",
+    "Sandbox_AllowRecreation": "Az ívás engedélyezése üdülőépületekben",
+    "Sandbox_AllowRecreation_tooltip": "Edzőtermek, színházak, tekepályák, uszodák és egyéb szórakozóhelyek.",
+    "Sandbox_GiveBuildingKey": "Adj a játékosnak kulcsot a Spawn épületéhez",
+    "Sandbox_GiveBuildingKey_tooltip": "Ha az épület, amelybe a játékos belép, zárral rendelkezik, akkor automatikusan adj hozzá egy megfelelő kulcsot, hogy ne legyenek bezárva a saját kezdő épületükbe, vagy ki ne kerüljenek onnan."
+    ,"Sandbox_ShowPOIs": "Érdekes helyek megjelenítése"
+    ,"Sandbox_ShowPOIs_tooltip": "Megjeleníti a megjelölt érdekes helyeket a kezdőhelyválasztó térképen. Kapcsold ki, hogy a gomb és minden jelölő rejtve maradjon a játékosok elől."
+}

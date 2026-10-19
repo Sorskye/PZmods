@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Strewberrie",
+    "Sandbox_DeathZoneEnabled": "Strewberrie",
+    "Sandbox_DeathZoneEnabled_tooltip": "Strewberrie",
+    "Sandbox_DeathZoneRadius": "Strewberrie",
+    "Sandbox_DeathZoneRadius_tooltip": "Strewberrie",
+    "Sandbox_DeathZoneDurationHours": "Strewberrie",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Strewberrie",
+    "Sandbox_AllowWeaponsMilitary": "Strewberrie",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Strewberrie",
+    "Sandbox_AllowMedical": "Strewberrie",
+    "Sandbox_AllowMedical_tooltip": "Strewberrie",
+    "Sandbox_AllowLawEnforcement": "Strewberrie",
+    "Sandbox_AllowLawEnforcement_tooltip": "Strewberrie",
+    "Sandbox_AllowRetailShops": "Strewberrie",
+    "Sandbox_AllowRetailShops_tooltip": "Strewberrie",
+    "Sandbox_AllowFoodDrink": "Strewberrie",
+    "Sandbox_AllowFoodDrink_tooltip": "Strewberrie",
+    "Sandbox_AllowIndustrial": "Strewberrie",
+    "Sandbox_AllowIndustrial_tooltip": "Strewberrie",
+    "Sandbox_AllowResidentialLodging": "Strewberrie",
+    "Sandbox_AllowResidentialLodging_tooltip": "Strewberrie",
+    "Sandbox_AllowCivicPublic": "Strewberrie",
+    "Sandbox_AllowCivicPublic_tooltip": "Strewberrie",
+    "Sandbox_AllowRecreation": "Strewberrie",
+    "Sandbox_AllowRecreation_tooltip": "Strewberrie",
+    "Sandbox_GiveBuildingKey": "Strewberrie",
+    "Sandbox_GiveBuildingKey_tooltip": "Strewberrie"
+    ,"Sandbox_ShowPOIs": "Show pointy places"
+    ,"Sandbox_ShowPOIs_tooltip": "Shows all the pointy-place dots on the spawn-pickin map. Untick it to hide the button and all the dots from players."
+}

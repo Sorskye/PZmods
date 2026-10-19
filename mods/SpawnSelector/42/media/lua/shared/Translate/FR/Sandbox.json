@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Bloquer l'apparition d'un emplacement proche de la mort",
+    "Sandbox_DeathZoneEnabled_tooltip": "Empêche un joueur d'utiliser Spawn Selector pour réapparaître près de l'endroit où son personnage précédent est mort, ce qui rend plus difficile la récupération immédiate de l'équipement perdu avec un nouveau personnage.",
+    "Sandbox_DeathZoneRadius": "Rayon de bloc (tuiles)",
+    "Sandbox_DeathZoneRadius_tooltip": "Dans quelle mesure, en tuiles, la zone de non-apparition s'étend autour du lieu de mort d'un joueur.",
+    "Sandbox_DeathZoneDurationHours": "Durée du bloc (heures réelles)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Combien d'heures dans le monde réel dure le blocage après la mort. Réglez sur 0 pour bloquer la zone de manière permanente.",
+    "Sandbox_AllowWeaponsMilitary": "Autoriser l'apparition dans les bâtiments d'armes et militaires",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Magasins d'armes, champs de tir, magasins de surplus de l'armée et autres bâtiments militaires. Décochez pour empêcher Spawn Selector de placer des joueurs à l'intérieur.",
+    "Sandbox_AllowMedical": "Autoriser l'apparition dans les bâtiments médicaux",
+    "Sandbox_AllowMedical_tooltip": "Hôpitaux, cabinets médicaux, dentistes, pharmacies, maisons de retraite et laboratoires.",
+    "Sandbox_AllowLawEnforcement": "Autoriser l'apparition dans les bâtiments des forces de l'ordre",
+    "Sandbox_AllowLawEnforcement_tooltip": "Commissariats de police, prisons et casernes de pompiers.",
+    "Sandbox_AllowRetailShops": "Autoriser l'apparition dans les magasins",
+    "Sandbox_AllowRetailShops_tooltip": "Magasins généraux, centres commerciaux, magasins de vêtements, magasins d'électronique, stations-service et autres magasins de détail.",
+    "Sandbox_AllowFoodDrink": "Autoriser l'apparition dans les restaurants et les bars",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurants, cafés, bars, boulangeries et autres lieux de restauration.",
+    "Sandbox_AllowIndustrial": "Autoriser l'apparition dans les bâtiments industriels",
+    "Sandbox_AllowIndustrial_tooltip": "Usines, entrepôts et unités de stockage.",
+    "Sandbox_AllowResidentialLodging": "Autoriser le frai dans les maisons et les hébergements",
+    "Sandbox_AllowResidentialLodging_tooltip": "Maisons, motels, hôtels et parcs à roulottes.",
+    "Sandbox_AllowCivicPublic": "Autoriser l'apparition dans les bâtiments civiques et publics",
+    "Sandbox_AllowCivicPublic_tooltip": "Églises, écoles, bibliothèques, bureaux et bureaux de poste.",
+    "Sandbox_AllowRecreation": "Autoriser l'apparition dans les bâtiments de loisirs",
+    "Sandbox_AllowRecreation_tooltip": "Salles de sport, théâtres, pistes de bowling, piscines et autres lieux de divertissement.",
+    "Sandbox_GiveBuildingKey": "Donnez au joueur une clé de son bâtiment d'apparition",
+    "Sandbox_GiveBuildingKey_tooltip": "Si le bâtiment dans lequel un joueur apparaît possède un verrou, donnez-lui automatiquement une clé correspondante afin qu'il ne soit pas enfermé dans ou hors de son propre bâtiment de départ."
+    ,"Sandbox_ShowPOIs": "Afficher les points d’intérêt"
+    ,"Sandbox_ShowPOIs_tooltip": "Affiche les points d’intérêt indiqués sur la carte de sélection du lieu d’apparition. Décochez cette option pour masquer aux joueurs le bouton et tous les marqueurs."
+}

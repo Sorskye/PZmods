@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Umístění bloku tření poblíž smrti",
+    "Sandbox_DeathZoneEnabled_tooltip": "Zabraňuje hráči používat Spawn Selector ke spawnování v blízkosti místa, kde zemřela jejich předchozí postava, takže je obtížnější okamžitě získat zpět ztracené vybavení s novou postavou.",
+    "Sandbox_DeathZoneRadius": "Poloměr bloku (dlaždice)",
+    "Sandbox_DeathZoneRadius_tooltip": "Jak daleko v dlaždicích sahá zóna bez spawnování kolem místa smrti hráče.",
+    "Sandbox_DeathZoneDurationHours": "Trvání bloku (hodiny v reálném světě)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Kolik hodin v reálném světě trvá blok po smrti. Nastavením na 0 bude oblast trvale blokována.",
+    "Sandbox_AllowWeaponsMilitary": "Povolte spawnování ve zbraních a vojenských budovách",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Sklady zbraní, střelnice, sklady armádních přebytků a další vojenské budovy. Zrušením zaškrtnutí zabráníte Spawn Selector umístit hráče dovnitř.",
+    "Sandbox_AllowMedical": "Povolit tření v lékařských budovách",
+    "Sandbox_AllowMedical_tooltip": "Nemocnice, ordinace, zubaři, lékárny, pečovatelské domy a laboratoře.",
+    "Sandbox_AllowLawEnforcement": "Povolit tření v budovách pro vymáhání práva",
+    "Sandbox_AllowLawEnforcement_tooltip": "Policejní stanice, věznice a hasičské stanice.",
+    "Sandbox_AllowRetailShops": "Povolit spawnování v obchodech",
+    "Sandbox_AllowRetailShops_tooltip": "Obchody se smíšeným zbožím, nákupní centra, obchody s oblečením, obchody s elektronikou, čerpací stanice a další maloobchodní prodejny.",
+    "Sandbox_AllowFoodDrink": "Povolit spawnování v restauracích a barech",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurace, kavárny, bary, pekárny a další místa pro jídlo a pití.",
+    "Sandbox_AllowIndustrial": "Povolit tření v průmyslových budovách",
+    "Sandbox_AllowIndustrial_tooltip": "Továrny, sklady a skladové jednotky.",
+    "Sandbox_AllowResidentialLodging": "Povolit tření v domácnostech a ubytování",
+    "Sandbox_AllowResidentialLodging_tooltip": "Domy, motely, hotely a přívěsové parky.",
+    "Sandbox_AllowCivicPublic": "Povolit spawnování v občanských a veřejných budovách",
+    "Sandbox_AllowCivicPublic_tooltip": "Kostely, školy, knihovny, úřady a pošty.",
+    "Sandbox_AllowRecreation": "Povolit tření v rekreačních budovách",
+    "Sandbox_AllowRecreation_tooltip": "Tělocvičny, divadla, bowlingové dráhy, bazény a další zábavní podniky.",
+    "Sandbox_GiveBuildingKey": "Dejte hráči klíč k jejich potěrové budově",
+    "Sandbox_GiveBuildingKey_tooltip": "Pokud budova, ve které se hráč objeví, má zámek, dejte jim k ní automaticky odpovídající klíč, aby nebyli zamčeni ve své vlastní počáteční budově nebo mimo ni."
+    ,"Sandbox_ShowPOIs": "Zobrazit zajímavá místa"
+    ,"Sandbox_ShowPOIs_tooltip": "Zobrazí označená zajímavá místa na mapě výběru místa zrodu. Zrušením volby skryjete hráčům tlačítko i všechny značky."
+}

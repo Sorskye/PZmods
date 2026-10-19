@@ -1,0 +1,10 @@
+name=Vanilla Weapons Plus - Gunworks Edition
+poster=poster.png
+id=MarzVanillaGuns
+description=Tweaks Existing Vanilla Weapons to use Gunworks systems and adds a few new entries
+icon=logo_mini.png
+versionMin=42.19
+require=SWMG
+loadModAfter=HBVCEFb42,SWMG
+incompatible=RAF,VFExpansionReduxb42,VFExpansion2Reduxb42,VFExpansion3Reduxb42
+author=Marz

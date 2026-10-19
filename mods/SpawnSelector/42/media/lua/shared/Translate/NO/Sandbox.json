@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokker gyting nær døden",
+    "Sandbox_DeathZoneEnabled_tooltip": "Stopper en spiller fra å bruke Spawn Selector for å spawne tilbake i nærheten av der den forrige karakteren døde, noe som gjør det vanskeligere å gjenvinne tapt utstyr umiddelbart med en frisk karakter.",
+    "Sandbox_DeathZoneRadius": "Blokkradius (fliser)",
+    "Sandbox_DeathZoneRadius_tooltip": "Hvor langt, i fliser, strekker no-spawn-sonen seg rundt en spillers dødssted.",
+    "Sandbox_DeathZoneDurationHours": "Blokkeringsvarighet (virkelige timer)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Hvor mange timer i den virkelige verden varer blokken etter døden. Sett til 0 for å blokkere området permanent.",
+    "Sandbox_AllowWeaponsMilitary": "Tillat gyting i våpen- og militærbygninger",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Våpenbutikker, skytebaner, hærens overskuddsbutikker og andre militære bygninger. Fjern haken for å stoppe Spawn Selector fra å plassere spillere i disse.",
+    "Sandbox_AllowMedical": "Tillat gyting i medisinske bygninger",
+    "Sandbox_AllowMedical_tooltip": "Sykehus, legekontor, tannleger, apotek, sykehjem og laboratorier.",
+    "Sandbox_AllowLawEnforcement": "Tillat gyting i rettshåndhevelsesbygninger",
+    "Sandbox_AllowLawEnforcement_tooltip": "Politistasjoner, fengsler og brannstasjoner.",
+    "Sandbox_AllowRetailShops": "Tillat gyting i butikker",
+    "Sandbox_AllowRetailShops_tooltip": "Generelle butikker, kjøpesentre, klesbutikker, elektronikkbutikker, bensinstasjoner og andre butikker.",
+    "Sandbox_AllowFoodDrink": "Tillat gyting i restauranter og barer",
+    "Sandbox_AllowFoodDrink_tooltip": "Restauranter, kafeer, barer, bakerier og andre mat- og drikkesteder.",
+    "Sandbox_AllowIndustrial": "Tillat gyting i industribygninger",
+    "Sandbox_AllowIndustrial_tooltip": "Fabrikker, lager og lagerenheter.",
+    "Sandbox_AllowResidentialLodging": "Tillat gyting i hjem og overnatting",
+    "Sandbox_AllowResidentialLodging_tooltip": "Hus, moteller, hoteller og trailerparker.",
+    "Sandbox_AllowCivicPublic": "Tillat gyting i offentlige og offentlige bygninger",
+    "Sandbox_AllowCivicPublic_tooltip": "Kirker, skoler, biblioteker, kontorer og postkontorer.",
+    "Sandbox_AllowRecreation": "Tillat gyting i rekreasjonsbygninger",
+    "Sandbox_AllowRecreation_tooltip": "Treningssentre, teatre, bowlingbaner, svømmebassenger og andre underholdningssteder.",
+    "Sandbox_GiveBuildingKey": "Gi spilleren en nøkkel til spawn-bygningen deres",
+    "Sandbox_GiveBuildingKey_tooltip": "Hvis bygningen en spiller gyter i har en lås, gi dem automatisk en matchende nøkkel for den slik at de ikke blir låst inn eller ute av sin egen startbygning."
+    ,"Sandbox_ShowPOIs": "Vis interessepunkter"
+    ,"Sandbox_ShowPOIs_tooltip": "Viser markerte interessepunkter på kartet for valg av startsted. Fjern avmerkingen for å skjule knappen og alle markører for spillerne."
+}

@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "บล็อกการวางไข่ใกล้สถานที่ตาย",
+    "Sandbox_DeathZoneEnabled_tooltip": "หยุดผู้เล่นไม่ให้ใช้ Spawn Selector เพื่อวางไข่ใกล้กับจุดที่ตัวละครก่อนหน้านี้ตาย ทำให้ยากขึ้นในการเรียกคืนอุปกรณ์ที่หายไปทันทีด้วยตัวละครใหม่",
+    "Sandbox_DeathZoneRadius": "รัศมีบล็อก (กระเบื้อง)",
+    "Sandbox_DeathZoneRadius_tooltip": "โซนห้ามเกิดจะขยายออกไปรอบๆ ตำแหน่งที่ผู้เล่นเสียชีวิตเพียงใด",
+    "Sandbox_DeathZoneDurationHours": "ระยะเวลาบล็อก (ชั่วโมงในโลกแห่งความเป็นจริง)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "บล็อกนี้ใช้เวลาในโลกแห่งความเป็นจริงกี่ชั่วโมงหลังจากการตาย ตั้งค่าเป็น 0 เพื่อบล็อกพื้นที่อย่างถาวร",
+    "Sandbox_AllowWeaponsMilitary": "อนุญาตให้วางไข่ในอาคารอาวุธและทหาร",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "ร้านขายปืน สนามยิงปืน ร้านขายสินค้าเหลือใช้ของกองทัพ และสิ่งปลูกสร้างทางการทหารอื่นๆ ยกเลิกการเลือกเพื่อหยุด Spawn Selector ไม่ให้วางผู้เล่นไว้ในสิ่งเหล่านี้",
+    "Sandbox_AllowMedical": "อนุญาตให้วางไข่ในอาคารทางการแพทย์",
+    "Sandbox_AllowMedical_tooltip": "โรงพยาบาล สำนักงานแพทย์ ทันตแพทย์ ร้านขายยา สถานพยาบาล และห้องปฏิบัติการ",
+    "Sandbox_AllowLawEnforcement": "อนุญาตให้วางไข่ในอาคารบังคับใช้กฎหมาย",
+    "Sandbox_AllowLawEnforcement_tooltip": "สถานีตำรวจ เรือนจำ และสถานีดับเพลิง",
+    "Sandbox_AllowRetailShops": "อนุญาตให้วางไข่ในร้านค้า",
+    "Sandbox_AllowRetailShops_tooltip": "ร้านค้าทั่วไป ห้างสรรพสินค้า ร้านเสื้อผ้า ร้านเครื่องใช้ไฟฟ้า ปั๊มน้ำมัน และร้านค้าปลีกอื่นๆ",
+    "Sandbox_AllowFoodDrink": "อนุญาตให้วางไข่ในร้านอาหารและบาร์",
+    "Sandbox_AllowFoodDrink_tooltip": "ร้านอาหาร ร้านกาแฟ บาร์ ร้านเบเกอรี่ และสถานที่จำหน่ายอาหารและเครื่องดื่มอื่นๆ",
+    "Sandbox_AllowIndustrial": "อนุญาตให้วางไข่ในอาคารอุตสาหกรรม",
+    "Sandbox_AllowIndustrial_tooltip": "โรงงาน โกดัง และหน่วยจัดเก็บ",
+    "Sandbox_AllowResidentialLodging": "อนุญาตให้วางไข่ในบ้านและที่พัก",
+    "Sandbox_AllowResidentialLodging_tooltip": "บ้าน โมเทล โรงแรม และลานจอดรถพ่วง",
+    "Sandbox_AllowCivicPublic": "อนุญาตให้วางไข่ในอาคารสาธารณะและอาคารสาธารณะ",
+    "Sandbox_AllowCivicPublic_tooltip": "โบสถ์ โรงเรียน ห้องสมุด สำนักงาน และที่ทำการไปรษณีย์",
+    "Sandbox_AllowRecreation": "อนุญาตให้วางไข่ในอาคารสันทนาการ",
+    "Sandbox_AllowRecreation_tooltip": "โรงยิม โรงละคร ลานโบว์ลิ่ง สระว่ายน้ำ และสถานบันเทิงอื่นๆ",
+    "Sandbox_GiveBuildingKey": "มอบกุญแจให้กับผู้เล่นในการสร้างการวางไข่",
+    "Sandbox_GiveBuildingKey_tooltip": "หากอาคารที่ผู้เล่นวางไข่มีการล็อค ให้มอบกุญแจที่ตรงกันแก่พวกเขาโดยอัตโนมัติ เพื่อที่พวกเขาจะได้ไม่ถูกล็อคเข้าหรือออกจากอาคารเริ่มต้นของตนเอง"
+    ,"Sandbox_ShowPOIs": "แสดงจุดที่น่าสนใจ"
+    ,"Sandbox_ShowPOIs_tooltip": "แสดงจุดที่น่าสนใจที่ทำเครื่องหมายไว้บนแผนที่เลือกจุดเกิด ยกเลิกตัวเลือกนี้เพื่อซ่อนปุ่มและเครื่องหมายทั้งหมดจากผู้เล่น"
+}

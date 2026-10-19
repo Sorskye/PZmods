@@ -1,0 +1,48 @@
+module Base {
+    fixing Fix M93R {
+        Require = Base.Pistolm93r,
+        Fixer   = Base.Pistolm93r; Aiming=3,
+    }
+
+    fixing Fix Glock 17 {
+        Require = Base.PistolGlock,
+        Fixer   = Base.PistolGlock; Aiming=3,
+    }
+    
+    fixing Fix M16A3 {
+        Require = Base.AssaultRifleA3,
+        Fixer   = Base.AssaultRifleA3; Aiming=5,
+    }
+    
+    fixing Fix M4 {
+        Require = Base.AssaultRifleM4,
+        Fixer   = Base.AssaultRifleM4; Aiming=5,
+    }
+    
+    fixing Fix SR25 Rifle {
+        Require = Base.SR25_Rifle,
+        Fixer   = Base.SR25_Rifle; Aiming=5,
+    }
+    
+    fixing Fix JS-556 Rifle {
+        Require = Base.AC556,
+        Fixer   = Base.AC556; Aiming=5,
+    }
+
+    fixing Fix Syde By Side Shotgun {
+        Require = Base.Side_By_Side,
+        Fixer   = Base.Side_By_Side; Aiming=5,
+    }
+    
+    fixing Fix MP5 SMG {
+        Require = Base.MP5_SMG,
+        Fixer   = Base.MP5_SMG; Aiming=5,
+        Fixer   = Base.MP5SD_SMG; Aiming=5,
+    }
+    
+    fixing Fix MP5SD SMG {
+        Require = Base.MP5SD_SMG,
+        Fixer   = Base.MP5_SMG; Aiming=5,
+        Fixer   = Base.MP5SD_SMG; Aiming=5,
+    }
+}

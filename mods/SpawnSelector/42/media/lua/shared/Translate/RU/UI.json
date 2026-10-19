@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "ВОЗНИКНУТЬ ЗДЕСЬ",
+    "UI_SpawnSelector_DetailedMap": "ПОДРОБНАЯ КАРТА",
+    "UI_SpawnSelector_StandardMap": "СТАНДАРТНАЯ КАРТА",
+    "UI_SpawnSelector_RandomSpawn": "СЛУЧАЙНОЕ ПОЯВЛЕНИЕ",
+    "UI_SpawnSelector_RandomBuilding": "СЛУЧАЙНОЕ ЗДАНИЕ",
+    "UI_SpawnSelector_CoordinateTooltip": "Введите точные координаты появления",
+    "UI_SpawnSelector_SetPin": "УСТАНОВИТЬ ПИН-код",
+    "UI_SpawnSelector_Key": "КЛЮЧ",
+    "UI_SpawnSelector_CloseKey": "ЗАКРЫТЬ КЛЮЧ",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Введите допустимые целые числа для X, Y и Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Введенная координата X или Y находится за пределами поддерживаемого диапазона.",
+    "UI_SpawnSelector_ErrorZRange": "Z должен находиться между %1 и %2.",
+    "UI_SpawnSelector_LayerWarning": "Выбор слоя меняет только уровень Z появления. <LINE>На карте по-прежнему отображается планировка первого этажа. <LINE>Выбор несуществующего уровня может привести к небезопасному или недействительному появлению.",
+    "UI_SpawnSelector_RandomConfirm": "Вы уверены? На самом деле мы имеем в виду случайность.<LINE>Вы можете появиться где угодно.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Не удалось найти допустимое случайное местоположение. Пожалуйста, попробуйте еще раз.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Выбор случайного места появления...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Появитесь внутри совершенно случайного здания? <LINE>Поиск может занять несколько минут.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Случайное здание найти не удалось. Пожалуйста, попробуйте еще раз.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Ищем случайное здание...",
+    "UI_SpawnSelector_ErrorDeathZone": "Вы не можете появиться так близко к тому месту, где вы в последний раз умерли. Выберите место за пределами красного круга.",
+    "UI_SpawnSelector_Title": "ВЫБЕРИТЕ МЕСТА СВОЕГО СПОНА",
+    "UI_SpawnSelector_Instructions": "Нажмите, чтобы выбрать. Перетащите, чтобы панорамировать. Используйте колесо мыши для масштабирования.",
+    "UI_SpawnSelector_Selected": "Выбрано: %1, %2 — Чтобы начать, нажмите «SPAWN ЗДЕСЬ».",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Обнаружено расширение проекта «Индиана»",
+    "UI_SpawnSelector_Credit": "Сделано с любовью N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Случайное здание не удалось найти после проверки многих локаций. Пожалуйста, попробуйте еще раз.",
+    "UI_SpawnSelector_ErrorLayerRange": "Выбранный слой появления находится за пределами поддерживаемого диапазона.",
+    "UI_SpawnSelector_ErrorNoFloor": "В этом местоположении и слое не существует допустимого этажа. Выберите другой слой или положение.",
+    "UI_SpawnSelector_ErrorWater": "Выбранное место — вода. Выберите позицию на твердой земле.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Этот тип здания отключен для появления на сервере. Выберите другое место.",
+    "UI_SpawnSelector_ErrorSafehouse": "Вы не можете появиться внутри убежища другого игрока.",
+    "UI_SpawnSelector_ErrorFloorLoad": "В этом месте не удалось загрузить действительный этаж. Выберите другой слой или положение.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Этот тип здания отключен для появления. Выберите другое место.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Добавить точку интереса",
+    "UI_SpawnSelector_POINamePrompt": "Введите название точки интереса (необязательно):",
+    "UI_SpawnSelector_POILocationPrompt": "Введите город или район:",
+    "UI_SpawnSelector_POINotesPrompt": "Введите полезные примечания (необязательно):",
+    "UI_SpawnSelector_POIRecorded": "Точка интереса записана в координатах %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Показать записанные точки интереса"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Рыболовный магазин"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Парикмахерская"
+    ,"UI_SpawnSelector_CustomPOI": "Пользовательская точка интереса"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Введите название пользовательской точки интереса:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Автозаправочная станция"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Универмаг"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Магазин электроники"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Магазин одежды"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Мебельный магазин"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Ювелирный магазин"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Магазин спортивных товаров"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Магазин автозапчастей"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Магазин сладостей"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Магазин товаров для активного отдыха"
+    ,"UI_SpawnSelector_POITypeComicStore": "Магазин комиксов"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Свадебный магазин"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Табачный магазин"
+    ,"UI_SpawnSelector_POITypeFlorist": "Цветочный магазин"
+    ,"UI_SpawnSelector_POITypePetStore": "Зоомагазин"
+    ,"UI_SpawnSelector_POITypeBagStore": "Магазин сумок"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Магазин материалов для каменной кладки"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Ремонт часов"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Ремонт обуви"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Магазин швейных принадлежностей"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Магазин подарков"
+    ,"UI_SpawnSelector_POIRoomCentre": "Центр помещения"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Центр здания"
+}

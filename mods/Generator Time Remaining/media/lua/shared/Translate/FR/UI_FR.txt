@@ -1,0 +1,4 @@
+UI_FR = {
+  UI_GTR_Options_ReqLevel  = "Niveau requis en Électricité",
+  UI_GTR_Options_Convert   = "Convertir en Temps Réel"
+} 

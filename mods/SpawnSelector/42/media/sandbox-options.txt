@@ -1,0 +1,117 @@
+VERSION = 1,
+
+option SpawnSelector.DeathZoneEnabled
+{
+    type = boolean,
+    default = false,
+    page = SpawnSelector,
+    translation = DeathZoneEnabled,
+}
+
+option SpawnSelector.DeathZoneRadius
+{
+    type = integer,
+    default = 100,
+    min = 5,
+    max = 1000,
+    page = SpawnSelector,
+    translation = DeathZoneRadius,
+}
+
+option SpawnSelector.DeathZoneDurationHours
+{
+    type = double,
+    default = 24.0,
+    min = 0.0,
+    max = 999.0,
+    page = SpawnSelector,
+    translation = DeathZoneDurationHours,
+}
+
+option SpawnSelector.AllowWeaponsMilitary
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowWeaponsMilitary,
+}
+
+option SpawnSelector.AllowMedical
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowMedical,
+}
+
+option SpawnSelector.AllowLawEnforcement
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowLawEnforcement,
+}
+
+option SpawnSelector.AllowRetailShops
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowRetailShops,
+}
+
+option SpawnSelector.AllowFoodDrink
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowFoodDrink,
+}
+
+option SpawnSelector.AllowIndustrial
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowIndustrial,
+}
+
+option SpawnSelector.AllowResidentialLodging
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowResidentialLodging,
+}
+
+option SpawnSelector.AllowCivicPublic
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowCivicPublic,
+}
+
+option SpawnSelector.AllowRecreation
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = AllowRecreation,
+}
+
+option SpawnSelector.GiveBuildingKey
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = GiveBuildingKey,
+}
+
+option SpawnSelector.ShowPOIs
+{
+    type = boolean,
+    default = true,
+    page = SpawnSelector,
+    translation = ShowPOIs,
+}

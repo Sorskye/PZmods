@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Розташування біля смерті блоку",
+    "Sandbox_DeathZoneEnabled_tooltip": "Не дозволяє гравцеві використовувати Spawn Selector, щоб відродитися біля місця смерті його попереднього персонажа, ускладнюючи негайно повернути втрачене спорядження новим персонажем.",
+    "Sandbox_DeathZoneRadius": "Радіус блоку (плитки)",
+    "Sandbox_DeathZoneRadius_tooltip": "Наскільки далеко в тайлах простягається зона заборони появи навколо місця смерті гравця.",
+    "Sandbox_DeathZoneDurationHours": "Тривалість блоку (реальні години)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Скільки годин у реальному світі триває блок після смерті. Встановіть 0, щоб заблокувати область назавжди.",
+    "Sandbox_AllowWeaponsMilitary": "Дозволити нерест у зброї та військових будівлях",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Склади зброї, стрільбища, армійські запаси та інші військові споруди. Зніміть прапорець, щоб Spawn Selector не розміщував гравців у них.",
+    "Sandbox_AllowMedical": "Дозволити нерест у медичних будівлях",
+    "Sandbox_AllowMedical_tooltip": "Лікарні, кабінети лікарів, стоматологи, аптеки, будинки престарілих і лабораторії.",
+    "Sandbox_AllowLawEnforcement": "Дозволити створення в будівлях правоохоронних органів",
+    "Sandbox_AllowLawEnforcement_tooltip": "Поліцейські дільниці, в'язниці та пожежні частини.",
+    "Sandbox_AllowRetailShops": "Дозволити спавн у магазинах",
+    "Sandbox_AllowRetailShops_tooltip": "Звичайні магазини, торгові центри, магазини одягу, електроніки, автозаправні станції та інші роздрібні магазини.",
+    "Sandbox_AllowFoodDrink": "Дозволити спавн у ресторанах і барах",
+    "Sandbox_AllowFoodDrink_tooltip": "Ресторани, кафе, бари, пекарні та інші заклади харчування та напоїв.",
+    "Sandbox_AllowIndustrial": "Дозволити нерест у промислових будівлях",
+    "Sandbox_AllowIndustrial_tooltip": "Заводи, склади та сховища.",
+    "Sandbox_AllowResidentialLodging": "Дозволити нерест у будинках і помешканнях",
+    "Sandbox_AllowResidentialLodging_tooltip": "Будинки, мотелі, готелі та трейлерні парки.",
+    "Sandbox_AllowCivicPublic": "Дозволити нерест у цивільних і громадських будівлях",
+    "Sandbox_AllowCivicPublic_tooltip": "Церкви, школи, бібліотеки, офіси та поштові відділення.",
+    "Sandbox_AllowRecreation": "Дозволити нерест у будівлях відпочинку",
+    "Sandbox_AllowRecreation_tooltip": "Тренажерні зали, театри, боулінг, басейни та інші розважальні заклади.",
+    "Sandbox_GiveBuildingKey": "Дайте гравцеві ключ до його будівлі спауну",
+    "Sandbox_GiveBuildingKey_tooltip": "Якщо будівля, у якій з’являється гравець, має замок, автоматично дайте йому відповідний ключ для нього, щоб вони не були заблоковані у власній стартовій будівлі чи вийшли з неї."
+    ,"Sandbox_ShowPOIs": "Показувати цікаві місця"
+    ,"Sandbox_ShowPOIs_tooltip": "Показує позначені цікаві місця на мапі вибору місця появи. Вимкніть, щоб приховати від гравців кнопку та всі позначки."
+}

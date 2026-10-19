@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Bloqueio de desova próximo ao local da morte",
+    "Sandbox_DeathZoneEnabled_tooltip": "Impede que um jogador use Spawn Selector para retornar perto de onde seu personagem anterior morreu, tornando mais difícil recuperar imediatamente o equipamento perdido com um novo personagem.",
+    "Sandbox_DeathZoneRadius": "Raio do bloco (blocos)",
+    "Sandbox_DeathZoneRadius_tooltip": "Até que ponto, em blocos, a zona proibida se estende ao redor do local da morte de um jogador.",
+    "Sandbox_DeathZoneDurationHours": "Duração do bloco (horas reais)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Quantas horas no mundo real dura o bloqueio após a morte. Defina como 0 para bloquear a área permanentemente.",
+    "Sandbox_AllowWeaponsMilitary": "Permitir desova em armas e edifícios militares",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Lojas de armas, campos de tiro, depósitos de excedentes do exército e outros edifícios militares. Desmarque para impedir que Spawn Selector coloque jogadores dentro deles.",
+    "Sandbox_AllowMedical": "Permitir a desova em edifícios médicos",
+    "Sandbox_AllowMedical_tooltip": "Hospitais, consultórios médicos, dentistas, farmácias, lares de idosos e laboratórios.",
+    "Sandbox_AllowLawEnforcement": "Permitir a desova em edifícios de aplicação da lei",
+    "Sandbox_AllowLawEnforcement_tooltip": "Delegacias de polícia, prisões e bombeiros.",
+    "Sandbox_AllowRetailShops": "Permitir desova em lojas",
+    "Sandbox_AllowRetailShops_tooltip": "Lojas gerais, shoppings, lojas de roupas, lojas de eletrônicos, postos de gasolina e outras lojas de varejo.",
+    "Sandbox_AllowFoodDrink": "Permitir a desova em restaurantes e bares",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurantes, cafés, bares, padarias e outros locais de comida e bebida.",
+    "Sandbox_AllowIndustrial": "Permitir a desova em edifícios industriais",
+    "Sandbox_AllowIndustrial_tooltip": "Fábricas, armazéns e unidades de armazenamento.",
+    "Sandbox_AllowResidentialLodging": "Permitir a desova em casas e alojamentos",
+    "Sandbox_AllowResidentialLodging_tooltip": "Casas, motéis, hotéis e parques de trailers.",
+    "Sandbox_AllowCivicPublic": "Permitir a desova em edifícios cívicos e públicos",
+    "Sandbox_AllowCivicPublic_tooltip": "Igrejas, escolas, bibliotecas, escritórios e correios.",
+    "Sandbox_AllowRecreation": "Permitir desova em edifícios recreativos",
+    "Sandbox_AllowRecreation_tooltip": "Ginásios, teatros, pistas de bowling, piscinas e outros locais de entretenimento.",
+    "Sandbox_GiveBuildingKey": "Dê ao jogador uma chave para seu edifício de spawn",
+    "Sandbox_GiveBuildingKey_tooltip": "Se o edifício em que um jogador surge tiver um cadeado, forneça-lhe automaticamente uma chave correspondente para que ele não fique trancado dentro ou fora de seu próprio edifício inicial."
+    ,"Sandbox_ShowPOIs": "Exibir pontos de interesse"
+    ,"Sandbox_ShowPOIs_tooltip": "Exibe os pontos de interesse marcados no mapa de seleção do local de surgimento. Desmarque para ocultar dos jogadores o botão e todos os marcadores."
+}

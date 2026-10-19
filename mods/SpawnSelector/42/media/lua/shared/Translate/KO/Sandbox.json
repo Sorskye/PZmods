@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "블록 산란 임박 위치",
+    "Sandbox_DeathZoneEnabled_tooltip": "플레이어가 Spawn Selector를 사용하여 이전 캐릭터가 죽은 곳 근처에서 다시 부활하는 것을 방지하여 새로운 캐릭터로 잃어버린 장비를 즉시 되찾기가 더 어렵습니다.",
+    "Sandbox_DeathZoneRadius": "블록 반경(타일)",
+    "Sandbox_DeathZoneRadius_tooltip": "타일에서 스폰 금지 구역이 플레이어의 사망 위치 주변으로 확장되는 정도입니다.",
+    "Sandbox_DeathZoneDurationHours": "블록 기간(실제 시간)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "블록이 사망 후 지속되는 실제 시간은 몇 시간입니까? 해당 영역을 영구적으로 차단하려면 0으로 설정하세요.",
+    "Sandbox_AllowWeaponsMilitary": "무기 및 군사 건물에서 생성 허용",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "총기 상점, 사격장, 군수품 상점 및 기타 군사 건물. Spawn Selector가 여기에 플레이어를 배치하는 것을 중지하려면 선택을 취소하세요.",
+    "Sandbox_AllowMedical": "의료 건물에서 생성 허용",
+    "Sandbox_AllowMedical_tooltip": "병원, 진료실, 치과 의사, 약국, 요양원 및 실험실.",
+    "Sandbox_AllowLawEnforcement": "법 집행 건물에서 산란 허용",
+    "Sandbox_AllowLawEnforcement_tooltip": "경찰서, 교도소, 소방서.",
+    "Sandbox_AllowRetailShops": "상점에서 생성 허용",
+    "Sandbox_AllowRetailShops_tooltip": "잡화점, 쇼핑몰, 옷가게, 전자제품점, 주유소, 기타 소매점.",
+    "Sandbox_AllowFoodDrink": "레스토랑 및 바에서 생성 허용",
+    "Sandbox_AllowFoodDrink_tooltip": "레스토랑, 카페, 바, 빵집 및 기타 음식 및 음료 장소.",
+    "Sandbox_AllowIndustrial": "산업용 건물에서 생성 허용",
+    "Sandbox_AllowIndustrial_tooltip": "공장, 창고 및 저장 장치.",
+    "Sandbox_AllowResidentialLodging": "주택 및 숙소에서 산란 허용",
+    "Sandbox_AllowResidentialLodging_tooltip": "주택, 모텔, 호텔, 트레일러 파크.",
+    "Sandbox_AllowCivicPublic": "시민 및 공공 건물에서 생성 허용",
+    "Sandbox_AllowCivicPublic_tooltip": "교회, 학교, 도서관, 사무실 및 우체국.",
+    "Sandbox_AllowRecreation": "오락 건물에서 산란 허용",
+    "Sandbox_AllowRecreation_tooltip": "체육관, 극장, 볼링장, 수영장 및 기타 엔터테인먼트 장소.",
+    "Sandbox_GiveBuildingKey": "플레이어에게 스폰 건물의 열쇠 제공",
+    "Sandbox_GiveBuildingKey_tooltip": "플레이어가 생성되는 건물에 자물쇠가 있는 경우 자동으로 그에 맞는 열쇠를 제공하여 자신의 시작 건물에 갇히거나 나가는 일이 없도록 합니다."
+    ,"Sandbox_ShowPOIs": "관심 지점 표시"
+    ,"Sandbox_ShowPOIs_tooltip": "스폰 위치 선택 지도에 등록된 관심 지점을 표시합니다. 끄면 플레이어에게 버튼과 모든 마커가 표시되지 않습니다."
+}

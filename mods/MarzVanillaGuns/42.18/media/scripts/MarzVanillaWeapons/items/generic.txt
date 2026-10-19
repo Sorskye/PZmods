@@ -1,0 +1,36 @@
+module Base {
+    item GenericFakeItem {
+        DisplayCategory = Junk,
+        ItemType        = base:normal,
+    }
+    
+    item OpenBolt {
+        ItemType        = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        MountOn         = Base.GenericFakeItem,
+        PartType        = MovingBolt,
+        Tooltip         = Tooltip_MovingBolt,
+    }
+    
+    item CloseBolt {
+        ItemType        = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        MountOn         = Base.GenericFakeItem,
+        PartType        = MovingBolt,
+        Tooltip         = Tooltip_MovingBolt,
+    }
+    
+    item JS5_Stock_Folded {
+        ItemType        = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        MountOn         = Base.GenericFakeItem,
+        PartType        = StockIntegrated,
+    }
+    
+    item JS5_Stock_Deployed {
+        ItemType        = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        MountOn         = Base.GenericFakeItem,
+        PartType        = StockIntegrated,
+    }
+}

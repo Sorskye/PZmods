@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "ENGRESA AQUÍ",
+    "UI_SpawnSelector_DetailedMap": "MAPA DETALLAT",
+    "UI_SpawnSelector_StandardMap": "MAPA ESTÀNDARD",
+    "UI_SpawnSelector_RandomSpawn": "ENGENDRA ALEATORIA",
+    "UI_SpawnSelector_RandomBuilding": "EDIFICI ALEATORIA",
+    "UI_SpawnSelector_CoordinateTooltip": "Introduïu les coordenades de generació exactes",
+    "UI_SpawnSelector_SetPin": "DEFINIR EL PIN",
+    "UI_SpawnSelector_Key": "CLAU",
+    "UI_SpawnSelector_CloseKey": "CLAU DE TANCAR",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Introduïu nombres enters vàlids per a X, Y i Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "La coordenada X o Y introduïda està fora de l'interval admès.",
+    "UI_SpawnSelector_ErrorZRange": "Z ha d'estar entre %1 i %2.",
+    "UI_SpawnSelector_LayerWarning": "La selecció de capes només canvia el nivell Z de generació.<LINE>El mapa encara mostra la disposició de la planta baixa.<LINE>Seleccionar un nivell que no existeix pot provocar una generació insegura o no vàlida.",
+    "UI_SpawnSelector_RandomConfirm": "N'estàs segur? Realment ens referim a l'atzar.<LINE>Podeu aparèixer a qualsevol lloc.",
+    "UI_SpawnSelector_ErrorRandomLocation": "No s'ha pogut trobar una ubicació aleatòria vàlida. Si us plau, torna-ho a provar.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "S'està triant una ubicació de generació aleatòria...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Apareixeu dins d'un edifici completament aleatori? <LINE>La cerca pot trigar uns quants moments.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "No s'ha pogut trobar cap edifici a l'atzar. Si us plau, torna-ho a provar.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Buscant un edifici a l'atzar...",
+    "UI_SpawnSelector_ErrorDeathZone": "No pots generar tan a prop d'on vas morir per última vegada. Trieu una ubicació fora del cercle vermell.",
+    "UI_SpawnSelector_Title": "SELECCIONA LA TEVA Ubicació d'engendrament",
+    "UI_SpawnSelector_Instructions": "Feu clic per seleccionar. Arrossegueu per panoràmica. Utilitzeu la roda del ratolí per fer zoom.",
+    "UI_SpawnSelector_Selected": "Seleccionat: %1, %2 - Feu clic a ENORMA AQUÍ per començar.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "S'ha detectat l'expansió del projecte Indiana",
+    "UI_SpawnSelector_Credit": "Fet amb amor per N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "No s'ha pogut trobar un edifici aleatori després de comprovar moltes ubicacions. Si us plau, torna-ho a provar.",
+    "UI_SpawnSelector_ErrorLayerRange": "La capa de generació seleccionada està fora de l'interval admès.",
+    "UI_SpawnSelector_ErrorNoFloor": "No existeix cap sòl vàlid en aquest lloc i capa. Trieu una altra capa o posició.",
+    "UI_SpawnSelector_ErrorWater": "La ubicació seleccionada és l'aigua. Trieu una posició sobre un terreny sòlid.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Aquest tipus d'edifici està desactivat per generar-lo pel servidor. Trieu una altra ubicació.",
+    "UI_SpawnSelector_ErrorSafehouse": "No es pot generar dins de la casa segura d'un altre jugador.",
+    "UI_SpawnSelector_ErrorFloorLoad": "No es va poder carregar cap pis vàlid en aquest lloc. Trieu una altra capa o posició.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Aquest tipus d'edifici està desactivat per a la generació. Trieu una altra ubicació.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Afegeix un punt d'interès",
+    "UI_SpawnSelector_POINamePrompt": "Introduïu el nom del punt d'interès (opcional):",
+    "UI_SpawnSelector_POILocationPrompt": "Introduïu la població o la zona:",
+    "UI_SpawnSelector_POINotesPrompt": "Introduïu qualsevol nota útil (opcional):",
+    "UI_SpawnSelector_POIRecorded": "Punt d'interès registrat a %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Mostra els punts d'interès registrats"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Botiga de pesca"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Perruqueria"
+    ,"UI_SpawnSelector_CustomPOI": "Punt d'interès personalitzat"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Introduïu el nom del punt d'interès personalitzat:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Gasolinera"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Grans magatzems"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Botiga d'electrònica"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Botiga de roba"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Botiga de mobles"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Joieria"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Botiga d'articles esportius"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Botiga de recanvis d'automòbil"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Botiga de llaminadures"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Botiga de material d'aire lliure"
+    ,"UI_SpawnSelector_POITypeComicStore": "Botiga de còmics"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Botiga de roba de casament"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Estanc"
+    ,"UI_SpawnSelector_POITypeFlorist": "Floristeria"
+    ,"UI_SpawnSelector_POITypePetStore": "Botiga d'animals"
+    ,"UI_SpawnSelector_POITypeBagStore": "Botiga de bosses"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Botiga de materials de maçoneria"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Reparació de rellotges"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Reparació de calçat"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Botiga de costura"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Botiga de regals"
+    ,"UI_SpawnSelector_POIRoomCentre": "Centre de l'habitació"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Centre de l'edifici"
+}

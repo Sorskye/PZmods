@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "تفرخ هنا",
+    "UI_SpawnSelector_DetailedMap": "خريطة مفصلة",
+    "UI_SpawnSelector_StandardMap": "الخريطة القياسية",
+    "UI_SpawnSelector_RandomSpawn": "تفرخ عشوائي",
+    "UI_SpawnSelector_RandomBuilding": "بناء عشوائي",
+    "UI_SpawnSelector_CoordinateTooltip": "أدخل إحداثيات التكاثر الدقيقة",
+    "UI_SpawnSelector_SetPin": "تعيين رقم التعريف الشخصي",
+    "UI_SpawnSelector_Key": "مفتاح",
+    "UI_SpawnSelector_CloseKey": "إغلاق المفتاح",
+    "UI_SpawnSelector_ErrorWholeNumbers": "أدخل أرقامًا صحيحة صحيحة لـ X وY وZ.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "إحداثي X أو Y الذي تم إدخاله يقع خارج النطاق المدعوم.",
+    "UI_SpawnSelector_ErrorZRange": "يجب أن يكون Z بين %1 و%2.",
+    "UI_SpawnSelector_LayerWarning": "يؤدي تحديد الطبقة إلى تغيير مستوى النشر Z فقط.<LINE>لا تزال الخريطة تعرض تخطيط الطابق الأرضي.<LINE>قد يؤدي تحديد مستوى غير موجود إلى ظهور غير آمن أو غير صالح.",
+    "UI_SpawnSelector_RandomConfirm": "هل أنت متأكد؟ نحن نعني حقًا عشوائيًا.<LINE>يمكنك الظهور في أي مكان.",
+    "UI_SpawnSelector_ErrorRandomLocation": "لا يمكن العثور على موقع عشوائي صالح. يرجى المحاولة مرة أخرى.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "اختيار مكان عشوائي للنشر...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "تفرخ داخل مبنى عشوائي تمامًا؟ <LINE> قد يستغرق البحث بضع لحظات.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "لا يمكن العثور على مبنى عشوائي. يرجى المحاولة مرة أخرى.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "جاري البحث عن مبنى عشوائي...",
+    "UI_SpawnSelector_ErrorDeathZone": "لا يمكنك أن تفرخ بهذا القرب من المكان الذي ماتت فيه آخر مرة. اختر موقعًا خارج الدائرة الحمراء.",
+    "UI_SpawnSelector_Title": "حدد موقع تفرخك",
+    "UI_SpawnSelector_Instructions": "انقر للتحديد. اسحب إلى المقلاة. استخدم عجلة الماوس للتكبير.",
+    "UI_SpawnSelector_Selected": "تم التحديد: %1، %2 - انقر فوق النشر هنا للبدء.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "تم الكشف عن توسعة مشروع إنديانا",
+    "UI_SpawnSelector_Credit": "صُنع بحب بواسطة N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "لا يمكن العثور على مبنى عشوائي بعد التحقق من العديد من المواقع. يرجى المحاولة مرة أخرى.",
+    "UI_SpawnSelector_ErrorLayerRange": "طبقة النشر المحددة تقع خارج النطاق المدعوم.",
+    "UI_SpawnSelector_ErrorNoFloor": "لا توجد أرضية صالحة في ذلك الموقع وتلك الطبقة. اختر طبقة أو موضعًا آخر.",
+    "UI_SpawnSelector_ErrorWater": "الموقع المحدد هو الماء. اختر موضعًا على أرض صلبة.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "تم تعطيل نوع المبنى هذا للنشر بواسطة الخادم. اختر موقعًا آخر.",
+    "UI_SpawnSelector_ErrorSafehouse": "لا يمكنك الظهور داخل المنزل الآمن للاعب آخر.",
+    "UI_SpawnSelector_ErrorFloorLoad": "لا يمكن تحميل أي طابق صالح في هذا الموقع. اختر طبقة أو موضعًا آخر.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "تم تعطيل نوع المبنى هذا من أجل النشر. اختر موقعًا آخر.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "إضافة نقطة اهتمام",
+    "UI_SpawnSelector_POINamePrompt": "أدخل اسم نقطة الاهتمام (اختياري):",
+    "UI_SpawnSelector_POILocationPrompt": "أدخل اسم البلدة أو المنطقة:",
+    "UI_SpawnSelector_POINotesPrompt": "أدخل أي ملاحظات مفيدة (اختياري):",
+    "UI_SpawnSelector_POIRecorded": "تم تسجيل نقطة الاهتمام عند %1، %2، %3."
+    ,"UI_SpawnSelector_POITypeFuelStation": "محطة وقود"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "متجر متعدد الأقسام"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "متجر إلكترونيات"
+    ,"UI_SpawnSelector_POITypeClothingStore": "متجر ملابس"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "متجر أثاث"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "متجر مجوهرات"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "إظهار نقاط الاهتمام المسجلة"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "متجر مستلزمات رياضية"
+    ,"UI_SpawnSelector_POITypeFishingStore": "متجر صيد الأسماك"
+    ,"UI_SpawnSelector_POITypeHairSalon": "صالون حلاقة"
+    ,"UI_SpawnSelector_CustomPOI": "نقطة اهتمام مخصصة"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "أدخل اسم نقطة الاهتمام المخصصة:"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "متجر قطع غيار السيارات"
+    ,"UI_SpawnSelector_POITypeCandyStore": "متجر حلوى"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "متجر مستلزمات خارجية"
+    ,"UI_SpawnSelector_POITypeComicStore": "متجر قصص مصورة"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "متجر ملابس زفاف"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "متجر تبغ"
+    ,"UI_SpawnSelector_POITypeFlorist": "محل زهور"
+    ,"UI_SpawnSelector_POITypePetStore": "متجر حيوانات أليفة"
+    ,"UI_SpawnSelector_POITypeBagStore": "متجر حقائب"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "متجر مستلزمات البناء الحجري"
+    ,"UI_SpawnSelector_POITypeClockRepair": "إصلاح الساعات"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "إصلاح الأحذية"
+    ,"UI_SpawnSelector_POITypeSewingStore": "متجر خياطة"
+    ,"UI_SpawnSelector_POITypeGiftStore": "متجر هدايا"
+    ,"UI_SpawnSelector_POIRoomCentre": "مركز الغرفة"
+    ,"UI_SpawnSelector_POIBuildingCentre": "مركز المبنى"
+}

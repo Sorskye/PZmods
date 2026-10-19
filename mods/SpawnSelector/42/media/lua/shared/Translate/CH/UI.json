@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "在這裡生成",
+    "UI_SpawnSelector_DetailedMap": "詳細地圖",
+    "UI_SpawnSelector_StandardMap": "標準地圖",
+    "UI_SpawnSelector_RandomSpawn": "隨機生成",
+    "UI_SpawnSelector_RandomBuilding": "隨機建造",
+    "UI_SpawnSelector_CoordinateTooltip": "輸入準確的生成座標",
+    "UI_SpawnSelector_SetPin": "設定密碼",
+    "UI_SpawnSelector_Key": "鑰匙",
+    "UI_SpawnSelector_CloseKey": "關閉鍵",
+    "UI_SpawnSelector_ErrorWholeNumbers": "輸入 X、Y 和 Z 的有效整數。",
+    "UI_SpawnSelector_ErrorCoordinateRange": "輸入的 X 或 Y 座標超出支援的範圍。",
+    "UI_SpawnSelector_ErrorZRange": "Z 必須位於 %1 和 %2 之間。",
+    "UI_SpawnSelector_LayerWarning": "圖層選擇僅變更產生的 Z 等級。 <LINE> 地圖仍顯示底層佈局。 <LINE> 選擇不存在的等級可能會導致不安全或無效的生成。",
+    "UI_SpawnSelector_RandomConfirm": "你確定嗎？我們真正的意思是隨機的。 <LINE>你可以出現在任何地方。",
+    "UI_SpawnSelector_ErrorRandomLocation": "無法找到有效的隨機位置。請再試一次。",
+    "UI_SpawnSelector_ChoosingRandomLocation": "選擇隨機產生位置...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "在完全隨機的建築物內產生？ <LINE>搜尋可能需要一些時間。",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "無法找到隨機建築物。請再試一次。",
+    "UI_SpawnSelector_SearchingRandomBuilding": "搜尋隨機建築物...",
+    "UI_SpawnSelector_ErrorDeathZone": "你不能在離你上次死亡的地方這麼近的地方出生。選擇紅圈外的位置。",
+    "UI_SpawnSelector_Title": "選擇您的生成位置",
+    "UI_SpawnSelector_Instructions": "點擊以選擇。拖曳進行平移。使用滑鼠滾輪進行縮放。",
+    "UI_SpawnSelector_Selected": "已選擇：%1、%2 - 點選「在此產生」開始。",
+    "UI_SpawnSelector_ProjectIndianaDetected": "檢測到印第安納州專案擴建",
+    "UI_SpawnSelector_Credit": "N3WO 用愛製作",
+    "UI_SpawnSelector_ErrorRandomBuilding": "檢查了很多位置後都找不到隨機建築物。請再試一次。",
+    "UI_SpawnSelector_ErrorLayerRange": "所選的生成層超出了支援的範圍。",
+    "UI_SpawnSelector_ErrorNoFloor": "此位置和圖層不存在有效樓層。選擇另一個圖層或位置。",
+    "UI_SpawnSelector_ErrorWater": "選定的位置是水。在堅實的地面上選擇一個位置。",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "伺服器禁止產生此建築類型。選擇另一個位置。",
+    "UI_SpawnSelector_ErrorSafehouse": "你不能在其他玩家的安全屋內生成。",
+    "UI_SpawnSelector_ErrorFloorLoad": "無法在該位置載入有效樓層。選擇另一個圖層或位置。",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "該建築類型無法產生。選擇另一個位置。",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "新增興趣點",
+    "UI_SpawnSelector_POINamePrompt": "輸入興趣點名稱（選填）：",
+    "UI_SpawnSelector_POILocationPrompt": "輸入城鎮或區域：",
+    "UI_SpawnSelector_POINotesPrompt": "輸入實用備註（選填）：",
+    "UI_SpawnSelector_POIRecorded": "已記錄位於 %1、%2、%3 的興趣點。"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "顯示已記錄的興趣點"
+    ,"UI_SpawnSelector_POITypeFishingStore": "釣魚用品店"
+    ,"UI_SpawnSelector_POITypeHairSalon": "美髮沙龍"
+    ,"UI_SpawnSelector_CustomPOI": "自訂興趣點"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "輸入自訂興趣點的名稱："
+    ,"UI_SpawnSelector_POITypeFuelStation": "加油站"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "百貨公司"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "電子產品店"
+    ,"UI_SpawnSelector_POITypeClothingStore": "服飾店"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "家具店"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "珠寶店"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "體育用品店"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "汽車零件店"
+    ,"UI_SpawnSelector_POITypeCandyStore": "糖果店"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "戶外用品店"
+    ,"UI_SpawnSelector_POITypeComicStore": "漫畫店"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "婚禮服飾店"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "菸草店"
+    ,"UI_SpawnSelector_POITypeFlorist": "花店"
+    ,"UI_SpawnSelector_POITypePetStore": "寵物店"
+    ,"UI_SpawnSelector_POITypeBagStore": "包袋店"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "砌築材料店"
+    ,"UI_SpawnSelector_POITypeClockRepair": "鐘錶維修店"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "修鞋店"
+    ,"UI_SpawnSelector_POITypeSewingStore": "縫紉用品店"
+    ,"UI_SpawnSelector_POITypeGiftStore": "禮品店"
+    ,"UI_SpawnSelector_POIRoomCentre": "房间中心"
+    ,"UI_SpawnSelector_POIBuildingCentre": "建筑中心"
+}

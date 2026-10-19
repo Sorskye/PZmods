@@ -1,0 +1,4 @@
+UI_PTBR = {
+  UI_GTR_Options_ReqLevel = "Nível Elétrico Obrigatório",
+  UI_GTR_Options_Convert  = "Converta-se em Tempo Real"
+}

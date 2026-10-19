@@ -1,0 +1,7 @@
+[20/September/2026 ]
+B42.20.4:
+[*] Fix json files for several items
+[*] Remove custom overwrite from hot brass and use new custom functions
+[*] New custom animations for break action weapons to prevent MP swapping into vanilla open double barrel shotgun
+[*] Refactor all code to remove usega of ipairs to improve performance, every bit matters
+[ ------ ]

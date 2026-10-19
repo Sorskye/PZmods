@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blocați apariția în apropierea locației morții",
+    "Sandbox_DeathZoneEnabled_tooltip": "Oprește un jucător să folosească Spawn Selector pentru a reveni lângă locul unde a murit personajul anterior, ceea ce face mai dificil să recupereze imediat echipamentul pierdut cu un personaj proaspăt.",
+    "Sandbox_DeathZoneRadius": "Raza blocului (plăci)",
+    "Sandbox_DeathZoneRadius_tooltip": "Cât de departe, în plăci, se extinde zona fără apariție în jurul locației morții unui jucător.",
+    "Sandbox_DeathZoneDurationHours": "Durata blocului (ore din lumea reală)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Câte ore în lumea reală durează blocul după moarte. Setați la 0 pentru a bloca zona permanent.",
+    "Sandbox_AllowWeaponsMilitary": "Permiteți apariția în clădirile de arme și militare",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Magazine de arme, poligoane de tragere, depozite de surplus ale armatei și alte clădiri militare. Debifați pentru a opri Spawn Selector să plaseze jucători în interiorul acestora.",
+    "Sandbox_AllowMedical": "Permiteți reproducerea în clădiri medicale",
+    "Sandbox_AllowMedical_tooltip": "Spitale, cabinete medicale, stomatologi, farmacii, case de bătrâni și laboratoare.",
+    "Sandbox_AllowLawEnforcement": "Permiteți reproducerea în clădirile de aplicare a legii",
+    "Sandbox_AllowLawEnforcement_tooltip": "Posturi de poliție, închisori și pompieri.",
+    "Sandbox_AllowRetailShops": "Permiteți apariția în magazine",
+    "Sandbox_AllowRetailShops_tooltip": "Magazine generale, mall-uri, magazine de îmbrăcăminte, magazine de electronice, benzinării și alte magazine de vânzare cu amănuntul.",
+    "Sandbox_AllowFoodDrink": "Permiteți apariția în restaurante și baruri",
+    "Sandbox_AllowFoodDrink_tooltip": "Restaurante, cafenele, baruri, brutării și alte locații cu mâncare și băutură.",
+    "Sandbox_AllowIndustrial": "Permiteți reproducerea în clădiri industriale",
+    "Sandbox_AllowIndustrial_tooltip": "Fabrici, depozite si unitati de depozitare.",
+    "Sandbox_AllowResidentialLodging": "Permiteți reproducerea în case și locuințe",
+    "Sandbox_AllowResidentialLodging_tooltip": "Case, moteluri, hoteluri și parcuri de rulote.",
+    "Sandbox_AllowCivicPublic": "Permiteți reproducerea în clădiri civice și publice",
+    "Sandbox_AllowCivicPublic_tooltip": "Biserici, școli, biblioteci, birouri și oficii poștale.",
+    "Sandbox_AllowRecreation": "Permiteți reproducerea în clădiri de agrement",
+    "Sandbox_AllowRecreation_tooltip": "Săli de sport, teatre, piste de bowling, piscine și alte locuri de divertisment.",
+    "Sandbox_GiveBuildingKey": "Oferă jucătorului o cheie pentru clădirea lor de naștere",
+    "Sandbox_GiveBuildingKey_tooltip": "Dacă clădirea în care apare un jucător are un lacăt, dă-i automat o cheie potrivită pentru ea, astfel încât să nu fie blocat în sau să iasă din propria clădire de pornire."
+    ,"Sandbox_ShowPOIs": "Afișează punctele de interes"
+    ,"Sandbox_ShowPOIs_tooltip": "Afișează punctele de interes marcate pe harta de selectare a locului de apariție. Debifează pentru a ascunde jucătorilor butonul și toate marcajele."
+}

@@ -1,0 +1,42 @@
+module Base
+{
+    sound MagDrop1
+    {
+        category = Item,
+        clip
+        {
+            file = media/sound/MagDrop1.ogg,
+            volume = 0.5,
+        }
+    }
+    
+    sound MagDrop2
+    {
+        category = Item,
+        clip
+        {
+            file = media/sound/MagDrop2.ogg,
+            volume = 0.5,
+        }
+    }
+    
+    sound MagDrop3
+    {
+        category = Item,
+        clip
+        {
+            file = media/sound/MagDrop3.ogg,
+            volume = 0.5,
+        }
+    }
+    
+    sound MagDrop4
+    {
+        category = Item,
+        clip
+        {
+            file = media/sound/MagDrop4.ogg,
+            volume = 0.5,
+        }
+    }
+}

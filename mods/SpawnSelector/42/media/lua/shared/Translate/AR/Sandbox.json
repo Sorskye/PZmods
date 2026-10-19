@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "منع التفريخ بالقرب من موقع الموت",
+    "Sandbox_DeathZoneEnabled_tooltip": "يمنع اللاعب من استخدام Spawn Selector للظهور مرة أخرى بالقرب من المكان الذي ماتت فيه شخصيته السابقة، مما يجعل من الصعب استعادة العتاد المفقود على الفور بشخصية جديدة.",
+    "Sandbox_DeathZoneRadius": "نصف قطر الكتلة (البلاط)",
+    "Sandbox_DeathZoneRadius_tooltip": "إلى أي مدى تمتد منطقة عدم النشر في البلاط حول موقع وفاة اللاعب.",
+    "Sandbox_DeathZoneDurationHours": "مدة الحظر (ساعات العالم الحقيقي)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "كم عدد ساعات العالم الحقيقي التي تستمر فيها الكتلة بعد الموت. اضبط على 0 لحظر المنطقة بشكل دائم.",
+    "Sandbox_AllowWeaponsMilitary": "السماح بوضع البيض في الأسلحة والمباني العسكرية",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "مخازن الأسلحة وميادين الرماية ومخازن فائض الجيش والمباني العسكرية الأخرى. قم بإلغاء التحديد لمنع Spawn Selector من وضع اللاعبين داخلها.",
+    "Sandbox_AllowMedical": "السماح بالتفريخ في المباني الطبية",
+    "Sandbox_AllowMedical_tooltip": "المستشفيات ومكاتب الأطباء وأطباء الأسنان والصيدليات ودور رعاية المسنين والمختبرات.",
+    "Sandbox_AllowLawEnforcement": "السماح بوضع البيض في مباني إنفاذ القانون",
+    "Sandbox_AllowLawEnforcement_tooltip": "مراكز الشرطة والسجون ومراكز الإطفاء.",
+    "Sandbox_AllowRetailShops": "السماح بالتكاثر في المحلات التجارية",
+    "Sandbox_AllowRetailShops_tooltip": "المتاجر العامة والمولات ومحلات الملابس ومحلات الإلكترونيات ومحطات الوقود ومحلات البيع بالتجزئة الأخرى.",
+    "Sandbox_AllowFoodDrink": "السماح بوضع البيض في المطاعم والحانات",
+    "Sandbox_AllowFoodDrink_tooltip": "المطاعم والمقاهي والحانات والمخابز وغيرها من أماكن الطعام والشراب.",
+    "Sandbox_AllowIndustrial": "السماح بالتفريخ في المباني الصناعية",
+    "Sandbox_AllowIndustrial_tooltip": "المصانع والمستودعات ووحدات التخزين.",
+    "Sandbox_AllowResidentialLodging": "السماح بوضع البيض في المنازل والسكن",
+    "Sandbox_AllowResidentialLodging_tooltip": "المنازل والموتيلات والفنادق وحدائق المقطورات.",
+    "Sandbox_AllowCivicPublic": "السماح بوضع البيض في المباني المدنية والعامة",
+    "Sandbox_AllowCivicPublic_tooltip": "الكنائس والمدارس والمكتبات والمكاتب ومكاتب البريد.",
+    "Sandbox_AllowRecreation": "السماح بالتفريخ في المباني الترفيهية",
+    "Sandbox_AllowRecreation_tooltip": "الصالات الرياضية والمسارح وصالات البولينغ وحمامات السباحة وغيرها من أماكن الترفيه.",
+    "Sandbox_GiveBuildingKey": "امنح اللاعب مفتاحًا لمبنى تفرخه",
+    "Sandbox_GiveBuildingKey_tooltip": "إذا كان المبنى الذي ظهر فيه اللاعب يحتوي على قفل، فامنحه تلقائيًا مفتاحًا مطابقًا لذلك حتى لا يتم قفله داخل المبنى الخاص به أو خارجه."
+    ,"Sandbox_ShowPOIs": "إظهار نقاط الاهتمام"
+    ,"Sandbox_ShowPOIs_tooltip": "يعرض نقاط الاهتمام المعلّمة على خريطة اختيار موقع الظهور. ألغِ تحديد هذا الخيار لإخفاء زر نقاط الاهتمام وجميع علاماتها عن اللاعبين."
+}

@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "วางไข่ที่นี่",
+    "UI_SpawnSelector_DetailedMap": "แผนที่โดยละเอียด",
+    "UI_SpawnSelector_StandardMap": "แผนที่มาตรฐาน",
+    "UI_SpawnSelector_RandomSpawn": "วางไข่แบบสุ่ม",
+    "UI_SpawnSelector_RandomBuilding": "อาคารแบบสุ่ม",
+    "UI_SpawnSelector_CoordinateTooltip": "ป้อนพิกัดการวางไข่ที่แน่นอน",
+    "UI_SpawnSelector_SetPin": "ตั้งรหัส PIN",
+    "UI_SpawnSelector_Key": "สำคัญ",
+    "UI_SpawnSelector_CloseKey": "ปิดคีย์",
+    "UI_SpawnSelector_ErrorWholeNumbers": "ป้อนตัวเลขจำนวนเต็มที่ถูกต้องสำหรับ X, Y และ Z",
+    "UI_SpawnSelector_ErrorCoordinateRange": "พิกัด X หรือ Y ที่ป้อนอยู่นอกช่วงที่รองรับ",
+    "UI_SpawnSelector_ErrorZRange": "Z ต้องอยู่ระหว่าง %1 และ %2",
+    "UI_SpawnSelector_LayerWarning": "การเลือกเลเยอร์จะเปลี่ยนการวางไข่ระดับ Z เท่านั้น <LINE> แผนที่ยังคงแสดงเค้าโครงชั้นล่าง <LINE> การเลือกระดับที่ไม่มีอยู่อาจทำให้เกิดการวางไข่ที่ไม่ปลอดภัยหรือไม่ถูกต้อง",
+    "UI_SpawnSelector_RandomConfirm": "คุณแน่ใจเหรอ? เราหมายถึงการสุ่มจริงๆ <LINE>คุณสามารถปรากฏได้ทุกที่",
+    "UI_SpawnSelector_ErrorRandomLocation": "ไม่พบตำแหน่งสุ่มที่ถูกต้อง โปรดลองอีกครั้ง",
+    "UI_SpawnSelector_ChoosingRandomLocation": "การเลือกสถานที่วางไข่แบบสุ่ม...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "เกิดภายในอาคารแบบสุ่มโดยสิ้นเชิง?<LINE>การค้นหาอาจใช้เวลาสักครู่",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "ไม่พบสิ่งปลูกสร้างแบบสุ่ม โปรดลองอีกครั้ง",
+    "UI_SpawnSelector_SearchingRandomBuilding": "กำลังค้นหาอาคารแบบสุ่ม...",
+    "UI_SpawnSelector_ErrorDeathZone": "คุณไม่สามารถเกิดใกล้กับจุดที่คุณตายครั้งล่าสุดได้ เลือกสถานที่นอกวงกลมสีแดง",
+    "UI_SpawnSelector_Title": "เลือกสถานที่วางไข่ของคุณ",
+    "UI_SpawnSelector_Instructions": "คลิกเพื่อเลือก ลากเพื่อเลื่อน ใช้ล้อเมาส์เพื่อซูม",
+    "UI_SpawnSelector_Selected": "เลือกแล้ว: %1, %2 - คลิกวางไข่ที่นี่เพื่อเริ่มต้น",
+    "UI_SpawnSelector_ProjectIndianaDetected": "ตรวจพบการขยายตัวของโครงการอินเดียนา",
+    "UI_SpawnSelector_Credit": "ทำด้วยความรักโดย N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "ไม่พบสิ่งปลูกสร้างแบบสุ่มหลังจากตรวจสอบสถานที่หลายแห่ง โปรดลองอีกครั้ง",
+    "UI_SpawnSelector_ErrorLayerRange": "เลเยอร์วางไข่ที่เลือกอยู่นอกช่วงที่รองรับ",
+    "UI_SpawnSelector_ErrorNoFloor": "ไม่มีชั้นที่ถูกต้องในตำแหน่งและเลเยอร์นั้น เลือกเลเยอร์หรือตำแหน่งอื่น",
+    "UI_SpawnSelector_ErrorWater": "ตำแหน่งที่เลือกคือน้ำ เลือกตำแหน่งบนพื้นแข็ง",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "สิ่งปลูกสร้างประเภทนี้ถูกปิดใช้งานเนื่องจากการวางไข่โดยเซิร์ฟเวอร์ เลือกสถานที่อื่น",
+    "UI_SpawnSelector_ErrorSafehouse": "คุณไม่สามารถเกิดในเซฟเฮาส์ของผู้เล่นคนอื่นได้",
+    "UI_SpawnSelector_ErrorFloorLoad": "ไม่สามารถโหลดพื้นที่ถูกต้องได้ที่ตำแหน่งนั้น เลือกเลเยอร์หรือตำแหน่งอื่น",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "สิ่งปลูกสร้างประเภทนี้ปิดไม่ให้วางไข่ เลือกสถานที่อื่น",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "เพิ่มจุดสนใจ",
+    "UI_SpawnSelector_POINamePrompt": "ป้อนชื่อจุดสนใจ (ไม่บังคับ):",
+    "UI_SpawnSelector_POILocationPrompt": "ป้อนชื่อเมืองหรือพื้นที่:",
+    "UI_SpawnSelector_POINotesPrompt": "ป้อนหมายเหตุที่เป็นประโยชน์ (ไม่บังคับ):",
+    "UI_SpawnSelector_POIRecorded": "บันทึกจุดสนใจที่ %1, %2, %3 แล้ว"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "แสดงจุดสนใจที่บันทึกไว้"
+    ,"UI_SpawnSelector_POITypeFishingStore": "ร้านอุปกรณ์ตกปลา"
+    ,"UI_SpawnSelector_POITypeHairSalon": "ร้านทำผม"
+    ,"UI_SpawnSelector_CustomPOI": "จุดสนใจแบบกำหนดเอง"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "ป้อนชื่อจุดสนใจแบบกำหนดเอง:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "ปั๊มน้ำมัน"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "ห้างสรรพสินค้า"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "ร้านขายอุปกรณ์อิเล็กทรอนิกส์"
+    ,"UI_SpawnSelector_POITypeClothingStore": "ร้านขายเสื้อผ้า"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "ร้านขายเฟอร์นิเจอร์"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "ร้านขายเครื่องประดับ"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "ร้านขายอุปกรณ์กีฬา"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "ร้านอะไหล่รถยนต์"
+    ,"UI_SpawnSelector_POITypeCandyStore": "ร้านขายขนม"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "ร้านอุปกรณ์กลางแจ้ง"
+    ,"UI_SpawnSelector_POITypeComicStore": "ร้านหนังสือการ์ตูน"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "ร้านชุดแต่งงาน"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "ร้านขายยาสูบ"
+    ,"UI_SpawnSelector_POITypeFlorist": "ร้านดอกไม้"
+    ,"UI_SpawnSelector_POITypePetStore": "ร้านขายสัตว์เลี้ยง"
+    ,"UI_SpawnSelector_POITypeBagStore": "ร้านขายกระเป๋า"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "ร้านวัสดุก่ออิฐ"
+    ,"UI_SpawnSelector_POITypeClockRepair": "ร้านซ่อมนาฬิกา"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "ร้านซ่อมรองเท้า"
+    ,"UI_SpawnSelector_POITypeSewingStore": "ร้านอุปกรณ์เย็บผ้า"
+    ,"UI_SpawnSelector_POITypeGiftStore": "ร้านขายของขวัญ"
+    ,"UI_SpawnSelector_POIRoomCentre": "กึ่งกลางห้อง"
+    ,"UI_SpawnSelector_POIBuildingCentre": "กึ่งกลางอาคาร"
+}

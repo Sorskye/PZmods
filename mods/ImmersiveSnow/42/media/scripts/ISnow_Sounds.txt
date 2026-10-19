@@ -1,0 +1,21 @@
+/* No sound files for now: the synthesized ones (tools/gen_blowoff_sound.py) did not sound like snow
+   and were removed. With files in common/media/sound/ImmersiveSnow, put the block below back (out of
+   this comment), set BlowOffSound to true in ISnow_Config.lua and add it back to PLAYER_OPTIONS there.
+
+   Module Base, as vanilla's sounds: the game finds a sound by its bare name. One clip per variant,
+   the game picks one at random. Played on this client only, from the vehicle's emitter
+   (ISnow_BlowOff.lua); no world sound, zombies do not hear it.
+
+module Base
+{
+    sound ISnowBlowOff
+    {
+        category = World,
+        loop = false,
+        is3D = true,
+        clip { file = media/sound/ImmersiveSnow/blowoff_0.ogg, distanceMax = 20, volume = 0.6, }
+        clip { file = media/sound/ImmersiveSnow/blowoff_1.ogg, distanceMax = 20, volume = 0.6, }
+        clip { file = media/sound/ImmersiveSnow/blowoff_2.ogg, distanceMax = 20, volume = 0.6, }
+    }
+}
+*/

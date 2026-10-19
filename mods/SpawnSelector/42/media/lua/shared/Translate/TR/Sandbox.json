@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Ölüme Yakın Yerde Yumurtlamayı Engelle",
+    "Sandbox_DeathZoneEnabled_tooltip": "Oyuncunun Spawn Selector kullanarak önceki karakterinin öldüğü yere yakın bir yere geri dönmesini engeller, böylece kaybedilen ekipmanın yeni bir karakterle anında geri alınmasını zorlaştırır.",
+    "Sandbox_DeathZoneRadius": "Blok Yarıçapı (fayanslar)",
+    "Sandbox_DeathZoneRadius_tooltip": "Doğma yasağı bölgesinin, karolarda oyuncunun ölüm konumunun etrafında ne kadar uzandığı.",
+    "Sandbox_DeathZoneDurationHours": "Blok Süresi (gerçek dünya saatleri)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Bloğun ölümden sonra gerçek dünyada kaç saat sürdüğü. Alanı kalıcı olarak engellemek için 0'a ayarlayın.",
+    "Sandbox_AllowWeaponsMilitary": "Silah ve Askeri Binalarda Doğmaya İzin Ver",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Silah depoları, atış poligonları, ordu fazlası depoları ve diğer askeri binalar. Spawn Selector'nin bunların içine oyuncu yerleştirmesini engellemek için işareti kaldırın.",
+    "Sandbox_AllowMedical": "Tıbbi Binalarda Yumurtlamaya İzin Ver",
+    "Sandbox_AllowMedical_tooltip": "Hastaneler, muayenehaneler, diş hekimleri, eczaneler, bakım evleri ve laboratuvarlar.",
+    "Sandbox_AllowLawEnforcement": "Emniyet Binalarında Yumurtlamaya İzin Ver",
+    "Sandbox_AllowLawEnforcement_tooltip": "Polis karakolları, hapishaneler ve itfaiye istasyonları.",
+    "Sandbox_AllowRetailShops": "Mağazalarda Yumurtlamaya İzin Ver",
+    "Sandbox_AllowRetailShops_tooltip": "Genel mağazalar, alışveriş merkezleri, giyim mağazaları, elektronik mağazaları, benzin istasyonları ve diğer perakende mağazaları.",
+    "Sandbox_AllowFoodDrink": "Restoran ve Barlarda Yumurtlamaya İzin Ver",
+    "Sandbox_AllowFoodDrink_tooltip": "Restoranlar, kafeler, barlar, pastaneler ve diğer yeme-içme mekanları.",
+    "Sandbox_AllowIndustrial": "Endüstriyel Binalarda Yumurtlamaya İzin Ver",
+    "Sandbox_AllowIndustrial_tooltip": "Fabrikalar, depolar ve depolama birimleri.",
+    "Sandbox_AllowResidentialLodging": "Evlerde ve Konaklama Yerlerinde Yumurtlamaya İzin Ver",
+    "Sandbox_AllowResidentialLodging_tooltip": "Evler, moteller, oteller ve karavan parkları.",
+    "Sandbox_AllowCivicPublic": "Sivil ve Kamu Binalarında Yumurtlamaya İzin Ver",
+    "Sandbox_AllowCivicPublic_tooltip": "Kiliseler, okullar, kütüphaneler, ofisler ve postaneler.",
+    "Sandbox_AllowRecreation": "Rekreasyon Binalarında Yumurtlamaya İzin Ver",
+    "Sandbox_AllowRecreation_tooltip": "Spor salonları, tiyatrolar, bowling salonları, yüzme havuzları ve diğer eğlence mekanları.",
+    "Sandbox_GiveBuildingKey": "Oyuncuya Doğma Binasının Anahtarını Verin",
+    "Sandbox_GiveBuildingKey_tooltip": "Bir oyuncunun doğduğu binanın kilidi varsa, otomatik olarak ona eşleşen bir anahtar verin, böylece kendi başlangıç ​​binasının içinde veya dışında kilitli kalmazlar."
+    ,"Sandbox_ShowPOIs": "İlgi çekici noktaları göster"
+    ,"Sandbox_ShowPOIs_tooltip": "İşaretlenmiş ilgi çekici noktaları doğma konumu seçim haritasında gösterir. Düğmeyi ve tüm işaretleri oyunculardan gizlemek için bu seçeneği kapatın."
+}

@@ -1,0 +1,388 @@
+VERSION = 1,
+
+option ImmersiveSnow.FootprintsFrom = {
+	type = enum, numValues = 3, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FootprintsFrom,
+	valueTranslation = ImmersiveSnow_FootprintsFrom,
+}
+
+option ImmersiveSnow.TireTracks = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TireTracks,
+}
+
+option ImmersiveSnow.LowEndMode = {
+	type = boolean, default = false,
+	page = ImmersiveSnow, translation = ImmersiveSnow_LowEndMode,
+}
+
+option ImmersiveSnow.FootprintHours = {
+	type = double, min = 0.5, max = 168, default = 6,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FootprintHours,
+}
+
+option ImmersiveSnow.ZombieFootprintHours = {
+	type = double, min = 0.5, max = 168, default = 6,
+	page = ImmersiveSnow, translation = ImmersiveSnow_ZombieFootprintHours,
+}
+
+option ImmersiveSnow.SnowfallCoverRate = {
+	type = double, min = 0, max = 50, default = 8,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowfallCoverRate,
+}
+
+option ImmersiveSnow.MaxFootprints = {
+	type = integer, min = 10, max = 10000, default = 2000,
+	page = ImmersiveSnow, translation = ImmersiveSnow_MaxFootprints,
+}
+
+option ImmersiveSnow.ZombieRadius = {
+	type = integer, min = 5, max = 60, default = 25,
+	page = ImmersiveSnow, translation = ImmersiveSnow_ZombieRadius,
+}
+
+/* Animal tracks (ISnow_AnimalTracks.lua) */
+option ImmersiveSnow.AnimalTracks = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_AnimalTracks,
+}
+
+option ImmersiveSnow.AnimalTrackHours = {
+	type = double, min = 0.5, max = 168, default = 12,
+	page = ImmersiveSnow, translation = ImmersiveSnow_AnimalTrackHours,
+}
+
+option ImmersiveSnow.MaxAnimalTracks = {
+	type = integer, min = 10, max = 10000, default = 1000,
+	page = ImmersiveSnow, translation = ImmersiveSnow_MaxAnimalTracks,
+}
+
+option ImmersiveSnow.AnimalTrackRadius = {
+	type = integer, min = 5, max = 60, default = 25,
+	page = ImmersiveSnow, translation = ImmersiveSnow_AnimalTrackRadius,
+}
+
+/* Immersion 0.5.2: barefoot prints, body imprints, bloody footprints, blood on the snow */
+
+option ImmersiveSnow.BarefootPrints = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BarefootPrints,
+}
+
+option ImmersiveSnow.BloodyFootprints = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BloodyFootprints,
+}
+
+option ImmersiveSnow.BloodyFootprintSteps = {
+	type = integer, min = 1, max = 40, default = 8,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BloodyFootprintSteps,
+}
+
+option ImmersiveSnow.BloodOnSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BloodOnSnow,
+}
+
+/* end of Immersion 0.5.2 */
+
+option ImmersiveSnow.TireTrackHours = {
+	type = double, min = 0.5, max = 168, default = 12,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TireTrackHours,
+}
+
+option ImmersiveSnow.MaxTireTracks = {
+	type = integer, min = 20, max = 20000, default = 4000,
+	page = ImmersiveSnow, translation = ImmersiveSnow_MaxTireTracks,
+}
+
+option ImmersiveSnow.TireTrackSoftLimit = {
+	type = integer, min = 20, max = 20000, default = 1500,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TireTrackSoftLimit,
+}
+
+/* Bloody tire tracks */
+option ImmersiveSnow.BloodyTireTracks = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BloodyTireTracks,
+}
+
+option ImmersiveSnow.BloodyTireTrackTiles = {
+	type = double, min = 0.4, max = 40, default = 2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BloodyTireTrackTiles,
+}
+
+option ImmersiveSnow.VehicleSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleSnow,
+}
+
+option ImmersiveSnow.VehicleSnowHours = {
+	type = double, min = 0.25, max = 24, default = 2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleSnowHours,
+}
+
+option ImmersiveSnow.VehicleSnowIce = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleSnowIce,
+}
+
+option ImmersiveSnow.CharSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnow,
+}
+
+option ImmersiveSnow.CharSnowHours = {
+	type = double, min = 0.1, max = 24, default = 3,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowHours,
+}
+
+option ImmersiveSnow.CharSnowMax = {
+	type = double, min = 0.1, max = 2, default = 1.5,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowMax,
+}
+
+option ImmersiveSnow.CharSnowMeltHours = {
+	type = double, min = 0.1, max = 24, default = 1.25,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowMeltHours,
+}
+
+option ImmersiveSnow.CharSnowIndoorMeltHours = {
+	type = double, min = 0.1, max = 24, default = 0.5,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowIndoorMeltHours,
+}
+
+option ImmersiveSnow.CharSnowBodyMeltHours = {
+	type = double, min = 1, max = 500, default = 50,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowBodyMeltHours,
+}
+
+option ImmersiveSnow.CharSnowRainMeltHours = {
+	type = double, min = 0.1, max = 48, default = 3,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharSnowRainMeltHours,
+}
+
+option ImmersiveSnow.CharItemSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CharItemSnow,
+}
+
+option ImmersiveSnow.DarkSnow = {
+	type = boolean, default = false,
+	page = ImmersiveSnow, translation = ImmersiveSnow_DarkSnow,
+}
+
+option ImmersiveSnow.ZombieSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_ZombieSnow,
+}
+
+option ImmersiveSnow.ZombieSnowHours = {
+	type = double, min = 0.1, max = 24, default = 0.5,
+	page = ImmersiveSnow, translation = ImmersiveSnow_ZombieSnowHours,
+}
+
+option ImmersiveSnow.CorpseKeepSnow = {
+	type = boolean, default = false,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CorpseKeepSnow,
+}
+
+option ImmersiveSnow.ColdCorpses = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_ColdCorpses,
+}
+
+option ImmersiveSnow.SnowWetness = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowWetness,
+}
+
+option ImmersiveSnow.SnowWetnessRate = {
+	type = double, min = 0, max = 5, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowWetnessRate,
+}
+
+option ImmersiveSnow.CarriedSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CarriedSnow,
+}
+
+option ImmersiveSnow.CarriedSnowSteps = {
+	type = integer, min = 1, max = 10, default = 3,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CarriedSnowSteps,
+}
+
+option ImmersiveSnow.CarriedSnowTireTiles = {
+	type = double, min = 0.4, max = 20, default = 3.2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CarriedSnowTireTiles,
+}
+
+option ImmersiveSnow.CarriedSnowHours = {
+	type = double, min = 0.1, max = 48, default = 2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CarriedSnowHours,
+}
+
+option ImmersiveSnow.CarriedSnowMeltHours = {
+	type = double, min = 0.02, max = 24, default = 0.25,
+	page = ImmersiveSnow, translation = ImmersiveSnow_CarriedSnowMeltHours,
+}
+
+option ImmersiveSnow.Breath = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_Breath,
+}
+
+option ImmersiveSnow.BreathMaxTemp = {
+	type = double, min = -20, max = 15, default = 7,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BreathMaxTemp,
+}
+
+option ImmersiveSnow.BreathFullTemp = {
+	type = double, min = -40, max = 0, default = -20,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BreathFullTemp,
+}
+
+option ImmersiveSnow.BreathOpacity = {
+	type = double, min = 0.1, max = 1, default = 0.85,
+	page = ImmersiveSnow, translation = ImmersiveSnow_BreathOpacity,
+}
+
+option ImmersiveSnow.VehicleHoodMelt = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleHoodMelt,
+}
+
+option ImmersiveSnow.VehicleHoodMeltHours = {
+	type = double, min = 0.1, max = 24, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleHoodMeltHours,
+}
+
+option ImmersiveSnow.SnowKick = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKick,
+}
+
+option ImmersiveSnow.SnowKickRun = {
+	type = double, min = 0, max = 3, default = 0.4,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickRun,
+}
+
+option ImmersiveSnow.SnowKickSprint = {
+	type = double, min = 0, max = 5, default = 1.3,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickSprint,
+}
+
+option ImmersiveSnow.SnowKickFalls = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickFalls,
+}
+
+option ImmersiveSnow.SnowKickFallAmount = {
+	type = double, min = 0.1, max = 3, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickFallAmount,
+}
+
+option ImmersiveSnow.SnowKickWheels = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickWheels,
+}
+
+option ImmersiveSnow.SnowKickWheelAmount = {
+	type = double, min = 0.1, max = 3, default = 0.8,
+	page = ImmersiveSnow, translation = ImmersiveSnow_SnowKickWheelAmount,
+}
+
+option ImmersiveSnow.FrostScreen = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreen,
+}
+
+option ImmersiveSnow.FrostScreenOpacity = {
+	type = double, min = 0.1, max = 1, default = 0.8,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenOpacity,
+}
+
+option ImmersiveSnow.FrostScreenFromLevel = {
+	type = integer, min = 1, max = 4, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenFromLevel,
+}
+
+option ImmersiveSnow.FrostScreenComeSeconds = {
+	type = double, min = 1, max = 120, default = 12,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenComeSeconds,
+}
+
+option ImmersiveSnow.FrostScreenGoSeconds = {
+	type = double, min = 1, max = 300, default = 30,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenGoSeconds,
+}
+
+option ImmersiveSnow.FrostScreenShiver = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenShiver,
+}
+
+option ImmersiveSnow.FrostScreenShiverLevel = {
+	type = integer, min = 1, max = 4, default = 2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FrostScreenShiverLevel,
+}
+
+option ImmersiveSnow.VehicleFrost = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleFrost,
+}
+
+option ImmersiveSnow.VehicleFrostHours = {
+	type = double, min = 0.25, max = 24, default = 3,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleFrostHours,
+}
+
+option ImmersiveSnow.VehicleFrostHeaterMinutes = {
+	type = double, min = 1, max = 120, default = 10,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleFrostHeaterMinutes,
+}
+
+option ImmersiveSnow.VehicleFrostMeltHours = {
+	type = double, min = 0.25, max = 24, default = 2.5,
+	page = ImmersiveSnow, translation = ImmersiveSnow_VehicleFrostMeltHours,
+}
+
+option ImmersiveSnow.DriftingSnow = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_DriftingSnow,
+}
+
+option ImmersiveSnow.DriftingSnowWind = {
+	type = double, min = 5, max = 100, default = 25,
+	page = ImmersiveSnow, translation = ImmersiveSnow_DriftingSnowWind,
+}
+
+option ImmersiveSnow.DriftingSnowAmount = {
+	type = double, min = 0.1, max = 3, default = 1,
+	page = ImmersiveSnow, translation = ImmersiveSnow_DriftingSnowAmount,
+}
+
+option ImmersiveSnow.FireThaw = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FireThaw,
+}
+
+option ImmersiveSnow.FireThawHours = {
+	type = double, min = 0.25, max = 24, default = 2,
+	page = ImmersiveSnow, translation = ImmersiveSnow_FireThawHours,
+}
+
+option ImmersiveSnow.TrampledPaths = {
+	type = boolean, default = true,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TrampledPaths,
+}
+
+option ImmersiveSnow.TrampledPathSteps = {
+	type = integer, min = 3, max = 100, default = 12,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TrampledPathSteps,
+}
+
+option ImmersiveSnow.TrampledPathHours = {
+	type = double, min = 1, max = 336, default = 48,
+	page = ImmersiveSnow, translation = ImmersiveSnow_TrampledPathHours,
+}

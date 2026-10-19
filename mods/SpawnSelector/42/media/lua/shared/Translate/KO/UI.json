@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "여기에서 산란하세요",
+    "UI_SpawnSelector_DetailedMap": "상세지도",
+    "UI_SpawnSelector_StandardMap": "표준 지도",
+    "UI_SpawnSelector_RandomSpawn": "무작위 생성",
+    "UI_SpawnSelector_RandomBuilding": "무작위 건물",
+    "UI_SpawnSelector_CoordinateTooltip": "정확한 스폰 좌표를 입력하세요",
+    "UI_SpawnSelector_SetPin": "PIN 설정",
+    "UI_SpawnSelector_Key": "열쇠",
+    "UI_SpawnSelector_CloseKey": "닫기 키",
+    "UI_SpawnSelector_ErrorWholeNumbers": "X, Y, Z에 유효한 정수를 입력하세요.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "입력한 X 또는 Y 좌표가 지원되는 범위를 벗어났습니다.",
+    "UI_SpawnSelector_ErrorZRange": "Z는 %1와 %2 사이에 있어야 합니다.",
+    "UI_SpawnSelector_LayerWarning": "레이어 선택은 생성 Z 레벨만 변경합니다. <LINE> 지도에는 여전히 1층 레이아웃이 표시됩니다. <LINE>존재하지 않는 레벨을 선택하면 안전하지 않거나 유효하지 않은 생성이 발생할 수 있습니다.",
+    "UI_SpawnSelector_RandomConfirm": "확실합니까? 우리는 정말로 무작위라는 뜻입니다. <LINE>당신은 어디에나 나타날 수 있습니다.",
+    "UI_SpawnSelector_ErrorRandomLocation": "유효한 임의 위치를 ​​찾을 수 없습니다. 다시 시도해 주세요.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "무작위 생성 위치 선택...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "완전히 무작위 건물 내부에서 스폰되나요? <LINE> 검색하는 데 몇 분 정도 걸릴 수 있습니다.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "임의의 건물을 찾을 수 없습니다. 다시 시도해 주세요.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "임의의 건물을 검색 중입니다...",
+    "UI_SpawnSelector_ErrorDeathZone": "마지막으로 죽은 곳 근처에서는 생성될 수 없습니다. 빨간색 원 밖의 위치를 ​​선택합니다.",
+    "UI_SpawnSelector_Title": "생성 위치를 선택하세요",
+    "UI_SpawnSelector_Instructions": "선택하려면 클릭하세요. 드래그하여 팬하세요. 확대/축소하려면 마우스 휠을 사용하세요.",
+    "UI_SpawnSelector_Selected": "선택됨: %1, %2 - 시작하려면 여기에서 생성을 클릭하세요.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "프로젝트 인디애나 확장 감지됨",
+    "UI_SpawnSelector_Credit": "N3WO가 사랑을 담아 제작했습니다.",
+    "UI_SpawnSelector_ErrorRandomBuilding": "여러 위치를 확인해도 임의의 건물을 찾을 수 없습니다. 다시 시도해 주세요.",
+    "UI_SpawnSelector_ErrorLayerRange": "선택한 생성 레이어가 지원되는 범위를 벗어났습니다.",
+    "UI_SpawnSelector_ErrorNoFloor": "해당 위치와 레이어에는 유효한 층이 없습니다. 다른 레이어나 위치를 선택하세요.",
+    "UI_SpawnSelector_ErrorWater": "선택한 위치는 물입니다. 단단한 땅 위의 위치를 ​​선택하십시오.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "이 건물 유형은 서버에서 생성되지 않습니다. 다른 위치를 선택하세요.",
+    "UI_SpawnSelector_ErrorSafehouse": "다른 플레이어의 은신처 내부에서는 생성될 수 없습니다.",
+    "UI_SpawnSelector_ErrorFloorLoad": "해당 위치에는 유효한 바닥을 로드할 수 없습니다. 다른 레이어나 위치를 선택하세요.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "이 건물 유형은 생성이 비활성화되어 있습니다. 다른 위치를 선택하세요.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "POI 추가",
+    "UI_SpawnSelector_POINamePrompt": "POI 이름을 입력하세요(선택 사항):",
+    "UI_SpawnSelector_POILocationPrompt": "마을 또는 지역을 입력하세요:",
+    "UI_SpawnSelector_POINotesPrompt": "유용한 메모를 입력하세요(선택 사항):",
+    "UI_SpawnSelector_POIRecorded": "POI가 %1, %2, %3에 기록되었습니다."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "기록된 POI 표시"
+    ,"UI_SpawnSelector_POITypeFishingStore": "낚시용품점"
+    ,"UI_SpawnSelector_POITypeHairSalon": "미용실"
+    ,"UI_SpawnSelector_CustomPOI": "사용자 지정 POI"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "사용자 지정 POI 이름을 입력하세요:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "주유소"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "백화점"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "전자제품점"
+    ,"UI_SpawnSelector_POITypeClothingStore": "의류점"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "가구점"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "보석점"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "스포츠용품점"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "자동차 부품점"
+    ,"UI_SpawnSelector_POITypeCandyStore": "사탕 가게"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "아웃도어용품점"
+    ,"UI_SpawnSelector_POITypeComicStore": "만화책방"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "웨딩용품점"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "담배 가게"
+    ,"UI_SpawnSelector_POITypeFlorist": "꽃집"
+    ,"UI_SpawnSelector_POITypePetStore": "애완동물 가게"
+    ,"UI_SpawnSelector_POITypeBagStore": "가방 가게"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "조적용품점"
+    ,"UI_SpawnSelector_POITypeClockRepair": "시계 수리점"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "구두 수선점"
+    ,"UI_SpawnSelector_POITypeSewingStore": "재봉용품점"
+    ,"UI_SpawnSelector_POITypeGiftStore": "선물 가게"
+    ,"UI_SpawnSelector_POIRoomCentre": "방 중앙"
+    ,"UI_SpawnSelector_POIBuildingCentre": "건물 중앙"
+}

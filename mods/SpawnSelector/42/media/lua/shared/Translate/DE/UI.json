@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "HIER SPAWN",
+    "UI_SpawnSelector_DetailedMap": "DETAILLIERTE KARTE",
+    "UI_SpawnSelector_StandardMap": "STANDARDKARTE",
+    "UI_SpawnSelector_RandomSpawn": "ZUFÄLLIGES SPAWN",
+    "UI_SpawnSelector_RandomBuilding": "ZUFÄLLIGES GEBÄUDE",
+    "UI_SpawnSelector_CoordinateTooltip": "Geben Sie die genauen Spawn-Koordinaten ein",
+    "UI_SpawnSelector_SetPin": "PIN EINSTELLEN",
+    "UI_SpawnSelector_Key": "SCHLÜSSEL",
+    "UI_SpawnSelector_CloseKey": "SCHLIEßTASTE",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Geben Sie gültige ganze Zahlen für X, Y und Z ein.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Die eingegebene X- oder Y-Koordinate liegt außerhalb des unterstützten Bereichs.",
+    "UI_SpawnSelector_ErrorZRange": "Z muss zwischen %1 und %2 liegen.",
+    "UI_SpawnSelector_LayerWarning": "Durch die Ebenenauswahl wird nur die Spawn-Z-Ebene geändert.<LINE>Die Karte zeigt immer noch das Layout des Erdgeschosses.<LINE>Die Auswahl einer Ebene, die nicht existiert, kann zu einem unsicheren oder ungültigen Spawn führen.",
+    "UI_SpawnSelector_RandomConfirm": "Bist du sicher? Wir meinen wirklich zufällig.<LINE>Sie könnten überall auftauchen.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Es konnte kein gültiger Zufallsort gefunden werden. Bitte versuchen Sie es erneut.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Einen zufälligen Spawn-Ort auswählen...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "In einem völlig zufälligen Gebäude spawnen?<LINE>Die Suche kann einige Momente dauern.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Es konnte kein zufälliges Gebäude gefunden werden. Bitte versuchen Sie es erneut.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Auf der Suche nach einem zufälligen Gebäude...",
+    "UI_SpawnSelector_ErrorDeathZone": "Du kannst nicht in der Nähe des Ortes spawnen, an dem du zuletzt gestorben bist. Wählen Sie einen Ort außerhalb des roten Kreises.",
+    "UI_SpawnSelector_Title": "WÄHLEN SIE IHREN SPAWN-STANDORT",
+    "UI_SpawnSelector_Instructions": "Klicken Sie zum Auswählen. Zum Schwenken ziehen. Verwenden Sie zum Zoomen das Mausrad.",
+    "UI_SpawnSelector_Selected": "Ausgewählt: %1, %2 – Klicken Sie auf „SPAWN HIER“, um zu beginnen.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Erweiterung des Projekts Indiana erkannt",
+    "UI_SpawnSelector_Credit": "Mit Liebe gemacht von N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Nach Überprüfung vieler Standorte konnte kein zufälliges Gebäude gefunden werden. Bitte versuchen Sie es erneut.",
+    "UI_SpawnSelector_ErrorLayerRange": "Die ausgewählte Spawn-Ebene liegt außerhalb des unterstützten Bereichs.",
+    "UI_SpawnSelector_ErrorNoFloor": "An dieser Position und auf dieser Ebene ist keine gültige Etage vorhanden. Wählen Sie eine andere Ebene oder Position.",
+    "UI_SpawnSelector_ErrorWater": "Der ausgewählte Standort ist Wasser. Wählen Sie einen Standort auf festem Untergrund.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Dieser Gebäudetyp ist für das Spawnen durch den Server deaktiviert. Wählen Sie einen anderen Standort.",
+    "UI_SpawnSelector_ErrorSafehouse": "Sie können nicht im Safehouse eines anderen Spielers spawnen.",
+    "UI_SpawnSelector_ErrorFloorLoad": "An diesem Standort konnte keine gültige Etage geladen werden. Wählen Sie eine andere Ebene oder Position.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Dieser Gebäudetyp ist für das Spawnen deaktiviert. Wählen Sie einen anderen Standort.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "POI hinzufügen",
+    "UI_SpawnSelector_POINamePrompt": "Namen des POI eingeben (optional):",
+    "UI_SpawnSelector_POILocationPrompt": "Stadt oder Gebiet eingeben:",
+    "UI_SpawnSelector_POINotesPrompt": "Nützliche Hinweise eingeben (optional):",
+    "UI_SpawnSelector_POIRecorded": "POI bei %1, %2, %3 erfasst."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Erfasste POIs anzeigen"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Angelgeschäft"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Friseursalon"
+    ,"UI_SpawnSelector_CustomPOI": "Benutzerdefinierter POI"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Namen des benutzerdefinierten POI eingeben:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Tankstelle"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Kaufhaus"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektronikgeschäft"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Bekleidungsgeschäft"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Möbelgeschäft"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Juwelier"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sportgeschäft"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Autoteilegeschäft"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Süßwarengeschäft"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Outdoor-Ausrüster"
+    ,"UI_SpawnSelector_POITypeComicStore": "Comicbuchladen"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Brautmodengeschäft"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tabakladen"
+    ,"UI_SpawnSelector_POITypeFlorist": "Blumengeschäft"
+    ,"UI_SpawnSelector_POITypePetStore": "Tierhandlung"
+    ,"UI_SpawnSelector_POITypeBagStore": "Taschengeschäft"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Baustoffhandel für Mauerwerk"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Uhrenreparatur"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Schuhreparatur"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Nähgeschäft"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Geschenkeladen"
+    ,"UI_SpawnSelector_POIRoomCentre": "Raummitte"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Gebäudemitte"
+}

@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "Strewberrie",
+    "UI_SpawnSelector_DetailedMap": "Strewberrie",
+    "UI_SpawnSelector_StandardMap": "Strewberrie",
+    "UI_SpawnSelector_RandomSpawn": "Strewberrie",
+    "UI_SpawnSelector_RandomBuilding": "Strewberrie",
+    "UI_SpawnSelector_CoordinateTooltip": "Strewberrie",
+    "UI_SpawnSelector_SetPin": "Strewberrie",
+    "UI_SpawnSelector_Key": "Strewberrie",
+    "UI_SpawnSelector_CloseKey": "Strewberrie",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Strewberrie",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Strewberrie",
+    "UI_SpawnSelector_ErrorZRange": "Strewberrie %1 Strewberrie %2.",
+    "UI_SpawnSelector_LayerWarning": "Strewberrie.<LINE>Strewberrie.<LINE>Strewberrie.",
+    "UI_SpawnSelector_RandomConfirm": "Strewberrie.<LINE>Strewberrie.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Strewberrie",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Strewberrie",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Strewberrie.<LINE>Strewberrie.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Strewberrie",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Strewberrie",
+    "UI_SpawnSelector_ErrorDeathZone": "Strewberrie",
+    "UI_SpawnSelector_Title": "Strewberrie",
+    "UI_SpawnSelector_Instructions": "Strewberrie",
+    "UI_SpawnSelector_Selected": "Strewberrie %1 Strewberrie %2.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Strewberrie",
+    "UI_SpawnSelector_Credit": "Strewberrie N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Strewberrie",
+    "UI_SpawnSelector_ErrorLayerRange": "Strewberrie",
+    "UI_SpawnSelector_ErrorNoFloor": "Strewberrie",
+    "UI_SpawnSelector_ErrorWater": "Strewberrie",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Strewberrie",
+    "UI_SpawnSelector_ErrorSafehouse": "Strewberrie",
+    "UI_SpawnSelector_ErrorFloorLoad": "Strewberrie",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Strewberrie",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Add POI",
+    "UI_SpawnSelector_POINamePrompt": "Enter the POI name (optional):",
+    "UI_SpawnSelector_POILocationPrompt": "Enter the town or area:",
+    "UI_SpawnSelector_POINotesPrompt": "Enter any useful notes (optional):",
+    "UI_SpawnSelector_POIRecorded": "POI recorded at %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Show mapped POIs"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Fishing Store"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Hair Salon"
+    ,"UI_SpawnSelector_CustomPOI": "Custom POI"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Enter the custom POI name:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Fuel Station"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Department Store"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Electronics Store"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Clothing Store"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Furniture Store"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Jewelry Store"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sporting Goods Store"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Auto Parts Store"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Candy Store"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Outdoor Supply Store"
+    ,"UI_SpawnSelector_POITypeComicStore": "Comic Book Store"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Wedding Store"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tobacco Store"
+    ,"UI_SpawnSelector_POITypeFlorist": "Florist"
+    ,"UI_SpawnSelector_POITypePetStore": "Pet Store"
+    ,"UI_SpawnSelector_POITypeBagStore": "Bag Store"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Masonry Supply Store"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Clock Repair Shop"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Shoe Repair Shop"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Sewing Store"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Gift Store"
+    ,"UI_SpawnSelector_POIRoomCentre": "Room middly"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Buildin middly"
+}

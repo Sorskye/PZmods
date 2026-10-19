@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blocca la generazione vicino alla posizione della morte",
+    "Sandbox_DeathZoneEnabled_tooltip": "Impedisce a un giocatore di usare Spawn Selector per rientrare vicino al punto in cui è morto il personaggio precedente, rendendo più difficile recuperare immediatamente l'equipaggiamento perduto con un nuovo personaggio.",
+    "Sandbox_DeathZoneRadius": "Raggio del blocco (piastrelle)",
+    "Sandbox_DeathZoneRadius_tooltip": "Quanto lontano, nelle tessere, si estende la zona di non spawn intorno al luogo della morte di un giocatore.",
+    "Sandbox_DeathZoneDurationHours": "Durata del blocco (ore reali)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Quante ore nel mondo reale dura il blocco dopo la morte. Impostato su 0 per bloccare l'area in modo permanente.",
+    "Sandbox_AllowWeaponsMilitary": "Consenti la generazione nelle armi e negli edifici militari",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Negozi di armi, poligoni di tiro, depositi di eccedenze dell'esercito e altri edifici militari. Deseleziona per impedire a Spawn Selector di posizionare i giocatori al loro interno.",
+    "Sandbox_AllowMedical": "Consenti la generazione negli edifici medici",
+    "Sandbox_AllowMedical_tooltip": "Ospedali, studi medici, dentisti, farmacie, case di cura e laboratori.",
+    "Sandbox_AllowLawEnforcement": "Consenti la deposizione delle uova negli edifici delle forze dell'ordine",
+    "Sandbox_AllowLawEnforcement_tooltip": "Stazioni di polizia, carceri e vigili del fuoco.",
+    "Sandbox_AllowRetailShops": "Consenti la generazione nei negozi",
+    "Sandbox_AllowRetailShops_tooltip": "Magazzini generali, centri commerciali, negozi di abbigliamento, negozi di elettronica, stazioni di servizio e altri negozi al dettaglio.",
+    "Sandbox_AllowFoodDrink": "Consenti la deposizione delle uova nei ristoranti e nei bar",
+    "Sandbox_AllowFoodDrink_tooltip": "Ristoranti, caffè, bar, panetterie e altri luoghi di ristorazione.",
+    "Sandbox_AllowIndustrial": "Consenti la deposizione delle uova negli edifici industriali",
+    "Sandbox_AllowIndustrial_tooltip": "Fabbriche, magazzini e unità di stoccaggio.",
+    "Sandbox_AllowResidentialLodging": "Consenti la deposizione delle uova nelle case e negli alloggi",
+    "Sandbox_AllowResidentialLodging_tooltip": "Case, motel, hotel e parcheggi per roulotte.",
+    "Sandbox_AllowCivicPublic": "Consenti la generazione negli edifici civici e pubblici",
+    "Sandbox_AllowCivicPublic_tooltip": "Chiese, scuole, biblioteche, uffici e uffici postali.",
+    "Sandbox_AllowRecreation": "Consenti la deposizione delle uova negli edifici ricreativi",
+    "Sandbox_AllowRecreation_tooltip": "Palestre, teatri, piste da bowling, piscine e altri luoghi di intrattenimento.",
+    "Sandbox_GiveBuildingKey": "Dai al giocatore una chiave per il suo edificio di spawn",
+    "Sandbox_GiveBuildingKey_tooltip": "Se l'edificio in cui un giocatore rientra ha una serratura, forniscigli automaticamente una chiave corrispondente in modo che non sia chiuso dentro o fuori dal proprio edificio iniziale."
+    ,"Sandbox_ShowPOIs": "Mostra punti di interesse"
+    ,"Sandbox_ShowPOIs_tooltip": "Mostra i punti di interesse contrassegnati sulla mappa di selezione del punto di comparsa. Deseleziona per nascondere ai giocatori il pulsante e tutti gli indicatori."
+}

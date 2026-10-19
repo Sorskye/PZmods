@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Estä syntyminen kuolinpaikan lähelle",
+    "Sandbox_DeathZoneEnabled_tooltip": "Estää pelaajaa käyttämästä Spawn Selector:tä palatakseen takaisin lähelle paikkaa, jossa heidän edellinen hahmonsa kuoli, mikä vaikeuttaa kadonneiden varusteiden palauttamista välittömästi uudella hahmolla.",
+    "Sandbox_DeathZoneRadius": "Lohkon säde (laatat)",
+    "Sandbox_DeathZoneRadius_tooltip": "Kuinka pitkälle laatoissa no-spawn-alue ulottuu pelaajan kuolemanpaikan ympärille.",
+    "Sandbox_DeathZoneDurationHours": "Eston kesto (todelliset tunnit)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Kuinka monta reaalimaailman tuntia lohko kestää kuoleman jälkeen. Aseta arvoksi 0 estääksesi alueen pysyvästi.",
+    "Sandbox_AllowWeaponsMilitary": "Salli kuteminen ase- ja sotilasrakennuksissa",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Asekaupat, ampumaradat, armeijan ylijäämävarastot ja muut sotilasrakennukset. Poista valinta estääksesi Spawn Selector:n sijoittamasta pelaajia näiden sisään.",
+    "Sandbox_AllowMedical": "Salli kutu lääketieteellisissä rakennuksissa",
+    "Sandbox_AllowMedical_tooltip": "Sairaalat, lääkärit, hammaslääkärit, apteekit, hoitokodit ja laboratoriot.",
+    "Sandbox_AllowLawEnforcement": "Salli kuteminen lainvalvontarakennuksissa",
+    "Sandbox_AllowLawEnforcement_tooltip": "Poliisiasemat, vankilat ja paloasemat.",
+    "Sandbox_AllowRetailShops": "Salli kuteminen kaupoissa",
+    "Sandbox_AllowRetailShops_tooltip": "Tavaraliikkeet, ostoskeskukset, vaateliikkeet, elektroniikkaliikkeet, huoltoasemat ja muut vähittäiskaupat.",
+    "Sandbox_AllowFoodDrink": "Salli kutu ravintoloissa ja baareissa",
+    "Sandbox_AllowFoodDrink_tooltip": "Ravintolat, kahvilat, baarit, leipomot ja muut ruoka- ja juomapaikat.",
+    "Sandbox_AllowIndustrial": "Salli kutu teollisuusrakennuksissa",
+    "Sandbox_AllowIndustrial_tooltip": "Tehtaat, varastot ja varastot.",
+    "Sandbox_AllowResidentialLodging": "Salli kuteminen kodeissa ja majoituksessa",
+    "Sandbox_AllowResidentialLodging_tooltip": "Talot, motellit, hotellit ja asuntovaunualueet.",
+    "Sandbox_AllowCivicPublic": "Salli kutu yhteiskunnallisissa ja julkisissa rakennuksissa",
+    "Sandbox_AllowCivicPublic_tooltip": "Kirkot, koulut, kirjastot, toimistot ja postit.",
+    "Sandbox_AllowRecreation": "Salli kutu virkistysrakennuksissa",
+    "Sandbox_AllowRecreation_tooltip": "Kuntosalit, teatterit, keilaradat, uima-altaat ja muut viihdepaikat.",
+    "Sandbox_GiveBuildingKey": "Anna pelaajalle avain heidän spawn-rakennukseensa",
+    "Sandbox_GiveBuildingKey_tooltip": "Jos rakennuksessa, johon pelaaja syntyy, on lukko, anna hänelle automaattisesti vastaava avain, jotta hän ei lukitu sisään tai ulos omasta aloitusrakennuksestaan."
+    ,"Sandbox_ShowPOIs": "Näytä kiinnostavat kohteet"
+    ,"Sandbox_ShowPOIs_tooltip": "Näyttää merkityt kiinnostavat kohteet aloituspaikan valintakartalla. Poista valinta piilottaaksesi painikkeen ja kaikki merkinnät pelaajilta."
+}

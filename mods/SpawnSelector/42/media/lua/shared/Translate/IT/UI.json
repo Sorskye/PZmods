@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "GENERARE QUI",
+    "UI_SpawnSelector_DetailedMap": "MAPPA DETTAGLIATA",
+    "UI_SpawnSelector_StandardMap": "MAPPA STANDARD",
+    "UI_SpawnSelector_RandomSpawn": "GENERAZIONE CASUALE",
+    "UI_SpawnSelector_RandomBuilding": "COSTRUZIONE CASUALE",
+    "UI_SpawnSelector_CoordinateTooltip": "Inserisci le coordinate esatte di spawn",
+    "UI_SpawnSelector_SetPin": "IMPOSTA IL PIN",
+    "UI_SpawnSelector_Key": "CHIAVE",
+    "UI_SpawnSelector_CloseKey": "CHIUDI CHIAVE",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Inserisci numeri interi validi per X, Y e Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "La coordinata X o Y inserita non rientra nell'intervallo supportato.",
+    "UI_SpawnSelector_ErrorZRange": "Z deve essere compreso tra %1 e %2.",
+    "UI_SpawnSelector_LayerWarning": "La selezione del livello modifica solo il livello Z di spawn.<LINE>La mappa mostra ancora il layout del piano terra.<LINE>Selezionare un livello che non esiste può causare uno spawn non sicuro o non valido.",
+    "UI_SpawnSelector_RandomConfirm": "Sei sicuro? Intendiamo davvero casuale.<LINE>Potresti apparire ovunque.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Impossibile trovare una posizione casuale valida. Per favore riprova.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Scelta di una posizione di spawn casuale...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Spawn all'interno di un edificio completamente casuale?<LINE>La ricerca potrebbe richiedere alcuni istanti.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Non è stato possibile trovare un edificio casuale. Per favore riprova.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Alla ricerca di un edificio a caso...",
+    "UI_SpawnSelector_ErrorDeathZone": "Non puoi spawnare così vicino a dove sei morto l'ultima volta. Scegli una posizione fuori dal cerchio rosso.",
+    "UI_SpawnSelector_Title": "SELEZIONA LA TUA POSIZIONE DI SPAWN",
+    "UI_SpawnSelector_Instructions": "Fare clic per selezionare. Trascina per eseguire la panoramica. Utilizzare la rotellina del mouse per ingrandire.",
+    "UI_SpawnSelector_Selected": "Selezionato: %1, %2 - Fai clic su SPAWN QUI per iniziare.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Rilevata espansione del Progetto Indiana",
+    "UI_SpawnSelector_Credit": "Realizzato con amore da N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Non è stato possibile trovare un edificio casuale dopo aver controllato molte posizioni. Per favore riprova.",
+    "UI_SpawnSelector_ErrorLayerRange": "Il livello di spawn selezionato non rientra nell'intervallo supportato.",
+    "UI_SpawnSelector_ErrorNoFloor": "Non esiste alcun piano valido in quella posizione e livello. Scegli un altro livello o posizione.",
+    "UI_SpawnSelector_ErrorWater": "La posizione selezionata è l'acqua. Scegli una posizione su un terreno solido.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Questo tipo di edificio è disabilitato per la generazione dal server. Scegli un'altra posizione.",
+    "UI_SpawnSelector_ErrorSafehouse": "Non puoi spawnare all'interno del rifugio di un altro giocatore.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Nessun piano valido può essere caricato in quella posizione. Scegli un altro livello o posizione.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Questo tipo di edificio è disabilitato per la generazione. Scegli un'altra posizione.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Aggiungi punto di interesse",
+    "UI_SpawnSelector_POINamePrompt": "Inserisci il nome del punto di interesse (facoltativo):",
+    "UI_SpawnSelector_POILocationPrompt": "Inserisci la città o la zona:",
+    "UI_SpawnSelector_POINotesPrompt": "Inserisci eventuali note utili (facoltativo):",
+    "UI_SpawnSelector_POIRecorded": "Punto di interesse registrato alle coordinate %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Mostra i punti di interesse registrati"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Negozio di pesca"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Salone da parrucchiere"
+    ,"UI_SpawnSelector_CustomPOI": "Punto di interesse personalizzato"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Inserisci il nome del punto di interesse personalizzato:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Stazione di servizio"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Grande magazzino"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Negozio di elettronica"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Negozio di abbigliamento"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Negozio di mobili"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Gioielleria"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Negozio di articoli sportivi"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Negozio di ricambi auto"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Negozio di dolciumi"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Negozio di articoli per attività all'aperto"
+    ,"UI_SpawnSelector_POITypeComicStore": "Negozio di fumetti"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Negozio di abiti da cerimonia"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tabaccheria"
+    ,"UI_SpawnSelector_POITypeFlorist": "Fioraio"
+    ,"UI_SpawnSelector_POITypePetStore": "Negozio di animali"
+    ,"UI_SpawnSelector_POITypeBagStore": "Negozio di borse"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Negozio di materiali per muratura"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Riparazione di orologi"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Calzolaio"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Negozio di articoli per cucito"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Negozio di articoli da regalo"
+    ,"UI_SpawnSelector_POIRoomCentre": "Centro della stanza"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Centro dell'edificio"
+}

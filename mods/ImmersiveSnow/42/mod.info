@@ -1,0 +1,8 @@
+name=Immersive Snow
+id=ImmersiveSnow
+description=Footprints and tire tracks in the snow left by players, zombies and vehicles, snow building up on vehicles (vanilla and modded) and on clothes, and clothes getting wet from snow. All options are on the Immersive Snow sandbox page; the same settings are in Options > Mods for each player, also for an existing save. Works with existing saves.
+author=kurmetov
+modversion=0.5.2
+versionMin=42.20
+poster=poster.png
+icon=icon.png

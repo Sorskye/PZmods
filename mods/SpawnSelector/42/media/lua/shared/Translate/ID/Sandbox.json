@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "Blokir Pemijahan Dekat Lokasi Kematian",
+    "Sandbox_DeathZoneEnabled_tooltip": "Menghentikan pemain menggunakan Spawn Selector untuk muncul kembali di dekat tempat matinya karakter sebelumnya, sehingga lebih sulit untuk segera mendapatkan kembali perlengkapan yang hilang dengan karakter baru.",
+    "Sandbox_DeathZoneRadius": "Blok Radius (ubin)",
+    "Sandbox_DeathZoneRadius_tooltip": "Seberapa jauh, dalam ubin, zona larangan bertelur meluas di sekitar lokasi kematian pemain.",
+    "Sandbox_DeathZoneDurationHours": "Durasi Blokir (jam dunia nyata)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "Berapa jam di dunia nyata blok tersebut bertahan setelah kematian. Setel ke 0 untuk memblokir area tersebut secara permanen.",
+    "Sandbox_AllowWeaponsMilitary": "Izinkan Pemijahan di Bangunan Senjata & Militer",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "Gudang senjata, lapangan tembak, gudang kelebihan tentara, dan bangunan militer lainnya. Hapus centang untuk menghentikan Spawn Selector menempatkan pemain di dalamnya.",
+    "Sandbox_AllowMedical": "Izinkan Pemijahan di Gedung Medis",
+    "Sandbox_AllowMedical_tooltip": "Rumah Sakit, kantor dokter, dokter gigi, apotek, panti jompo dan laboratorium.",
+    "Sandbox_AllowLawEnforcement": "Izinkan Pemijahan di Gedung Penegakan Hukum",
+    "Sandbox_AllowLawEnforcement_tooltip": "Kantor polisi, penjara dan stasiun pemadam kebakaran.",
+    "Sandbox_AllowRetailShops": "Izinkan Pemijahan di Toko",
+    "Sandbox_AllowRetailShops_tooltip": "Toko umum, mall, toko pakaian, toko elektronik, SPBU, dan toko retail lainnya.",
+    "Sandbox_AllowFoodDrink": "Izinkan Pemijahan di Restoran & Bar",
+    "Sandbox_AllowFoodDrink_tooltip": "Restoran, kafe, bar, toko roti, dan tempat makan dan minum lainnya.",
+    "Sandbox_AllowIndustrial": "Izinkan Pemijahan di Gedung Industri",
+    "Sandbox_AllowIndustrial_tooltip": "Pabrik, gudang dan unit penyimpanan.",
+    "Sandbox_AllowResidentialLodging": "Izinkan Pemijahan di Rumah & Penginapan",
+    "Sandbox_AllowResidentialLodging_tooltip": "Rumah, motel, hotel, dan taman trailer.",
+    "Sandbox_AllowCivicPublic": "Izinkan Pemijahan di Gedung Sipil & Umum",
+    "Sandbox_AllowCivicPublic_tooltip": "Gereja, sekolah, perpustakaan, kantor dan kantor pos.",
+    "Sandbox_AllowRecreation": "Izinkan Pemijahan di Gedung Rekreasi",
+    "Sandbox_AllowRecreation_tooltip": "Pusat kebugaran, teater, arena bowling, kolam renang, dan tempat hiburan lainnya.",
+    "Sandbox_GiveBuildingKey": "Berikan Pemain Kunci ke Gedung Pemijahannya",
+    "Sandbox_GiveBuildingKey_tooltip": "Jika bangunan tempat pemain muncul memiliki kunci, secara otomatis berikan mereka kunci yang cocok sehingga mereka tidak terkunci di dalam atau di luar bangunan awal mereka sendiri."
+    ,"Sandbox_ShowPOIs": "Tampilkan lokasi menarik"
+    ,"Sandbox_ShowPOIs_tooltip": "Menampilkan lokasi menarik yang ditandai pada peta pemilihan lokasi spawn. Nonaktifkan untuk menyembunyikan tombol dan semua penanda dari pemain."
+}

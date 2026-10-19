@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPANN HIER",
+    "UI_SpawnSelector_DetailedMap": "GEDETAILLEERDE KAART",
+    "UI_SpawnSelector_StandardMap": "STANDAARD KAART",
+    "UI_SpawnSelector_RandomSpawn": "WILLEKEURIGE SPAWN",
+    "UI_SpawnSelector_RandomBuilding": "WILLEKEURIG GEBOUW",
+    "UI_SpawnSelector_CoordinateTooltip": "Voer exacte spawn-coördinaten in",
+    "UI_SpawnSelector_SetPin": "PIN-code instellen",
+    "UI_SpawnSelector_Key": "SLEUTEL",
+    "UI_SpawnSelector_CloseKey": "SLUIT SLEUTEL",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Voer geldige gehele getallen in voor X, Y en Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "De ingevoerde X- of Y-coördinaat ligt buiten het ondersteunde bereik.",
+    "UI_SpawnSelector_ErrorZRange": "Z moet tussen %1 en %2 liggen.",
+    "UI_SpawnSelector_LayerWarning": "Door laagselectie wordt alleen het Z-niveau van de spawn gewijzigd.<LINE>De kaart toont nog steeds de lay-out van de begane grond.<LINE>Het selecteren van een niveau dat niet bestaat, kan een onveilige of ongeldige spawn veroorzaken.",
+    "UI_SpawnSelector_RandomConfirm": "Weet je het zeker? We bedoelen eigenlijk willekeurig.<LINE>Je kunt overal verschijnen.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Er kon geen geldige willekeurige locatie worden gevonden. Probeer het opnieuw.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Een willekeurige spawnlocatie kiezen...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Spawnen in een compleet willekeurig gebouw?<LINE>Het zoeken kan even duren.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Er kon geen willekeurig gebouw worden gevonden. Probeer het opnieuw.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Op zoek naar een willekeurig gebouw...",
+    "UI_SpawnSelector_ErrorDeathZone": "Je kunt niet zo dichtbij spawnen waar je voor het laatst stierf. Kies een locatie buiten de rode cirkel.",
+    "UI_SpawnSelector_Title": "SELECTEER UW SPAWN-LOCATIE",
+    "UI_SpawnSelector_Instructions": "Klik om te selecteren. Sleep om te pannen. Gebruik het muiswiel om te zoomen.",
+    "UI_SpawnSelector_Selected": "Geselecteerd: %1, %2 - Klik HIER SPAWN om te beginnen.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Uitbreiding van Project Indiana gedetecteerd",
+    "UI_SpawnSelector_Credit": "Met liefde gemaakt door N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Na het controleren van veel locaties kon een willekeurig gebouw niet worden gevonden. Probeer het opnieuw.",
+    "UI_SpawnSelector_ErrorLayerRange": "De geselecteerde spawn-laag valt buiten het ondersteunde bereik.",
+    "UI_SpawnSelector_ErrorNoFloor": "Er bestaat geen geldige verdieping op die locatie en laag. Kies een andere laag of positie.",
+    "UI_SpawnSelector_ErrorWater": "De geselecteerde locatie is water. Kies een positie op vaste grond.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Dit gebouwtype is uitgeschakeld voor spawning door de server. Kies een andere locatie.",
+    "UI_SpawnSelector_ErrorSafehouse": "Je kunt niet spawnen in het safehouse van een andere speler.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Op die locatie kon geen geldige vloer worden geladen. Kies een andere laag of positie.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Dit gebouwtype is uitgeschakeld voor spawnen. Kies een andere locatie.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "POI toevoegen",
+    "UI_SpawnSelector_POINamePrompt": "Voer de naam van de POI in (optioneel):",
+    "UI_SpawnSelector_POILocationPrompt": "Voer de plaats of het gebied in:",
+    "UI_SpawnSelector_POINotesPrompt": "Voer nuttige opmerkingen in (optioneel):",
+    "UI_SpawnSelector_POIRecorded": "POI vastgelegd op %1, %2, %3."
+    ,"UI_SpawnSelector_POITypeFuelStation": "Tankstation"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Warenhuis"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektronicawinkel"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Kledingwinkel"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Meubelwinkel"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Juwelier"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Vastgelegde POI's tonen"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sportwinkel"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Hengelsportwinkel"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Kapsalon"
+    ,"UI_SpawnSelector_CustomPOI": "Aangepaste POI"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Voer de naam van de aangepaste POI in:"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Auto-onderdelenwinkel"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Snoepwinkel"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Outdoorwinkel"
+    ,"UI_SpawnSelector_POITypeComicStore": "Stripboekenwinkel"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Bruidswinkel"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tabakswinkel"
+    ,"UI_SpawnSelector_POITypeFlorist": "Bloemist"
+    ,"UI_SpawnSelector_POITypePetStore": "Dierenwinkel"
+    ,"UI_SpawnSelector_POITypeBagStore": "Tassenwinkel"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Metselbenodigdhedenwinkel"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Klokkenmaker"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Schoenmaker"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Naaibenodigdhedenwinkel"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Cadeauwinkel"
+    ,"UI_SpawnSelector_POIRoomCentre": "Midden van de ruimte"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Midden van het gebouw"
+}

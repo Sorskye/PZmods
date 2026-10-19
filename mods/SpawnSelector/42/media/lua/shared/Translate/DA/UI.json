@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPAWN HER",
+    "UI_SpawnSelector_DetailedMap": "DETALJERET KORT",
+    "UI_SpawnSelector_StandardMap": "STANDARDKORT",
+    "UI_SpawnSelector_RandomSpawn": "TILFÆLDIG UDVIKLING",
+    "UI_SpawnSelector_RandomBuilding": "TILFÆLDIG BYGNING",
+    "UI_SpawnSelector_CoordinateTooltip": "Indtast nøjagtige spawn-koordinater",
+    "UI_SpawnSelector_SetPin": "INSTIL PIN-kode",
+    "UI_SpawnSelector_Key": "NØGLE",
+    "UI_SpawnSelector_CloseKey": "LUK NØGLE",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Indtast gyldige hele tal for X, Y og Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Den indtastede X- eller Y-koordinat er uden for det understøttede område.",
+    "UI_SpawnSelector_ErrorZRange": "Z skal være mellem %1 og %2.",
+    "UI_SpawnSelector_LayerWarning": "Lagvalg ændrer kun spawn Z-niveauet.<LINE>Kortet viser stadig stueetagens layout.<LINE>Valg af et niveau, der ikke eksisterer, kan forårsage en usikker eller ugyldig spawn.",
+    "UI_SpawnSelector_RandomConfirm": "Er du sikker? Vi mener virkelig tilfældigt.<LINE>Du kan dukke op hvor som helst.",
+    "UI_SpawnSelector_ErrorRandomLocation": "En gyldig tilfældig placering kunne ikke findes. Prøv venligst igen.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Vælger en tilfældig spawn-placering...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Spawn inde i en fuldstændig tilfældig bygning?<LINE>Søgningen kan tage et øjeblik.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "En tilfældig bygning kunne ikke findes. Prøv venligst igen.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Søger efter en tilfældig bygning...",
+    "UI_SpawnSelector_ErrorDeathZone": "Du kan ikke spawne så tæt på, hvor du sidst døde. Vælg en placering uden for den røde cirkel.",
+    "UI_SpawnSelector_Title": "VÆLG DIN SPAWN-PLACERING",
+    "UI_SpawnSelector_Instructions": "Klik for at vælge. Træk for at panorere. Brug musehjulet til at zoome.",
+    "UI_SpawnSelector_Selected": "Valgt: %1, %2 - Klik SPAWN HER for at begynde.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Projekt Indiana-udvidelse opdaget",
+    "UI_SpawnSelector_Credit": "Lavet med kærlighed af N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "En tilfældig bygning kunne ikke findes efter at have kontrolleret mange steder. Prøv venligst igen.",
+    "UI_SpawnSelector_ErrorLayerRange": "Det valgte spawn-lag er uden for det understøttede område.",
+    "UI_SpawnSelector_ErrorNoFloor": "Der findes ikke et gyldigt gulv på det sted og det pågældende lag. Vælg et andet lag eller en anden position.",
+    "UI_SpawnSelector_ErrorWater": "Den valgte placering er vand. Vælg en position på fast grund.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Denne bygningstype er deaktiveret for spawning af serveren. Vælg en anden placering.",
+    "UI_SpawnSelector_ErrorSafehouse": "Du kan ikke spawne inde i en anden spillers safehouse.",
+    "UI_SpawnSelector_ErrorFloorLoad": "Ingen gyldig etage kunne indlæses på det sted. Vælg et andet lag eller en anden position.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Denne bygningstype er deaktiveret for gydning. Vælg en anden placering.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Tilføj interessepunkt",
+    "UI_SpawnSelector_POINamePrompt": "Indtast interessepunktets navn (valgfrit):",
+    "UI_SpawnSelector_POILocationPrompt": "Indtast by eller område:",
+    "UI_SpawnSelector_POINotesPrompt": "Indtast nyttige noter (valgfrit):",
+    "UI_SpawnSelector_POIRecorded": "Interessepunkt registreret ved %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Vis registrerede interessepunkter"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Fiskebutik"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Frisørsalon"
+    ,"UI_SpawnSelector_CustomPOI": "Brugerdefineret interessepunkt"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Indtast navnet på det brugerdefinerede interessepunkt:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Tankstation"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Stormagasin"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Elektronikbutik"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Tøjbutik"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Møbelbutik"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Smykkebutik"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sportsbutik"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Autoreservedelsbutik"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Slikbutik"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Friluftsbutik"
+    ,"UI_SpawnSelector_POITypeComicStore": "Tegneseriebutik"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Bryllupsbutik"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Tobaksbutik"
+    ,"UI_SpawnSelector_POITypeFlorist": "Blomsterbutik"
+    ,"UI_SpawnSelector_POITypePetStore": "Dyrehandel"
+    ,"UI_SpawnSelector_POITypeBagStore": "Taskebutik"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Murerbutik"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Urmager"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Skomager"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Sybutik"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Gavebutik"
+    ,"UI_SpawnSelector_POIRoomCentre": "Rummets midte"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Bygningens midte"
+}

@@ -1,0 +1,7 @@
+name=Spawn Selector
+poster=poster.png
+icon=icon.png
+id=SpawnSelector
+description=Choose any mapped location after creating a character.
+modversion=1.0.0
+versionMin=42.20.0

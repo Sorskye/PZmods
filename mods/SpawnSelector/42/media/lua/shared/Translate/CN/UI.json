@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "在这里生成",
+    "UI_SpawnSelector_DetailedMap": "详细地图",
+    "UI_SpawnSelector_StandardMap": "标准地图",
+    "UI_SpawnSelector_RandomSpawn": "随机生成",
+    "UI_SpawnSelector_RandomBuilding": "随机建造",
+    "UI_SpawnSelector_CoordinateTooltip": "输入准确的生成坐标",
+    "UI_SpawnSelector_SetPin": "设置密码",
+    "UI_SpawnSelector_Key": "钥匙",
+    "UI_SpawnSelector_CloseKey": "关闭键",
+    "UI_SpawnSelector_ErrorWholeNumbers": "输入 X、Y 和 Z 的有效整数。",
+    "UI_SpawnSelector_ErrorCoordinateRange": "输入的 X 或 Y 坐标超出支持的范围。",
+    "UI_SpawnSelector_ErrorZRange": "Z 必须位于 %1 和 %2 之间。",
+    "UI_SpawnSelector_LayerWarning": "图层选择仅更改生成的 Z 级别。<LINE> 地图仍显示底层布局。<LINE> 选择不存在的级别可能会导致不安全或无效的生成。",
+    "UI_SpawnSelector_RandomConfirm": "你确定吗？我们真正的意思是随机的。<LINE>你可以出现在任何地方。",
+    "UI_SpawnSelector_ErrorRandomLocation": "无法找到有效的随机位置。请再试一次。",
+    "UI_SpawnSelector_ChoosingRandomLocation": "选择随机生成位置...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "在完全随机的建筑物内生成？<LINE>搜索可能需要一些时间。",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "无法找到随机建筑物。请再试一次。",
+    "UI_SpawnSelector_SearchingRandomBuilding": "搜索随机建筑物...",
+    "UI_SpawnSelector_ErrorDeathZone": "你不能在离你上次死亡的地方这么近的地方出生。选择红圈外的位置。",
+    "UI_SpawnSelector_Title": "选择您的生成位置",
+    "UI_SpawnSelector_Instructions": "单击以选择。拖动进行平移。使用鼠标滚轮进行缩放。",
+    "UI_SpawnSelector_Selected": "已选择：%1、%2 - 单击“在此生成”开始。",
+    "UI_SpawnSelector_ProjectIndianaDetected": "检测到印第安纳项目扩建",
+    "UI_SpawnSelector_Credit": "N3WO 用爱制作",
+    "UI_SpawnSelector_ErrorRandomBuilding": "检查了很多位置后都找不到随机建筑物。请再试一次。",
+    "UI_SpawnSelector_ErrorLayerRange": "所选的生成层超出了支持的范围。",
+    "UI_SpawnSelector_ErrorNoFloor": "该位置和图层不存在有效楼层。选择另一个图层或位置。",
+    "UI_SpawnSelector_ErrorWater": "选定的位置是水。在坚实的地面上选择一个位置。",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "服务器禁止生成此建筑类型。选择另一个位置。",
+    "UI_SpawnSelector_ErrorSafehouse": "你不能在其他玩家的安全屋内生成。",
+    "UI_SpawnSelector_ErrorFloorLoad": "无法在该位置加载有效楼层。选择另一个图层或位置。",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "该建筑类型无法生成。选择另一个位置。",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "添加兴趣点",
+    "UI_SpawnSelector_POINamePrompt": "输入兴趣点名称（可选）：",
+    "UI_SpawnSelector_POILocationPrompt": "输入城镇或区域：",
+    "UI_SpawnSelector_POINotesPrompt": "输入有用的备注（可选）：",
+    "UI_SpawnSelector_POIRecorded": "已记录位于 %1、%2、%3 的兴趣点。"
+    ,"UI_SpawnSelector_ShowMappedPOIs": "显示已记录的兴趣点"
+    ,"UI_SpawnSelector_POITypeFishingStore": "钓鱼用品店"
+    ,"UI_SpawnSelector_POITypeHairSalon": "美发沙龙"
+    ,"UI_SpawnSelector_CustomPOI": "自定义兴趣点"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "输入自定义兴趣点的名称："
+    ,"UI_SpawnSelector_POITypeFuelStation": "加油站"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "百货商店"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "电子产品店"
+    ,"UI_SpawnSelector_POITypeClothingStore": "服装店"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "家具店"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "珠宝店"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "体育用品店"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "汽车配件店"
+    ,"UI_SpawnSelector_POITypeCandyStore": "糖果店"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "户外用品店"
+    ,"UI_SpawnSelector_POITypeComicStore": "漫画店"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "婚礼服饰店"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "烟草店"
+    ,"UI_SpawnSelector_POITypeFlorist": "花店"
+    ,"UI_SpawnSelector_POITypePetStore": "宠物店"
+    ,"UI_SpawnSelector_POITypeBagStore": "箱包店"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "砌筑材料店"
+    ,"UI_SpawnSelector_POITypeClockRepair": "钟表维修店"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "修鞋店"
+    ,"UI_SpawnSelector_POITypeSewingStore": "缝纫用品店"
+    ,"UI_SpawnSelector_POITypeGiftStore": "礼品店"
+    ,"UI_SpawnSelector_POIRoomCentre": "房间中心"
+    ,"UI_SpawnSelector_POIBuildingCentre": "建筑中心"
+}

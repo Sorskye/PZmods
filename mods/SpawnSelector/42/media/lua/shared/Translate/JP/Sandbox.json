@@ -1,0 +1,31 @@
+{
+    "Sandbox_SpawnSelector": "Spawn Selector",
+    "Sandbox_DeathZoneEnabled": "死の近くにブロックがスポーンする場所",
+    "Sandbox_DeathZoneEnabled_tooltip": "プレイヤーが Spawn Selector を使用して前のキャラクターが死亡した場所の近くにスポーンするのを阻止し、新しいキャラクターで失われた装備をすぐに取り戻すことが難しくなります。",
+    "Sandbox_DeathZoneRadius": "ブロック半径 (タイル)",
+    "Sandbox_DeathZoneRadius_tooltip": "プレイヤーの死亡場所の周囲にスポーン禁止ゾーンがどれだけの範囲 (タイル単位) で広がるか。",
+    "Sandbox_DeathZoneDurationHours": "ブロック期間 (実際の時間)",
+    "Sandbox_DeathZoneDurationHours_tooltip": "死後ブロックが現実世界で何時間持続するか。エリアを永久にブロックするには、0 に設定します。",
+    "Sandbox_AllowWeaponsMilitary": "武器や軍事施設でのスポーンを許可する",
+    "Sandbox_AllowWeaponsMilitary_tooltip": "銃砲店、射撃場、軍需品店、その他の軍事施設。 Spawn Selector がこれらの中にプレイヤーを配置しないようにするには、チェックを外します。",
+    "Sandbox_AllowMedical": "医療建物内でのスポーンを許可する",
+    "Sandbox_AllowMedical_tooltip": "病院、診療所、歯科医、薬局、老人ホーム、研究室。",
+    "Sandbox_AllowLawEnforcement": "法執行機関の建物内でのスポーンを許可する",
+    "Sandbox_AllowLawEnforcement_tooltip": "警察署、刑務所、消防署。",
+    "Sandbox_AllowRetailShops": "ショップでのスポーンを許可する",
+    "Sandbox_AllowRetailShops_tooltip": "雑貨店、ショッピングモール、衣料品店、電気店、ガソリンスタンド、その他の小売店。",
+    "Sandbox_AllowFoodDrink": "レストランとバーでのスポーンを許可する",
+    "Sandbox_AllowFoodDrink_tooltip": "レストラン、カフェ、バー、ベーカリー、その他の飲食店。",
+    "Sandbox_AllowIndustrial": "工業用建物でのスポーンを許可する",
+    "Sandbox_AllowIndustrial_tooltip": "工場、倉庫、保管ユニット。",
+    "Sandbox_AllowResidentialLodging": "家や宿泊施設でのスポーンを許可する",
+    "Sandbox_AllowResidentialLodging_tooltip": "住宅、モーテル、ホテル、トレーラーパーク。",
+    "Sandbox_AllowCivicPublic": "市民および公共の建物でのスポーンを許可する",
+    "Sandbox_AllowCivicPublic_tooltip": "教会、学校、図書館、オフィス、郵便局。",
+    "Sandbox_AllowRecreation": "レクリエーション建物でのスポーンを許可する",
+    "Sandbox_AllowRecreation_tooltip": "ジム、劇場、ボーリング場、プール、その他の娯楽施設。",
+    "Sandbox_GiveBuildingKey": "プレイヤーにスポーン建物への鍵を与える",
+    "Sandbox_GiveBuildingKey_tooltip": "プレイヤーがスポーンする建物に鍵がある場合、それに対応する鍵が自動的に与えられるため、プレイヤーは自分の開始建物に出入りできなくなります。"
+    ,"Sandbox_ShowPOIs": "注目地点を表示"
+    ,"Sandbox_ShowPOIs_tooltip": "スポーン地点選択マップに登録済みの注目地点を表示します。無効にすると、プレイヤーにはボタンとすべてのマーカーが表示されません。"
+}

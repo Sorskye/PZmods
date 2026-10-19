@@ -1,0 +1,69 @@
+{
+    "UI_SpawnSelector_SpawnHere": "SPAWN TUTAJ",
+    "UI_SpawnSelector_DetailedMap": "SZCZEGÓŁOWA MAPA",
+    "UI_SpawnSelector_StandardMap": "STANDARDOWA MAPA",
+    "UI_SpawnSelector_RandomSpawn": "Losowe pojawienie się",
+    "UI_SpawnSelector_RandomBuilding": "BUDYNEK LOSOWY",
+    "UI_SpawnSelector_CoordinateTooltip": "Wprowadź dokładne współrzędne odrodzenia",
+    "UI_SpawnSelector_SetPin": "USTAW PIN",
+    "UI_SpawnSelector_Key": "KLAWISZ",
+    "UI_SpawnSelector_CloseKey": "ZAMKNIJ KLUCZ",
+    "UI_SpawnSelector_ErrorWholeNumbers": "Wprowadź prawidłowe liczby całkowite dla X, Y i Z.",
+    "UI_SpawnSelector_ErrorCoordinateRange": "Wprowadzona współrzędna X lub Y jest poza obsługiwanym zakresem.",
+    "UI_SpawnSelector_ErrorZRange": "Z musi znajdować się pomiędzy %1 i %2.",
+    "UI_SpawnSelector_LayerWarning": "Wybór warstwy zmienia tylko poziom punktu odrodzenia Z.<LINE> Mapa nadal pokazuje układ parteru.<LINE>Wybranie poziomu, który nie istnieje, może spowodować niebezpieczne lub nieprawidłowe spawnowanie.",
+    "UI_SpawnSelector_RandomConfirm": "Czy jesteś pewien? Naprawdę mamy na myśli losowość.<LINE>Możesz pojawić się wszędzie.",
+    "UI_SpawnSelector_ErrorRandomLocation": "Nie można znaleźć prawidłowej losowej lokalizacji. Spróbuj ponownie.",
+    "UI_SpawnSelector_ChoosingRandomLocation": "Wybieranie losowego miejsca odrodzenia...",
+    "UI_SpawnSelector_RandomBuildingConfirm": "Odrodzić się w całkowicie losowym budynku?<LINE>Wyszukiwanie może zająć kilka chwil.",
+    "UI_SpawnSelector_ErrorRandomBuildingShort": "Nie udało się znaleźć losowego budynku. Spróbuj ponownie.",
+    "UI_SpawnSelector_SearchingRandomBuilding": "Wyszukiwanie przypadkowego budynku...",
+    "UI_SpawnSelector_ErrorDeathZone": "Nie możesz odrodzić się tak blisko miejsca, w którym ostatnio umarłeś. Wybierz lokalizację poza czerwonym kółkiem.",
+    "UI_SpawnSelector_Title": "WYBIERZ LOKALIZACJĘ SPAWNU",
+    "UI_SpawnSelector_Instructions": "Kliknij, aby wybrać. Przeciągnij, aby przesunąć. Użyj kółka myszy, aby powiększyć.",
+    "UI_SpawnSelector_Selected": "Wybrane: %1, %2 - Kliknij SPAWN TUTAJ, aby rozpocząć.",
+    "UI_SpawnSelector_ProjectIndianaDetected": "Wykryto ekspansję Projektu Indiana",
+    "UI_SpawnSelector_Credit": "Wykonane z miłością przez N3WO",
+    "UI_SpawnSelector_ErrorRandomBuilding": "Po sprawdzeniu wielu lokalizacji nie udało się znaleźć losowego budynku. Spróbuj ponownie.",
+    "UI_SpawnSelector_ErrorLayerRange": "Wybrana warstwa odradzania znajduje się poza obsługiwanym zakresem.",
+    "UI_SpawnSelector_ErrorNoFloor": "W tej lokalizacji i warstwie nie istnieje żadne prawidłowe piętro. Wybierz inną warstwę lub pozycję.",
+    "UI_SpawnSelector_ErrorWater": "Wybraną lokalizacją jest woda. Wybierz pozycję na twardym podłożu.",
+    "UI_SpawnSelector_ErrorBuildingDisabledServer": "Ten typ budynku jest wyłączony przez serwer. Wybierz inną lokalizację.",
+    "UI_SpawnSelector_ErrorSafehouse": "Nie możesz odrodzić się w kryjówce innego gracza.",
+    "UI_SpawnSelector_ErrorFloorLoad": "W tej lokalizacji nie można załadować żadnego prawidłowego piętra. Wybierz inną warstwę lub pozycję.",
+    "UI_SpawnSelector_ErrorBuildingDisabled": "Ten typ budynku jest wyłączony ze spawnowania. Wybierz inną lokalizację.",
+    "UI_SpawnSelector_POIs": "POIs",
+    "UI_SpawnSelector_AddPOI": "Dodaj punkt zainteresowania",
+    "UI_SpawnSelector_POINamePrompt": "Wpisz nazwę punktu zainteresowania (opcjonalnie):",
+    "UI_SpawnSelector_POILocationPrompt": "Wpisz miejscowość lub obszar:",
+    "UI_SpawnSelector_POINotesPrompt": "Wpisz przydatne uwagi (opcjonalnie):",
+    "UI_SpawnSelector_POIRecorded": "Punkt zainteresowania zapisano na pozycji %1, %2, %3."
+    ,"UI_SpawnSelector_ShowMappedPOIs": "Pokaż zapisane punkty zainteresowania"
+    ,"UI_SpawnSelector_POITypeFishingStore": "Sklep wędkarski"
+    ,"UI_SpawnSelector_POITypeHairSalon": "Salon fryzjerski"
+    ,"UI_SpawnSelector_CustomPOI": "Niestandardowy punkt zainteresowania"
+    ,"UI_SpawnSelector_CustomPOINamePrompt": "Wpisz nazwę niestandardowego punktu zainteresowania:"
+    ,"UI_SpawnSelector_POITypeFuelStation": "Stacja benzynowa"
+    ,"UI_SpawnSelector_POITypeDepartmentStore": "Dom towarowy"
+    ,"UI_SpawnSelector_POITypeElectronicsStore": "Sklep elektroniczny"
+    ,"UI_SpawnSelector_POITypeClothingStore": "Sklep odzieżowy"
+    ,"UI_SpawnSelector_POITypeFurnitureStore": "Sklep meblowy"
+    ,"UI_SpawnSelector_POITypeJewelryStore": "Sklep jubilerski"
+    ,"UI_SpawnSelector_POITypeSportingGoodsStore": "Sklep sportowy"
+    ,"UI_SpawnSelector_POITypeAutoPartsStore": "Sklep z częściami samochodowymi"
+    ,"UI_SpawnSelector_POITypeCandyStore": "Sklep ze słodyczami"
+    ,"UI_SpawnSelector_POITypeOutdoorSupplyStore": "Sklep turystyczny"
+    ,"UI_SpawnSelector_POITypeComicStore": "Sklep z komiksami"
+    ,"UI_SpawnSelector_POITypeWeddingStore": "Sklep ślubny"
+    ,"UI_SpawnSelector_POITypeTobaccoStore": "Sklep tytoniowy"
+    ,"UI_SpawnSelector_POITypeFlorist": "Kwiaciarnia"
+    ,"UI_SpawnSelector_POITypePetStore": "Sklep zoologiczny"
+    ,"UI_SpawnSelector_POITypeBagStore": "Sklep z torbami"
+    ,"UI_SpawnSelector_POITypeMasonrySupplyStore": "Sklep z materiałami murarskimi"
+    ,"UI_SpawnSelector_POITypeClockRepair": "Naprawa zegarów"
+    ,"UI_SpawnSelector_POITypeShoeRepair": "Naprawa obuwia"
+    ,"UI_SpawnSelector_POITypeSewingStore": "Sklep z artykułami do szycia"
+    ,"UI_SpawnSelector_POITypeGiftStore": "Sklep z upominkami"
+    ,"UI_SpawnSelector_POIRoomCentre": "Środek pomieszczenia"
+    ,"UI_SpawnSelector_POIBuildingCentre": "Środek budynku"
+}
