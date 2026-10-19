@@ -1,0 +1,6 @@
+Tooltip_ES = {
+  Tooltip_GTR_Day   = "dia",
+  Tooltip_GTR_Days  = "dias",
+  Tooltip_GTR_Hour  = "hora",
+  Tooltip_GTR_Hours = "horas",
+}

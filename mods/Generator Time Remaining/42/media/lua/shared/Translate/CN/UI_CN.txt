@@ -1,0 +1,4 @@
+UI_CN = {
+  UI_GTR_Options_ReqLevel = "需要电工等级",
+  UI_GTR_Options_Convert = "转换为现实时间"
+}

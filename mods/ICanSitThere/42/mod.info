@@ -1,9 +1,0 @@
-name=I Can Sit There
-id=ICanSitThere
-description=Fixes the bug where right-click > Rest refuses to path you to a couch, chair, or bed because a coffee table or other movable clutter is sitting on the tile you'd need to stand on to reach it, and the bug where getting back up out of a bed or seat pushed against a wall leaves you stuck with nowhere to walk. Real walls, doors, windows, stairs, and trees still block you exactly like before -- this only stops ordinary furniture from getting in the way. Requires ZombieBuddy.
-require=\ZombieBuddy
-javaJarFile=media/java/ICanSitThere.jar
-javaPkgName=com.pzmod.icansitthere
-pzversion=42.20.3
-versionMin=42.20
-modversion=1.1.1

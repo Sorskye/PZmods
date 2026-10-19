@@ -1,4 +1,0 @@
-UI_RU = {
-  UI_GTR_Options_ReqLevel = "Требуется уровень навыка электроники",
-  UI_GTR_Options_Convert  = "Перевести в реальное время"
-}

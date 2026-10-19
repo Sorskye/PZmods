@@ -1,3 +1,0 @@
-require "Items/SuburbsDistributions"
-
-WeaponUpgrades = {}

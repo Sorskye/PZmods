@@ -1,0 +1,4 @@
+UI_CH = {
+  UI_GTR_Options_ReqLevel = "需要電工等級",
+  UI_GTR_Options_Convert  = "轉換成現實時間"
+}

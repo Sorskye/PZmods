@@ -1,4 +1,0 @@
-UI_TR = {
-  UI_GTR_Options_ReqLevel  = "Gerekli Elektrik Seviyesi",
-  UI_GTR_Options_Convert   = "Gerçek Zamana Dönüþtür"
-}

@@ -1,0 +1,7 @@
+Tooltip_CH = {
+  Tooltip_GTR_Day     = "天",
+  Tooltip_GTR_Days    = "天",
+  Tooltip_GTR_Hour    = "小時",
+  Tooltip_GTR_Hours   = "小時",
+  Tooltip_GTR_Minutes = "分鐘"
+}

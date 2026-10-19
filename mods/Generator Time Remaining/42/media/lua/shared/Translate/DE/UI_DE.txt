@@ -1,0 +1,4 @@
+UI_DE = {
+  UI_GTR_Options_ReqLevel = "Elektroniklevel erforderlich",
+  UI_GTR_Options_Convert  = "In Echtzeit übersetzen"
+}
